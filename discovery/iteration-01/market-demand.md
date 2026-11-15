@@ -81,11 +81,11 @@ These are recorded as **research-derived hypotheses** until RankHero/Etsy search
 | ---------------------- | ---------------- | ----------- | ---------------------- | --------------------------------- |
 | `wedding invitation`   | \~301k           | \~930k      | \~$10                  | Broad benchmark                   |
 | `wedding invite`       | \~301k           | \~410k      | \~$8.99                | Selected for Etsy validation       |
-| `wedding invites`      | \~301k           | \~403k      | \~$8.88                | Selected for Etsy validation       |
+| `wedding invites`      | \~301k           | \~403k      | \~$8.88                | Alternative wedding phrasing       |
 | `birthday invitations` | \~90.5k          | \~1.24m     | \~$5.12                | Broad birthday benchmark          |
 | `birthday invites`     | \~90.5k          | \~917k      | \~$5.30                | Alternative phrasing              |
 | `bday invite`          | \~90.6k          | \~85.5k     | \~$7.20                | Large reported discrepancy; selected for Etsy validation |
-| `baby shower invites`  | \~40.5k          | \~259k      | \~$9.50                | Separate occasion benchmark       |
+| `baby shower invites`  | \~40.5k          | \~259k      | \~$9.50                | Separate occasion benchmark; selected for Etsy validation |
 
 
 **Important:** RankHero reports large competition differences between very similar phrases such as `birthday invites` and `bday invite`. Etsy Marketplace Insights can provide a direct comparison using Etsy's own recent search/listing data.
@@ -106,7 +106,7 @@ Useful discovered terms without complete metrics in the current public retrieval
 
 ---
 
-### Proposed Etsy Marketplace Insights searches
+### Selected Etsy Marketplace Insights searches
 
 1. `wedding invite`
 2. `bday invite`

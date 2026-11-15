@@ -79,7 +79,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 - Broad singles often screen at relatively modest prices despite very high demand.
 - Coordinated bundles can command materially higher prices and may improve average order value.
 - The unanswered question is **creation/support effort per theme** versus the revenue benefit of singles + bundles + matching items.
-- Observed prices from validated searches remain incomplete; direct inspection of a bundle can be used if listing/review evidence is insufficient.
+- Observed prices from the current screening remain incomplete.
 
 ### Café / Gastronomy / Bakery
 

@@ -55,7 +55,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Positive review findings:** product-specific review evidence currently captured for this listing is limited. Shop-level reputation is strong; suite-specific buyer feedback remains limited. [[38]](../../knowledge/references.md#ref-38), [[39]](../../knowledge/references.md#ref-39)
 
-**Critical review findings:** not yet collected. Evidence not yet collected includes complaints about editing friction, non-editable artwork, resizing, printing, instructions and export quality.
+**Critical review findings:** additional critical-review evidence has not yet been collected on editing friction, non-editable artwork, resizing, printing, instructions and export quality.
 
 **Exact evidence source:** shop [[38]](../../knowledge/references.md#ref-38); representative listing [[39]](../../knowledge/references.md#ref-39).
 
@@ -81,11 +81,11 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Positive review findings:** shop reviews observed in the current research emphasise fast access, quality and ease of customisation. These are **shop/review-page observations**, not a claim that every product has the same experience. [[35]](../../knowledge/references.md#ref-35)
 
-**Critical review findings:** not yet deliberately mined. The current sample does not yet include enough 1–3-star evidence on editing, mobile use, printing, instructions and support.
+**Critical review findings:** additional critical-review evidence has not yet been collected on editing, mobile use, printing, instructions and support.
 
 **Exact evidence source:** shop/review page [[35]](../../knowledge/references.md#ref-35); representative bundle [[40]](../../knowledge/references.md#ref-40).
 
-**What it teaches us:** buyer experience is part of the product: **attractive design + simple editing + fast access**. It also demonstrates how a seller can reuse an operating model across many party themes.
+**What it teaches us:** observed review evidence highlights **visual quality + ease of customisation + fast access**. The shop also demonstrates how one operating model can be reused across many party themes.
 
 **Hands-on research value:** **High/medium.** It provides a large standardised-bundle contrast against a smaller premium suite. A same-theme single invitation would add a direct single-vs-bundle comparison if one is identified.
 
@@ -107,11 +107,11 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Positive review findings:** reviews observed during research praise instant access, visual quality and delivered products matching listing imagery. These findings come from the public Etsy shop/review evidence. [[34]](../../knowledge/references.md#ref-34)
 
-**Critical review findings:** not yet deliberately mined. Evidence not yet collected includes cultural accuracy, language editing, mobile formatting, print quality and buyer-support issues.
+**Critical review findings:** additional critical-review evidence has not yet been collected on cultural accuracy, language editing, mobile formatting, print quality and buyer-support issues.
 
 **Exact evidence source:** shop/review page [[34]](../../knowledge/references.md#ref-34); specialist bundle [[41]](../../knowledge/references.md#ref-41).
 
-**What it teaches us:** a culturally specific buyer need may create a clearer value proposition than another generic invitation.
+**What it teaches us:** the shop documents a specialist proposition built around culturally specific events, language and print/mobile formats.
 
 **Hands-on research value:** **High as a specialist contrast.** The print/mobile format combination can provide evidence on whether format flexibility adds buyer value.
 
@@ -134,7 +134,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Positive review findings:** not yet product-specifically mined for these two listings.
 
-**Critical review findings:** not yet collected. Evidence not yet collected includes whether buyers experience the catalogue breadth as added value or as near-duplicate variation.
+**Critical review findings:** additional critical-review evidence has not yet been collected on whether buyers experience catalogue breadth as added value or near-duplicate variation.
 
 **Exact evidence source:** shop [[42]](../../knowledge/references.md#ref-42); listings [[43]](../../knowledge/references.md#ref-43), [[44]](../../knowledge/references.md#ref-44).
 
@@ -148,17 +148,17 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Shop:** [DigitalbloomInvite on Etsy](https://www.etsy.com/shop/DigitalbloomInvite) [[36]](../../knowledge/references.md#ref-36)
 
-**Why selected:** retained from the original study as a smaller/lower-price contrast. It is not a core search-derived competitor, and that distinction matters.
+**Why selected:** retained from the original study as a smaller/lower-price contrast. It is not a core search-derived competitor.
 
 **Relevant offering:** editable Canva party invitations across birthdays, baby showers and other celebrations.
 
-**Representative product(s):** the current shop page exposes multiple low-price editable invitation examples; we have **not yet selected one listing as a research-purchase candidate**. [[36]](../../knowledge/references.md#ref-36)
+**Representative product(s):** the current shop page exposes multiple low-price editable invitation examples; **no specific representative listing has been selected**. [[36]](../../knowledge/references.md#ref-36)
 
 **Price / format / bundle:** the Nov. 2026 public shop snapshot shows many single digital invitations using aggressive discounting, with visible sale prices around US$0.88–1.46 on several listings versus higher struck-through prices. These are a **dated shop snapshot**, not a stable price assumption. [[36]](../../knowledge/references.md#ref-36)
 
 **Positive review findings:** current public reviews repeatedly mention easy editing/navigation, attractive design and value. These are shop-review findings, not a manually exhaustive review analysis. [[36]](../../knowledge/references.md#ref-36)
 
-**Critical review findings:** not yet deliberately mined.
+**Critical review findings:** additional critical-review evidence has not yet been collected.
 
 **Exact evidence source:** public shop and review page [[36]](../../knowledge/references.md#ref-36).
 
@@ -214,9 +214,9 @@ The current evidence contains many positive buyer signals and a smaller sample o
 
 **Price / format / bundle:** simple editable digital menu; current price snapshot not yet captured. [[48]](../../knowledge/references.md#ref-48)
 
-**Positive review findings:** **insufficient product-specific menu reviews currently captured**.
+**Positive review findings:** product-specific menu review evidence currently captured is limited.
 
-**Critical review findings:** insufficient product-specific evidence. Evidence not yet collected includes product-specific feedback on Canva editing, resizing, printing, readability, price updating, logo/image replacement, digital-screen use and instructions.
+**Critical review findings:** product-specific critical-review evidence has not yet been collected on Canva editing, resizing, printing, readability, price updating, logo/image replacement, digital-screen use and instructions.
 
 **Exact evidence source:** shop [[47]](../../knowledge/references.md#ref-47); menu listing [[48]](../../knowledge/references.md#ref-48).
 
@@ -242,11 +242,11 @@ The current evidence contains many positive buyer signals and a smaller sample o
 
 **Positive review findings:** shop/product-specific review sample remains limited in the current evidence.
 
-**Critical review findings:** not enough evidence yet.
+**Critical review findings:** product-specific critical-review evidence is currently limited.
 
 **Exact evidence source:** shop [[49]](../../knowledge/references.md#ref-49); representative listing [[50]](../../knowledge/references.md#ref-50).
 
-**What it teaches us:** tests whether **multiple layouts** create genuine value or merely increase file count.
+**What it teaches us:** provides a multi-layout offer for comparison with the focused-menu and broader business-resource models.
 
 **Hands-on research value:** **Medium/high** as a contrast to GraphiCarola and BizTemplateZone.
 
@@ -360,7 +360,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Positive review findings:** reviews for the Rosary resource mention easy printing, value of having everything on one sheet, usefulness for people returning to the Rosary, family/group use and easy download. A separate shop review records a bilingual family need: prayers known in Spanish but needed in English for Catholic-school context. [[59]](../../knowledge/references.md#ref-59), [[60]](../../knowledge/references.md#ref-60)
 
-**Critical review findings:** not yet systematically mined for this product.
+**Critical review findings:** additional critical-review evidence has not yet been collected for this product.
 
 **Exact evidence source:** shop/reviews [[59]](../../knowledge/references.md#ref-59); Rosary listing/reviews [[60]](../../knowledge/references.md#ref-60).
 
@@ -444,7 +444,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Positive review findings:** observed buyer comments mention easy downloads, attractive pages, variety, bold lines that help digital colouring and repeat purchases. One buyer states they own almost all of the seller's books. These are public shop/review observations. [[65]](../../knowledge/references.md#ref-65)
 
-**Critical review findings:** not yet deliberately mined. Evidence not yet collected includes complaints about line quality, resolution, printing, tablet compatibility, file organisation and repetitiveness.
+**Critical review findings:** additional critical-review evidence has not yet been collected on line quality, resolution, printing, tablet compatibility, file organisation and repetitiveness.
 
 **Exact evidence source:** shop/reviews [[65]](../../knowledge/references.md#ref-65); representative listing [[66]](../../knowledge/references.md#ref-66).
 
@@ -498,7 +498,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Positive review findings:** `Girl Moments` has a large review base. **Etsy's own AI review summary**, together with visible individual reviews, highlights print quality, quick/easy download, ease of use, attractive drawings and shared/social colouring enjoyment. We are explicitly treating the AI summary as an Etsy-generated synthesis, not as our manual reading of all reviews. [[71]](../../knowledge/references.md#ref-71)
 
-**Critical review findings:** not yet deliberately mined. The current sample does not yet include enough 1–3-star evidence on resolution, line quality, printing, tablet use, style consistency and whether products feel repetitive.
+**Critical review findings:** additional critical-review evidence has not yet been collected on resolution, line quality, printing, tablet use, style consistency and whether products feel repetitive.
 
 **Exact evidence source:** shop [[70]](../../knowledge/references.md#ref-70); `Girl Moments` listing/reviews [[71]](../../knowledge/references.md#ref-71); `Spooky Cutie` [[72]](../../knowledge/references.md#ref-72).
 
