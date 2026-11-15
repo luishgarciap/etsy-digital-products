@@ -116,3 +116,111 @@ Sources are numbered in IEEE style. Official first-party sources are preferred f
 
 <a id="ref-37"></a>
 **[37]** ZenovaVibe, *Etsy Shop*, public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/ZenovaVibe)
+
+<a id="ref-38"></a>
+**[38]** Etsy, “InvitationDesignStd,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/InvitationDesignStd)
+
+<a id="ref-39"></a>
+**[39]** Etsy, “Luxury Burgundy Wedding Invitation Suite,” InvitationDesignStd, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/in-en/listing/4590477604/luxury-burgundy-wedding-invitation-suite)
+
+<a id="ref-40"></a>
+**[40]** Etsy, “Spooky One Birthday Bundle,” MirthlyStudio, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4350671765/spooky-one-birthday-bundle-halloween)
+
+<a id="ref-41"></a>
+**[41]** Etsy, “Sikh Wedding Invitation Set — Anand Karaj / Mehndi / Jago / Reception,” JoyablyStudio, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4538122436/sikh-wedding-invitation-set-anand-karaj)
+
+<a id="ref-42"></a>
+**[42]** Etsy, “AestheticGirlyy,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/AestheticGirlyy)
+
+<a id="ref-43"></a>
+**[43]** Etsy, “Dinosaur Birthday Invitation,” AestheticGirlyy, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4476747319/dinosaur-birthday-invitation-editable)
+
+<a id="ref-44"></a>
+**[44]** Etsy, “Santa Baby Shower Bundle,” AestheticGirlyy, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/ca/listing/1801121273/santa-baby-shower-bundle-christmas-baby)
+
+<a id="ref-45"></a>
+**[45]** Etsy, “BizTemplateZone,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/BizTemplateZone)
+
+<a id="ref-46"></a>
+**[46]** Etsy, “Coffee Menu Template / Cafe Price List,” BizTemplateZone, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1845225463/coffee-menu-template-editable-cafe-price)
+
+<a id="ref-47"></a>
+**[47]** Etsy, “GraphiCarola,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/GraphiCarola)
+
+<a id="ref-48"></a>
+**[48]** Etsy, “Coffee Menu / Coffee Shop Menu Template,” GraphiCarola, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1587765738/coffee-menu-coffee-shop-menu-template)
+
+<a id="ref-49"></a>
+**[49]** Etsy, “NayaLioraStudio,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/NayaLioraStudio)
+
+<a id="ref-50"></a>
+**[50]** Etsy, “Pink Matcha Menu / Price List Templates,” NayaLioraStudio, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4468584695/price-list-template-canva-minimalist)
+
+<a id="ref-51"></a>
+**[51]** Etsy, “DoodleSafari,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/DoodleSafari)
+
+<a id="ref-52"></a>
+**[52]** Etsy, “300+ Spanish Flashcards Bundle,” DoodleSafari, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1566158593/learning-spanish-bundle-300-spanish)
+
+<a id="ref-53"></a>
+**[53]** Etsy, “900+ Spanish Worksheets Bundle,” DoodleSafari, public listing/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/au/listing/1274697210/learning-spanish-bundle-900-spanish)
+
+<a id="ref-54"></a>
+**[54]** Etsy, “Homeschoolwithlizz,” public shop/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/Homeschoolwithlizz)
+
+<a id="ref-55"></a>
+**[55]** Etsy, “Spanish-English Flashcards for Kids,” Homeschoolwithlizz, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1514230515/spanish-flashcards-kids-spanish-words)
+
+<a id="ref-56"></a>
+**[56]** Etsy, “DigitalDoodlesToday,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/DigitalDoodlesToday)
+
+<a id="ref-57"></a>
+**[57]** Etsy, “Dutch Big Bundle,” DigitalDoodlesToday, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/ie/listing/1737832736/dutch-big-bundle-learn-dutch-dutch)
+
+<a id="ref-58"></a>
+**[58]** Etsy, “Russian Flashcards for Beginners,” DigitalDoodlesToday, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/il-en/listing/1738884486/russian-flashcards-for-beginners-russian)
+
+<a id="ref-59"></a>
+**[59]** Etsy, “AveliaCreative,” public shop/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/it/shop/AveliaCreative)
+
+<a id="ref-60"></a>
+**[60]** Etsy, “How to Pray the Rosary Guide,” AveliaCreative, public listing/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1415956417/how-to-pray-the-rosary-instant-download)
+
+<a id="ref-61"></a>
+**[61]** Etsy, “PrayerBoardShop,” public shop/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/uk/shop/PrayerBoardShop)
+
+<a id="ref-62"></a>
+**[62]** Etsy, “Prayer Board for Kids,” PrayerBoardShop, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1561394073/prayer-board-for-kids-christian-kids)
+
+<a id="ref-63"></a>
+**[63]** Etsy, “ProudPracticalPrints,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/ProudPracticalPrints)
+
+<a id="ref-64"></a>
+**[64]** Etsy, “Nativity Bingo — 50 cards,” ProudPracticalPrints, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1605073152/nativity-bingo-50-nativity-bingo-cards)
+
+<a id="ref-65"></a>
+**[65]** Etsy, “QuirkyFindsPH,” public shop/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/ca/shop/QuirkyFindsPH)
+
+<a id="ref-66"></a>
+**[66]** Etsy, “Cozy Room Coloring Book,” QuirkyFindsPH, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4610535810/cozy-room-coloring-book-nook-coloring)
+
+<a id="ref-67"></a>
+**[67]** Etsy, “KomfiKatColoring,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/shop/KomfiKatColoring)
+
+<a id="ref-68"></a>
+**[68]** Etsy, “Hobby Girl,” KomfiKatColoring, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/dk-en/listing/4472798201/hobby-girl-cute-and-cozy-coloring-book)
+
+<a id="ref-69"></a>
+**[69]** Etsy, “Honey Days,” KomfiKatColoring, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4559165353/honey-days-cute-and-cozy-coloring-book)
+
+<a id="ref-70"></a>
+**[70]** Etsy, “CocoWyoColoring,” public shop page, accessed Nov. 2026. [Open source](https://www.etsy.com/ie/shop/CocoWyoColoring)
+
+<a id="ref-71"></a>
+**[71]** Etsy, “Girl Moments,” CocoWyoColoring, public listing/review page, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1831007226/girl-moments-cute-cozy-daily-activities)
+
+<a id="ref-72"></a>
+**[72]** Etsy, “Spooky Cutie,” CocoWyoColoring, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/1763324670/spooky-cutie-adorable-creepy-creatures)
+
+<a id="ref-73"></a>
+**[73]** Etsy, “Miniature Coloring Book — 40 pages,” ZenovaVibe, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4613682367/miniature-coloring-book-pdf-tiny-craft)

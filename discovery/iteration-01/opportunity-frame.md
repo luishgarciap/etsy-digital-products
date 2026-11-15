@@ -82,6 +82,26 @@ Newer candidate directions include:
 Colouring is currently a broad production idea rather than a defined opportunity. It must be narrowed to a buyer, purpose and product format before fair comparison.
 
 
+## Working terminology
+
+Use these terms consistently so we do not confuse the unit being analysed:
+
+| Term | Meaning |
+|---|---|
+| **Search term / keyword** | Exact phrase a buyer may type into Etsy search |
+| **Seed** | Starting phrase used to discover other searches; not assumed to be attractive |
+| **Discovered search** | Search returned from a seed or another research source |
+| **Listing** | Individual Etsy sales page |
+| **Product** | What the buyer purchases through a listing |
+| **Bundle** | One listing containing several related files/items/templates |
+| **Product family** | Several separate products serving the same buyer need, theme or occasion |
+| **Candidate competitor** | Shop worth investigating further |
+| **Core competitor** | Shop that repeatedly appears or strongly represents a category |
+| **Specialist competitor** | Shop particularly strong in a meaningful sub-niche |
+| **Contrast case** | Shop/product useful for understanding a different strategy or what to avoid |
+
+**Rule:** use **product family** by default. Use *series* only when a seller explicitly has a named recurring sequence or volumes.
+
 ## Current maturity
 
 | Opportunity | What we know now | What is still missing |
