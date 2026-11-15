@@ -224,3 +224,46 @@ Sources are numbered in IEEE style. Official first-party sources are preferred f
 
 <a id="ref-73"></a>
 **[73]** Etsy, “Miniature Coloring Book — 40 pages,” ZenovaVibe, public listing, accessed Nov. 2026. [Open source](https://www.etsy.com/listing/4613682367/miniature-coloring-book-pdf-tiny-craft)
+
+<a id="ref-74"></a>
+**[74]** RankHero, “Wedding Invitation — Etsy Keyword Data & Market Analysis,” updated Oct. 24, 2026. [Open source](https://www.rankhero.com/keywords/wedding-invitation)
+
+<a id="ref-75"></a>
+**[75]** RankHero, “Wedding Invite — Etsy Keyword Data & Market Analysis,” updated Sep. 14, 2026. [Open source](https://www.rankhero.com/keywords/wedding-invite)
+
+<a id="ref-76"></a>
+**[76]** RankHero, “Wedding Invites — Etsy Keyword Data & Market Analysis,” updated Oct. 9, 2026. [Open source](https://www.rankhero.com/keywords/wedding-invites)
+
+<a id="ref-77"></a>
+**[77]** RankHero, “Birthday Invites — Etsy Keyword Data & Market Analysis,” updated Oct. 23, 2026. [Open source](https://www.rankhero.com/keywords/birthday-invites)
+
+<a id="ref-78"></a>
+**[78]** RankHero, “Bday Invite — Etsy Keyword Data & Market Analysis,” updated Mar. 9, 2026. [Open source](https://www.rankhero.com/keywords/bday-invite)
+
+<a id="ref-79"></a>
+**[79]** RankHero, “Baby Shower Invites — Etsy Keyword Data & Market Analysis,” updated Jan. 20, 2026. [Open source](https://www.rankhero.com/keywords/baby-shower-invites)
+
+<a id="ref-80"></a>
+**[80]** RankHero, “Spanish Alphabet — Etsy Keyword Data & Market Analysis,” updated Nov. 9, 2026. [Open source](https://www.rankhero.com/keywords/spanish-alphabet)
+
+<a id="ref-81"></a>
+**[81]** RankHero, “Catholic Prayer — Etsy Keyword Data & Market Analysis,” updated Mar. 7, 2026. [Open source](https://www.rankhero.com/keywords/catholic-prayer)
+
+<a id="ref-82"></a>
+**[82]** RankHero, “Prayer Cards — Etsy Keyword Data & Market Analysis,” updated Jun. 30, 2026. [Open source](https://www.rankhero.com/keywords/prayer-cards)
+
+<a id="ref-83"></a>
+**[83]** RankHero, “Bible Coloring Pages — Etsy Keyword Data & Market Analysis,” updated Aug. 23, 2026. [Open source](https://www.rankhero.com/keywords/bible-coloring-pages)
+
+<a id="ref-84"></a>
+**[84]** RankHero, “Cute Coloring Pages — Etsy Keyword Data & Market Analysis,” updated Aug. 28, 2026. [Open source](https://www.rankhero.com/keywords/cute-coloring-pages)
+
+<a id="ref-85"></a>
+**[85]** RankHero, “Cozy Coloring Book — Etsy Keyword Data & Market Analysis,” updated Oct. 6, 2026. [Open source](https://www.rankhero.com/keywords/cozy-coloring-book)
+
+<a id="ref-86"></a>
+**[86]** RankHero, “Printable Coloring Pages — Etsy Keyword Data & Market Analysis,” updated Oct. 14, 2026. [Open source](https://www.rankhero.com/keywords/printable-coloring-pages)
+
+<a id="ref-87"></a>
+**[87]** RankHero, “First Communion — Etsy Keyword Data & Market Analysis,” updated Feb. 18, 2026. [Open source](https://www.rankhero.com/keywords/first-communion)
+

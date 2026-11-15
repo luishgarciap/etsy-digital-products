@@ -8,11 +8,11 @@
 |---|---|
 | Insufficient or seasonal demand | Research searches and reviews before scaling; combine seasonal opportunities with evergreen products |
 | Competition based only on price | Compete through product usefulness, design, clearer editing, language/cultural fit and value bundles rather than undifferentiated files |
-| Licences, trademarks and AI-generated content | Create original work; check Etsy/Canva rules and disclose AI use where required |
-| Etsy fees and USD → BRL conversion | Record actual charges per order and verify real Payoneer withdrawal/FX costs |
-| Dependence on Etsy | Keep original product assets and retain Payhip as a possible second channel after validation |
+| Licences, trademarks and AI-generated content | Create original work; check Etsy/Canva rules and disclose AI use where required [[13]](references.md#ref-13) [[14]](references.md#ref-14) [[15]](references.md#ref-15) |
+| Etsy fees and USD → BRL conversion | Record actual charges per order and verify real Payoneer withdrawal/FX costs [[17]](references.md#ref-17) [[18]](references.md#ref-18) [[10]](references.md#ref-10) |
+| Dependence on Etsy | Keep original product assets and retain Payhip as a possible second channel after validation [[21]](references.md#ref-21) [[22]](references.md#ref-22) |
 | Tax / legal ownership | Confirm Brazilian legal/tax/banking structure before formal launch and scaling |
-| Platform policy changes | Re-check fees, payment rules and content policies before launch and when materially changed |
+| Platform policy changes | Re-check fees, payment rules and content policies before launch and when materially changed [[13]](references.md#ref-13) [[17]](references.md#ref-17) |
 | Large catalogue before evidence | Begin with a limited pilot; expand only after useful buyer evidence appears |
 | Paid advertising before product fit | Test product/listing/search fit before adding paid advertising |
 

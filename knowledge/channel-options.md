@@ -8,7 +8,7 @@
 
 **Etsy is the initial validation channel. Payhip remains a possible complementary channel.**
 
-The rationale is practical: Etsy provides marketplace search and an existing international buyer base, while Payhip is more useful when we can bring our own traffic through social media, contacts or a future website.
+The rationale is practical: Etsy provides marketplace search and an existing international buyer base, while Payhip is more useful when we can bring our own traffic through social media, contacts or a future website. [[3]](references.md#ref-3) [[4]](references.md#ref-4) [[6]](references.md#ref-6) [[22]](references.md#ref-22)
 
 ## Etsy vs Payhip
 

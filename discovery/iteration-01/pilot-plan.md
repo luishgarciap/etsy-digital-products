@@ -37,8 +37,8 @@ Final scope will be set in [pilot-decision.md](pilot-decision.md).
 
 Working budget assumption:
 
-- 15 listings → US$3 initial listing fees;
-- plus the Etsy setup fee shown at registration;
+- 15 listings → US$3 initial listing fees; [[17]](../../knowledge/references.md#ref-17)
+- plus the Etsy setup fee shown at registration; [[17]](../../knowledge/references.md#ref-17)
 - US$30–60 suggested ceiling for tools, small tests and contingencies;
 - paid advertising excluded initially.
 

@@ -8,7 +8,7 @@
 
 Etsy was founded in Brooklyn in 2005 and is headquartered in Brooklyn, New York. Etsy, Inc. is publicly traded on Nasdaq under the symbol `ETSY`. [[1]](references.md#ref-1) [[2]](references.md#ref-2)
 
-Etsy is a marketplace for unique and creative goods, including seller-designed digital products. Buyers search and purchase through the marketplace; individual sellers operate their own shops and remain responsible for their commercial results.
+Etsy is a marketplace for unique and creative goods, including seller-designed digital products. Buyers search and purchase through the marketplace; individual sellers operate their own shops and remain responsible for their commercial results. [[1]](references.md#ref-1) [[13]](references.md#ref-13)
 
 ### Current scale
 
@@ -45,7 +45,7 @@ A typical digital-product order follows this sequence:
 
 Etsy currently supports up to **five files of 20 MB each** on an instant-download listing. [[7]](references.md#ref-7)
 
-An editable product can be delivered through a PDF containing instructions and a link to an eligible Canva template. Manual personalisation after purchase adds production/support work and should be included in the product economics.
+An editable product can be delivered through a PDF containing instructions and a link to an eligible Canva template. [[7]](references.md#ref-7) [[15]](references.md#ref-15) Manual personalisation after purchase adds production/support work and should be included in the product economics.
 
 Etsy currently supports digital-download access through a mobile browser or computer rather than through the Etsy app. [[8]](references.md#ref-8)
 
@@ -74,7 +74,7 @@ Sellers currently receive **15 free keyword searches per week**. [[11]](referenc
 
 Etsy Ads are optional CPC advertising inside Etsy. New shops currently wait 15 days before starting Etsy Ads and the minimum daily budget is US$1. [[12]](references.md#ref-12)
 
-Offsite Ads are a separate advertising mechanism outside Etsy and can create additional fees on attributed orders. The fee implications are in [economics-baseline.md](economics-baseline.md).
+Offsite Ads are a separate advertising mechanism outside Etsy and can create additional fees on attributed orders. [[19]](references.md#ref-19) The fee implications are in [economics-baseline.md](economics-baseline.md).
 
 ## Originality, AI and Canva
 

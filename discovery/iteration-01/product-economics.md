@@ -14,24 +14,24 @@ Economic viability also depends on creation effort, reusable assets, support bur
 
 | Category | Search | Current price signal | Source / status |
 |---|---|---:|---|
-| Invitations | `wedding invitation` | ~$10.00 | RankHero screening |
-| Invitations | `wedding invite` | ~$8.99 | RankHero screening |
-| Invitations | `wedding invites` | ~$8.88 | RankHero screening |
+| Invitations | `wedding invitation` | ~$10.00 | RankHero screening [[74]](../../knowledge/references.md#ref-74) |
+| Invitations | `wedding invite` | ~$8.99 | RankHero screening [[75]](../../knowledge/references.md#ref-75) |
+| Invitations | `wedding invites` | ~$8.88 | RankHero screening [[76]](../../knowledge/references.md#ref-76) |
 | Invitations | `birthday invitations` | ~$5.12 | RankHero [[27]](../../knowledge/references.md#ref-27) |
-| Invitations | `birthday invites` | ~$5.30 | RankHero screening |
-| Invitations | `bday invite` | ~$7.20 | RankHero screening; Etsy validation not yet collected |
-| Invitations | `baby shower invites` | ~$9.50 | RankHero screening |
+| Invitations | `birthday invites` | ~$5.30 | RankHero screening [[77]](../../knowledge/references.md#ref-77) |
+| Invitations | `bday invite` | ~$7.20 | RankHero screening; Etsy validation not yet collected [[78]](../../knowledge/references.md#ref-78) |
+| Invitations | `baby shower invites` | ~$9.50 | RankHero screening [[79]](../../knowledge/references.md#ref-79) |
 | Café | `coffee menu` | ~$7.00 | RankHero [[24]](../../knowledge/references.md#ref-24) |
 | Café | `matcha menu` | ~$6.85 | RankHero [[25]](../../knowledge/references.md#ref-25) |
 | Café | `food menu template` | ~$4.99 | RankHero [[26]](../../knowledge/references.md#ref-26) |
 | Bilingual | `spanish flashcards` | ~$3.40 | RankHero [[28]](../../knowledge/references.md#ref-28) |
-| Bilingual | `spanish alphabet` | ~$4.12 | RankHero screening; large reported search/competition difference |
-| Catholic | `catholic prayer` | ~$6.99 | RankHero screening |
-| Catholic | `prayer cards` | ~$4.00 | RankHero screening |
-| Catholic | `bible coloring pages` | ~$2.99 | RankHero screening |
-| Colouring | `cute coloring pages` | ~$2.99 | RankHero screening |
-| Colouring | `cozy coloring book` | ~$3.85–4.72 | RankHero screening range |
-| Colouring | `printable coloring pages` | ~$3.99 | RankHero screening |
+| Bilingual | `spanish alphabet` | ~$4.99 | RankHero screening; large reported search/competition difference [[80]](../../knowledge/references.md#ref-80) |
+| Catholic | `catholic prayer` | ~$6.99 | RankHero screening [[81]](../../knowledge/references.md#ref-81) |
+| Catholic | `prayer cards` | ~$4.00 | RankHero screening [[82]](../../knowledge/references.md#ref-82) |
+| Catholic | `bible coloring pages` | ~$2.99 | RankHero screening [[83]](../../knowledge/references.md#ref-83) |
+| Colouring | `cute coloring pages` | ~$2.99 | RankHero screening [[84]](../../knowledge/references.md#ref-84) |
+| Colouring | `cozy coloring book` | ~$3.85–4.72 | RankHero screening range [[85]](../../knowledge/references.md#ref-85) |
+| Colouring | `printable coloring pages` | ~$3.99 | RankHero screening [[86]](../../knowledge/references.md#ref-86) |
 
 ## Illustrative contribution at those prices
 
@@ -50,7 +50,7 @@ Using the same neutral-BoK illustration: **6.5% Etsy transaction fee + 6.5% Braz
 | `matcha menu` | Café | US$6.85 | US$1.39 | US$5.46 |
 | `food menu template` | Café | US$4.99 | US$1.15 | US$3.84 |
 | `spanish flashcards` | Bilingual | US$3.40 | US$0.94 | US$2.46 |
-| `spanish alphabet` | Bilingual | US$4.12 | US$1.04 | US$3.08 |
+| `spanish alphabet` | Bilingual | US$4.99 | US$1.15 | US$3.84 |
 | `catholic prayer` | Catholic | US$6.99 | US$1.41 | US$5.58 |
 | `prayer cards` | Catholic | US$4.00 | US$1.02 | US$2.98 |
 | `bible coloring pages` | Catholic | US$2.99 | US$0.89 | US$2.10 |

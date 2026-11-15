@@ -16,10 +16,10 @@
 
 **Evidence currently available**
 
-- RankHero screening reports approximately 301k monthly searches for `wedding invitation`, 90.5k for `birthday invitations` and 40.5k for `baby shower invites`.
-- Broad competition is also high in the current screening, including approximately 930k for `wedding invitation` and 1.24m for `birthday invitations`.
+- RankHero screening reports approximately 301k monthly searches for `wedding invitation`, 90.5k for `birthday invitations` and 40.5k for `baby shower invites`. [[74]](../../knowledge/references.md#ref-74) [[27]](../../knowledge/references.md#ref-27) [[79]](../../knowledge/references.md#ref-79)
+- Broad competition is also high in the current screening, including approximately 930k for `wedding invitation` and 1.24m for `birthday invitations`. [[74]](../../knowledge/references.md#ref-74) [[27]](../../knowledge/references.md#ref-27)
 - Search discovery includes narrower occasion, format and cultural directions.
-- Competitor research includes coordinated product families, bundles and culturally specific offers.
+- Competitor research includes coordinated product families, bundles and culturally specific offers. [[38]](../../knowledge/references.md#ref-38) [[35]](../../knowledge/references.md#ref-35) [[34]](../../knowledge/references.md#ref-34)
 
 **Evidence not yet collected**
 
@@ -32,10 +32,10 @@
 
 **Evidence currently available**
 
-- RankHero reports approximately 18k–22k monthly searches and 4,368 competition for `coffee menu`.
-- RankHero reports approximately 4.4k monthly searches and 191 competition for `matcha menu`.
-- Current competitor research includes a focused menu, a multi-layout offer and a broader business-resource model.
-- Current screening prices are approximately US$7.00 for `coffee menu`, US$6.85 for `matcha menu` and US$4.99 for `food menu template`.
+- RankHero reports approximately 18k–22k monthly searches and 4,368 competition for `coffee menu`. [[24]](../../knowledge/references.md#ref-24)
+- RankHero reports approximately 4.4k monthly searches and 191 competition for `matcha menu`. [[25]](../../knowledge/references.md#ref-25)
+- Current competitor research includes a focused menu, a multi-layout offer and a broader business-resource model. [[46]](../../knowledge/references.md#ref-46) [[48]](../../knowledge/references.md#ref-48) [[50]](../../knowledge/references.md#ref-50)
+- Current screening prices are approximately US$7.00 for `coffee menu`, US$6.85 for `matcha menu` and US$4.99 for `food menu template`. [[24]](../../knowledge/references.md#ref-24) [[25]](../../knowledge/references.md#ref-25) [[26]](../../knowledge/references.md#ref-26)
 
 **Evidence not yet collected**
 
@@ -49,10 +49,10 @@
 
 **Evidence currently available**
 
-- RankHero reports approximately 6.6k monthly searches and 3.1k competition for `spanish flashcards`.
-- RankHero reports approximately 135k monthly searches and 1.7k competition for `spanish alphabet`; this large reported search/competition difference has not yet been checked in Etsy Marketplace Insights.
-- Competitor research includes both small thematic resources and large worksheet/learning systems.
-- Current screening prices are approximately US$3.40 for `spanish flashcards` and US$4.12 for `spanish alphabet`.
+- RankHero reports approximately 6.6k monthly searches and 3.1k competition for `spanish flashcards`. [[28]](../../knowledge/references.md#ref-28)
+- RankHero reports approximately 135k monthly searches and 2.5k competition for `spanish alphabet`; this large reported search/competition difference has not yet been checked in Etsy Marketplace Insights. [[80]](../../knowledge/references.md#ref-80)
+- Competitor research includes both small thematic resources and large worksheet/learning systems. [[52]](../../knowledge/references.md#ref-52) [[53]](../../knowledge/references.md#ref-53) [[55]](../../knowledge/references.md#ref-55)
+- Current screening prices are approximately US$3.40 for `spanish flashcards` and US$4.99 for `spanish alphabet`. [[28]](../../knowledge/references.md#ref-28) [[80]](../../knowledge/references.md#ref-80)
 
 **Evidence not yet collected**
 
@@ -66,10 +66,10 @@
 
 **Evidence currently available**
 
-- RankHero reports approximately 60.5k monthly searches for `catholic prayer`, 18.1k for `prayer cards` and 8.1k for `bible coloring pages`.
-- Review evidence identifies buyer-use themes including portability, concise information, easy printing and clear instructions.
-- One buyer review provides a Spanish→English Catholic-prayer use case.
-- Competitor research includes concise guides, prayer resources, children's activities and larger activity/game catalogues.
+- RankHero reports approximately 60.5k monthly searches for `catholic prayer`, 18.1k for `prayer cards` and 8.1k for `bible coloring pages`. [[81]](../../knowledge/references.md#ref-81) [[82]](../../knowledge/references.md#ref-82) [[83]](../../knowledge/references.md#ref-83)
+- Review evidence identifies buyer-use themes including portability, concise information, easy printing and clear instructions. [[60]](../../knowledge/references.md#ref-60) [[61]](../../knowledge/references.md#ref-61)
+- One buyer review provides a Spanish→English Catholic-prayer use case. [[60]](../../knowledge/references.md#ref-60)
+- Competitor research includes concise guides, prayer resources, children's activities and larger activity/game catalogues. [[59]](../../knowledge/references.md#ref-59) [[61]](../../knowledge/references.md#ref-61) [[63]](../../knowledge/references.md#ref-63)
 
 **Evidence not yet collected**
 
@@ -83,10 +83,10 @@
 
 **Evidence currently available**
 
-- RankHero reports approximately 110k monthly searches and 82k competition for `cute coloring pages`.
-- `cozy coloring book` is reported at approximately 33k–40k monthly searches and 31k–53k competition, while `printable coloring pages` is reported at approximately 135k monthly searches and 512k competition.
-- Competitor research documents three production models: larger catalogue/frequent releases, small original hand-drawn catalogue, and recognisable branded product families.
-- Buyer reviews include evidence on downloads, print/digital use, line style, variety and repeat purchase.
+- RankHero reports approximately 110k monthly searches and 82k competition for `cute coloring pages`. [[84]](../../knowledge/references.md#ref-84)
+- `cozy coloring book` is reported at approximately 33k–40k monthly searches and 31k–53k competition, while `printable coloring pages` is reported at approximately 135k monthly searches and 512k competition. [[85]](../../knowledge/references.md#ref-85) [[86]](../../knowledge/references.md#ref-86)
+- Competitor research documents three production models: larger catalogue/frequent releases, small original hand-drawn catalogue, and recognisable branded product families. [[65]](../../knowledge/references.md#ref-65) [[67]](../../knowledge/references.md#ref-67) [[70]](../../knowledge/references.md#ref-70)
+- Buyer reviews include evidence on downloads, print/digital use, line style, variety and repeat purchase. [[65]](../../knowledge/references.md#ref-65) [[71]](../../knowledge/references.md#ref-71)
 
 **Evidence not yet collected**
 
