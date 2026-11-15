@@ -10,7 +10,7 @@
 
 ## Current decision state
 
-**No category has been selected for pilot.** All five now have substantive research, but the evidence is not yet comparable enough to justify a final ranking. The most important missing layer is Etsy Marketplace Insights plus deliberate low-star review mining and hands-on product analysis.
+**No category has been selected for pilot.** All five now have substantive research. The remaining evidence gaps differ by category and are summarised below.
 
 ## Invitations / Celebrations
 
@@ -24,7 +24,7 @@
 
 - Broad terms are extremely competitive.
 - Similar search phrases produce surprisingly different third-party competition figures, so Etsy validation is essential.
-- We still need more critical reviews and hands-on evidence on editing, mobile use, resizing, printing and instructions.
+- The current review sample is still thinner on critical feedback about editing, mobile use, resizing, printing and instructions.
 
 **Current assessment:** credible category, but the opportunity is likely to be **narrower than generic invitations**.
 
@@ -84,7 +84,7 @@
 - Demand screens for cute/cozy colouring are substantial.
 - Competitors expose three distinct operating models: larger catalogue/frequent themes, small original hand-drawn catalogue, and strong branded product families.
 - Reviews show value in clean lines, easy downloads, digital/print usability, variety and repeat purchase.
-- KomfiKat is directly relevant to Débora's manual-drawing idea.
+- KomfiKat is directly relevant to the small original hand-drawn production model.
 
 **What weakens it / remains unresolved**
 
@@ -101,29 +101,24 @@ These are **evidence gaps, not claims that the market has a gap**. They state ex
 
 | Category | What we still need | Why it matters |
 |---|---|---|
-| **Invitations / Celebrations** | We have substantial positive review evidence but relatively few deliberately collected **critical / 1–3-star reviews**. We also still need hands-on evidence from selected products. | Positive reviews tell us what works; critical reviews are more useful for identifying recurring friction in Canva editing, mobile use, resizing, printing, instructions, non-editable artwork, support expectations and mismatch between previews and delivered files. Those problems may reveal a realistic way to differentiate rather than simply producing another invitation. |
+| **Invitations / Celebrations** | We have substantial positive review evidence but relatively few **critical / 1–3-star reviews** in the current sample. | Positive reviews tell us what works; critical reviews are more useful for identifying recurring friction in Canva editing, mobile use, resizing, printing, instructions, non-editable artwork, support expectations and mismatch between previews and delivered files. Those problems may reveal a realistic way to differentiate rather than simply producing another invitation. |
 | **Café / Gastronomy / Bakery** | We have relevant shops, but need more sellers whose **specific café/menu/bakery products** have enough product-level reviews, plus equivalent demand evidence for bakery and broader café terms. | A high shop rating is not enough. We need buyers commenting on Canva editing, sizes, printing, readability, updating prices, replacing logos/images, instructions and actual business usefulness. This is also necessary to decide whether a simple menu, multiple layouts or a broader business kit creates the most useful value. |
 | **Bilingual Children / Family Learning** | Product/offer evidence is good, but we still have too few reviews specifically tied to **Spanish/bilingual products**; Portuguese-English demand is also under-researched. | We need to know whether parents/teachers find the material age-appropriate, linguistically correct, easy to print and organise, sufficiently complete and genuinely useful. Regional-language differences already show why product-specific language feedback matters. Large bundles also need to be tested for useful structure versus overload. |
 | **Catholic / Faith-based** | We need direct demand validation for searches such as `catholic prayer card`, `catholic kids` and `communion printable`; broader evidence on bilingual demand, sacramental products, critical reviews and one-sheet versus bundle value is still limited. | Current reviews give unusually useful product-use insights, but we cannot assume those needs are large enough or commercially attractive. Search validation and format/value evidence will tell us whether the strongest opportunity is prayer guidance, bilingual resources, sacramental material, children’s activities or another sub-niche. |
-| **Colouring / Creative** | We still need validation for narrower searches such as `hand drawn coloring`, more critical reviews on line quality/resolution/printing/tablet use, evidence on page-count and PDF+PNG value, and a realistic estimate of how quickly original artwork can be produced. | Demand alone is not enough because low unit prices make **production throughput and repeat purchase** central to profitability. For Débora’s manual-drawing idea especially, we need to know whether a small original catalogue can command enough value and how production effort compares with higher-output themed catalogues. |
+| **Colouring / Creative** | We still need validation for narrower searches such as `hand drawn coloring`, more critical reviews on line quality/resolution/printing/tablet use, evidence on page-count and PDF+PNG value, and a realistic estimate of how quickly original artwork can be produced. | Demand alone is not enough because low unit prices make **production throughput and repeat purchase** central to profitability. For an original hand-drawn model especially, we need to know whether a small original catalogue can command enough value and how production effort compares with higher-output themed catalogues. |
 
 ## What could materially change the decision
 
-1. Etsy Marketplace Insights contradicting or confirming the strongest RankHero signals.
-2. Recurring shops across validated searches, showing which competitive models truly dominate.
-3. Repeated low-star buyer problems that reveal an addressable gap.
-4. Hands-on purchases showing whether bundles/large packs actually feel valuable.
-5. Realistic production-time estimates for Débora & Luis, especially original colouring and QA-heavy learning products.
-6. Economics expressed as contribution **per hour / reusable asset**, not only price per listing.
+1. Etsy Marketplace Insights confirming or contradicting the strongest current search signals.
+2. Product-specific buyer feedback revealing recurring problems or needs not visible in the current review sample.
+3. Direct product inspection, where used, revealing meaningful differences that cannot be assessed from public listings/reviews.
+4. Production-time or economic estimates materially changing the viability of a product model.
 
 ## Immediate research priorities
 
-1. Run the 15 selected Etsy Marketplace Insights searches.
-2. Complete the remaining RankHero lookups that could change the category view.
-3. Deliberately mine 1–3-star reviews.
-4. Choose a small, high-learning-value set of competitor products to buy from [Competitors](competitors.md).
-5. Record actual product experience and production implications.
-6. Update [Product comparison](product-comparison.md) only after those steps.
+1. When available, add the selected Etsy Marketplace Insights results to [Market & demand](market-demand.md).
+2. Continue competitor analysis against the category-specific gaps above.
+3. Update [Product comparison](product-comparison.md) when new evidence materially changes the current cross-category view.
 
 ---
 

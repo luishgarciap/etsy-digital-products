@@ -79,7 +79,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 - Broad singles often screen at relatively modest prices despite very high demand.
 - Coordinated bundles can command materially higher prices and may improve average order value.
 - The unanswered question is **creation/support effort per theme** versus the revenue benefit of singles + bundles + matching items.
-- We need observed prices from the final validated searches and hands-on evidence from at least one bundle.
+- Observed prices from validated searches remain incomplete; direct inspection of a bundle can be used if listing/review evidence is insufficient.
 
 ### Café / Gastronomy / Bakery
 
@@ -103,7 +103,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 
 - Unit prices are generally low, making catalogue efficiency and repeat purchase important.
 - Original hand-drawn work has a very different cost structure from high-volume/reused-asset models.
-- For Débora's manual-drawing idea, the critical metric is **credible pages/products per hour** while maintaining quality and originality.
+- For an original hand-drawn model, the critical metric is **credible pages/products per hour** while maintaining quality and originality.
 
 ## Economics still required
 

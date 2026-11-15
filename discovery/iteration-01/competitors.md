@@ -16,9 +16,11 @@ Use this page for **shops, listings, reviews, product structures and products wo
 
 Every competitor entry should contain, as far as the current evidence allows:
 
-> **Shop name + direct Etsy link → why we selected it → relevant offering in our category → 1–3 concrete products with direct links → price / formats / bundle structure → positive review findings → critical review findings → exact review/listing source → what it teaches us → whether a product is worth purchasing for hands-on analysis.**
+> **Shop name + direct Etsy link → why we selected it → relevant offering in our category → 1–3 concrete products with direct links → price / formats / bundle structure → positive review findings → critical review findings → exact review/listing source → what it teaches us → whether a product is worth purchasing for direct product inspection.**
 
 If a field has not yet been researched, write **not yet collected / not yet verified**. Do not fill gaps by inference.
+
+**Direct product inspection:** this is an optional competitor-analysis method for product-level questions that public listings/reviews cannot resolve.
 
 **Review-source rule:** every review finding must point to the Etsy shop/listing/review source in the master IEEE-style bibliography in [References](../../knowledge/references.md). If the finding comes from **Etsy's own AI review summary**, say so explicitly; do not present it as though we manually read every review.
 
@@ -456,7 +458,7 @@ We still need broader critical-review evidence, stronger demand evidence for `ca
 
 **Shop:** [KomfiKatColoring on Etsy](https://www.etsy.com/shop/KomfiKatColoring) [[67]](../../knowledge/references.md#ref-67)
 
-**Why selected:** directly relevant to Débora's idea of creating drawings manually. It is the clearest small-catalogue/original-art contrast.
+**Why selected:** directly relevant to the original hand-drawn production model. It is the clearest small-catalogue/original-art contrast.
 
 **Relevant offering:** very small catalogue of larger hand-drawn books, with artwork explicitly described as illustrated from scratch and suitable for print or digital colouring.
 
@@ -475,7 +477,7 @@ We still need broader critical-review evidence, stronger demand evidence for `ca
 
 **What it teaches us:** tests whether **very few products + original hand-drawn work + stronger per-product identity** can create enough perceived value without hundreds of listings.
 
-**Purchase value:** **Very high.** `Hobby Girl` is one of the most decision-relevant purchases because it directly tests a production model Débora could realistically pursue.
+**Purchase value:** **Very high.** `Hobby Girl` is one of the most decision-relevant purchases because it directly tests the small original hand-drawn production model.
 
 ---
 
@@ -544,7 +546,7 @@ This comparison is operational, not abstract. We are trying to understand what k
 
 ### Colouring category review gap
 
-We still need critical reviews on line quality, resolution, printing, tablet/Procreate usability and repetition, plus hands-on product inspection. We also need to test whether `hand drawn coloring` is a meaningful buyer search and what production rate is realistic if Débora draws original artwork.
+We still need critical reviews on line quality, resolution, printing, tablet/Procreate usability and repetition, plus hands-on product inspection. We also need to test whether `hand drawn coloring` is a meaningful buyer search and what production rate is realistic for original hand-drawn artwork.
 
 ---
 
@@ -560,11 +562,11 @@ The purpose is **not** to buy from every strong shop. A product enters this shor
 | **Café / bakery** | [BizTemplateZone — Coffee Menu / Cafe Price List](https://www.etsy.com/listing/1845225463/coffee-menu-template-editable-cafe-price) · [GraphiCarola — Coffee Menu Template](https://www.etsy.com/listing/1587765738/coffee-menu-coffee-shop-menu-template) · [NayaLioraStudio — Pink Matcha Menu Templates](https://www.etsy.com/listing/4468584695/price-list-template-canva-minimalist) | Broader business-family potential vs focused simple menu vs multi-layout niche offer. We need enough contrast to judge whether extra layouts/business assets create real value. |
 | **Bilingual learning** | [DoodleSafari — 300+ Spanish Flashcards](https://www.etsy.com/listing/1566158593/learning-spanish-bundle-300-spanish) · [DoodleSafari — 900+ Spanish Worksheets](https://www.etsy.com/au/listing/1274697210/learning-spanish-bundle-900-spanish) · [Homeschoolwithlizz — Spanish-English Flashcards](https://www.etsy.com/listing/1514230515/spanish-flashcards-kids-spanish-words) | Large-system organisation/language quality vs very large volume vs smaller thematic resource. |
 | **Catholic / faith** | [AveliaCreative — How to Pray the Rosary Guide](https://www.etsy.com/listing/1415956417/how-to-pray-the-rosary-instant-download) · [PrayerBoardShop — Prayer Board for Kids](https://www.etsy.com/listing/1561394073/prayer-board-for-kids-christian-kids) | Concise information/portability vs activity/onboarding. [ProudPracticalPrints — Nativity Bingo](https://www.etsy.com/listing/1605073152/nativity-bingo-50-nativity-bingo-cards) remains a useful scale/volume contrast but is lower priority to buy. |
-| **Colouring / creative** | [KomfiKatColoring — Hobby Girl](https://www.etsy.com/dk-en/listing/4472798201/hobby-girl-cute-and-cozy-coloring-book) · [QuirkyFindsPH — Cozy Room Coloring Book](https://www.etsy.com/listing/4610535810/cozy-room-coloring-book-nook-coloring) · [CocoWyoColoring — Girl Moments](https://www.etsy.com/listing/1831007226/girl-moments-cute-cozy-daily-activities) | Directly compares the three operating models: small original hand-drawn catalogue, higher-output themed catalogue, and recognisable branded product family. `Hobby Girl` is especially relevant to Débora's manual-drawing idea. |
+| **Colouring / creative** | [KomfiKatColoring — Hobby Girl](https://www.etsy.com/dk-en/listing/4472798201/hobby-girl-cute-and-cozy-coloring-book) · [QuirkyFindsPH — Cozy Room Coloring Book](https://www.etsy.com/listing/4610535810/cozy-room-coloring-book-nook-coloring) · [CocoWyoColoring — Girl Moments](https://www.etsy.com/listing/1831007226/girl-moments-cute-cozy-daily-activities) | Directly compares the three operating models: small original hand-drawn catalogue, higher-output themed catalogue, and recognisable branded product family. `Hobby Girl` is especially relevant to testing the small original hand-drawn model. |
 
-**Important:** this is a **research-purchase shortlist, not a shopping list**. Débora & Luis should choose the smallest combination that gives enough contrast to make the next decision.
+**Status:** this is a research-purchase shortlist. Purchase decisions remain open.
 
-## Hands-on analysis checklist
+## Direct product inspection checklist
 
 For each purchased product record:
 

@@ -8,7 +8,7 @@
 
 No pilot has been approved yet.
 
-The evidence is still incomplete across the opportunities. All five categories now have substantive research, but Etsy Marketplace Insights validation, deliberate critical-review mining, hands-on product analysis and production/economic estimates are still needed before selecting the pilot.
+All five categories now have substantive research. Remaining evidence gaps are documented in [Opportunity assessment](opportunity-assessment.md) and the current cross-category view is in [Product comparison](product-comparison.md).
 
 ## Decision record
 

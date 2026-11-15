@@ -108,11 +108,11 @@ Use these terms consistently so we do not confuse the unit being analysed:
 
 | Opportunity | What we know now | What is still missing |
 |---|---|---|
-| Invitations / celebrations | Strong search discovery and strong competitor/product evidence; broad demand is established | Etsy Marketplace Insights validation, more deliberate critical-review evidence and hands-on product analysis |
+| Invitations / celebrations | Strong search discovery and strong competitor/product evidence; broad demand is established | Etsy Marketplace Insights validation and more critical product-review evidence |
 | Café / gastronomy / bakery | Good search discovery and relevant competitor models; product-specific review evidence is thinner | Bakery/broader café validation, more menu-specific buyer reviews and realistic production effort |
 | Bilingual children / family | Strong screening signals and good competitor/product evidence across small resources and large bundles | Spanish-specific reviews, Etsy validation, Portuguese-English evidence, QA effort and bundle economics |
 | Catholic / faith-based | Good search/competitor evidence and unusually concrete product-use/review insights | Direct keyword validation, broader bilingual/sacramental evidence, critical reviews and product economics |
-| Colouring / creative | Strong search/competitor/review evidence and three distinct production models to compare | Keyword validation, critical reviews, hands-on purchases and realistic original-art production rate |
+| Colouring / creative | Strong search/competitor/review evidence and three distinct production models to compare | Etsy validation, narrower hand-drawn search evidence, critical product reviews and realistic original-art production rate |
 
 ## Questions Iteration 01 must answer
 

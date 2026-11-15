@@ -45,7 +45,7 @@ RankHero figures are **screening evidence**, not a pilot decision. The purpose o
 
 Discovered searches:
 
-`wedding invite` · `wedding invitations` · `wedding invites` · `invitation template` · `invitation suite` · `wedding template` · `editable wedding` · `digital invitation` · `minimalist wedding` · `printable wedding` · `editable invite` · `wedding stationery` · `floral wedding` · `save the date` · `printable invitation` · `elegant wedding` · `rustic wedding` .
+`wedding invite` · `wedding invitations` · `wedding invites` · `invitation template` · `invitation suite` · `wedding template` · `editable wedding` · `digital invitation` · `minimalist wedding` · `printable wedding` · `editable invite` · `wedding stationery` · `floral wedding` · `save the date` · `printable invitation` · `elegant wedding` · `rustic wedding`.
 
 #### Birthday branch
 
@@ -53,7 +53,7 @@ Discovered searches:
 
 Discovered searches:
 
-`birthday invitation` · `editable invitation` · `digital invitation` · `printable invitation` · `invitation template` · `birthday invite` · `editable invite` · `kids birthday invite` · `girls birthday` · `digital invite` · `birthday template` · `1st birthday invite` · `kids birthday` · `party invitation` · `boy birthday invite` · `first birthday` · `2nd birthday invite` .
+`birthday invitation` · `editable invitation` · `digital invitation` · `printable invitation` · `invitation template` · `birthday invite` · `editable invite` · `kids birthday invite` · `girls birthday` · `digital invite` · `birthday template` · `1st birthday invite` · `kids birthday` · `party invitation` · `boy birthday invite` · `first birthday` · `2nd birthday invite`.
 
 #### Baby shower branch
 
@@ -87,7 +87,6 @@ These should be labelled **research-derived hypotheses** until their RankHero/Et
 | `bday invite`          | \~90.6k          | \~85.5k     | \~$7.20                | Large discrepancy worth verifying |
 | `baby shower invites`  | \~40.5k          | \~259k      | \~$9.50                | Separate occasion benchmark       |
 
-–.
 
 **Important:** RankHero reports large competition differences between very similar phrases such as `birthday invites` and `bday invite`. This is a reason to verify the terms in Etsy Marketplace Insights, not evidence that one is automatically superior.
 
@@ -117,8 +116,6 @@ Reason: three different occasions/search formulations with enough RankHero evide
 
 ---
 
----
-
 ## Café / Gastronomy / Bakery
 
 
@@ -138,7 +135,7 @@ Current search universe:
 
 RankHero returns:
 
-`matcha menu` · `matcha menu template` · `matcha cafe menu` · `coffee shop menu` · `coffee menu` · `editable menu` · `menu template` · `cafe menu template` · `matcha drink menu` · `drink menu template` .
+`matcha menu` · `matcha menu template` · `matcha cafe menu` · `coffee shop menu` · `coffee menu` · `editable menu` · `menu template` · `cafe menu template` · `matcha drink menu` · `drink menu template`.
 
 #### Bakery branch
 
@@ -191,8 +188,6 @@ This gives us coffee, a narrower café drink niche and bakery rather than spendi
 
 ---
 
----
-
 ## Bilingual Children / Family Learning
 
 
@@ -204,7 +199,7 @@ This gives us coffee, a narrower café drink niche and bakery rather than spendi
 
 RankHero returns:
 
-`spanish vocabulary` · `learn spanish` · `bilingual flashcards` · `spanish for kids` · `printable flashcards` · `homeschool spanish` · `spanish learning` · `printable spanish` · `preschool spanish` · `spanish alphabet` · `educational cards` · `montessori cards` · `spanish printables` · `spanish animals` · `kids flashcards` · `learn spanish kids` · `spanish language` · `spanish words` · `learn spanish pdf` .
+`spanish vocabulary` · `learn spanish` · `bilingual flashcards` · `spanish for kids` · `printable flashcards` · `homeschool spanish` · `spanish learning` · `printable spanish` · `preschool spanish` · `spanish alphabet` · `educational cards` · `montessori cards` · `spanish printables` · `spanish animals` · `kids flashcards` · `learn spanish kids` · `spanish language` · `spanish words` · `learn spanish pdf`.
 
 #### Alphabet / worksheet branch
 
@@ -212,7 +207,7 @@ RankHero returns:
 
 Related searches include:
 
-`homeschool spanish` · `abecedario` · `spanish for kids` · `spanish flashcards` · `spanish printable` · `spanish worksheets` · `abecedario español` · `spanish letters` · `spanish vocabulary` · `preschool spanish` · `spanish classroom` · `learn spanish` · `alphabet coloring` · `letter tracing` · `spanish abc` · `handwriting practice` .
+`homeschool spanish` · `abecedario` · `spanish for kids` · `spanish flashcards` · `spanish printable` · `spanish worksheets` · `abecedario español` · `spanish letters` · `spanish vocabulary` · `preschool spanish` · `spanish classroom` · `learn spanish` · `alphabet coloring` · `letter tracing` · `spanish abc` · `handwriting practice`.
 
 #### Family / preschool branch
 
@@ -229,7 +224,7 @@ Searches still requiring measurement:
 | `spanish flashcards` | \~6.6k           | \~3.1k      | \~$3.40      |
 | `spanish alphabet`   | \~135k           | \~1.7k      | \~$4.12      |
 
-, .
+,.
 
 The `spanish alphabet` figures are unusually favourable and therefore need independent Etsy validation.
 
@@ -248,8 +243,6 @@ The `spanish alphabet` figures are unusually favourable and therefore need indep
 1. `spanish flashcards`
 2. `spanish alphabet`
 3. `spanish worksheets`
-
----
 
 ---
 
@@ -306,8 +299,6 @@ RankHero's `catholic prayer` top results already include children's prayer cards
 
 ---
 
----
-
 ## Colouring / Creative
 
 
@@ -327,7 +318,7 @@ Search universe:
 
 RankHero returns:
 
-`printable coloring` · `relaxing coloring` · `coloring book` · `adult coloring book` · `digital coloring` · `coloring pages` · `cute coloring book` · `cute coloring pages` · `adult coloring pages` · `bold easy coloring` · `cozy coloring pages` · `stress relief` · `easy coloring pages` · `kawaii coloring` · `cozy coloring` · `coloring bundle` · `kawaii coloring book` · `cozy girl coloring` · `bold and easy` .
+`printable coloring` · `relaxing coloring` · `coloring book` · `adult coloring book` · `digital coloring` · `coloring pages` · `cute coloring book` · `cute coloring pages` · `adult coloring pages` · `bold easy coloring` · `cozy coloring pages` · `stress relief` · `easy coloring pages` · `kawaii coloring` · `cozy coloring` · `coloring bundle` · `kawaii coloring book` · `cozy girl coloring` · `bold and easy`.
 
 RankHero also associates materials/formats including printable PDF, PNG, hand-drawn art, Procreate compatibility and tablet colouring.
 
@@ -341,7 +332,7 @@ RankHero also associates materials/formats including printable PDF, PNG, hand-dr
 | `cozy coloring book`       | \~33k–40k depending crawl | \~31k–53k   | \~$3.85–4.72 |
 | `printable coloring pages` | \~135k                    | \~512k      | \~$3.99      |
 
-, .
+,.
 
 #### RankHero lookup required
 
@@ -361,8 +352,6 @@ RankHero also associates materials/formats including printable PDF, PNG, hand-dr
 
 ---
 
----
-
 ## Immediate Marketplace Insights set — 15 searches
 
 These are the **next exact searches** to run. They replace the older provisional 15-search batch because they reflect the deeper search discovery completed since the neutral version.
@@ -375,7 +364,7 @@ These are the **next exact searches** to run. They replace the older provisional
 | Catholic / Faith | `catholic prayer card` | `communion printable` | `bible coloring pages` |
 | Colouring / Creative | `cute coloring pages` | `cozy coloring book` | `printable coloring pages` |
 
-Record for each: 30-day searches, Etsy listings, trend/related terms, observed price range and recurring shops.
+Record for each: 30-day searches, Etsy listings, trend/related terms, observed price range and any notable shops/listings surfaced by the search.
 
 ## Marketplace Insights results table
 
