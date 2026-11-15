@@ -13,7 +13,7 @@ Initial pilot assumption:
 - **5 pilot products**;
 - **10–15 listings** using variants/images/tags as appropriate;
 - **30–45 days** of observation;
-- no paid advertising in the first phase.
+- paid advertising excluded from the first phase.
 
 Final scope will be set in [pilot-decision.md](pilot-decision.md).
 
@@ -40,7 +40,7 @@ Working budget assumption:
 - 15 listings → US$3 initial listing fees;
 - plus the Etsy setup fee shown at registration;
 - US$30–60 suggested ceiling for tools, small tests and contingencies;
-- no paid ads initially.
+- paid advertising excluded initially.
 
 ## What counts as an early signal
 

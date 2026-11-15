@@ -16,20 +16,20 @@ Etsy is a marketplace for unique and creative goods, including seller-designed d
 |---|---:|---|
 | Active buyers — Sept. 2026 | 87.506 million | Large established buyer base |
 | Active sellers — Sept. 2026 | 5.836 million | Large supply base and substantial competition |
-| Q3 2026 GMS | US$2.647 billion | Value of marketplace purchases, not Etsy revenue |
+| Q3 2026 GMS | US$2.647 billion | Marketplace purchase value; Etsy company revenue is reported separately |
 | Q3 2026 revenue | US$692.469 million | Etsy company revenue |
 | Q3 2026 net income — continuing operations | US$113.637 million | Positive quarterly result |
 | U.S. buyer share of Etsy marketplace GMS — 2025 | 74% | U.S. demand is strategically important |
 
 [[3]](references.md#ref-3) [[4]](references.md#ref-4)
 
-At the end of 2025 Etsy also reported more than 100 million items for sale. Marketplace scale demonstrates an established platform; it does not guarantee visibility, conversion or profit for a new shop. [[4]](references.md#ref-4)
+At the end of 2025 Etsy also reported more than 100 million items for sale. Marketplace scale demonstrates an established platform; shop-level visibility, conversion and profit depend on listing and product performance. [[4]](references.md#ref-4)
 
 ## International selling from Brazil
 
 Brazil is eligible for Etsy Payments through Payoneer. [[5]](references.md#ref-5) A Brazil-based shop can sell to international buyers; the original study identified the United States, United Kingdom, Canada and other markets as relevant target markets, with English-language listings and USD pricing as a practical international approach.
 
-International visibility is not automatic. Etsy search and ranking depend on listing relevance, quality and other marketplace signals. [[6]](references.md#ref-6)
+International visibility depends on Etsy search and ranking signals, including listing relevance, quality and other marketplace factors. [[6]](references.md#ref-6)
 
 ## Digital-product operating model
 
@@ -45,9 +45,9 @@ A typical digital-product order follows this sequence:
 
 Etsy currently supports up to **five files of 20 MB each** on an instant-download listing. [[7]](references.md#ref-7)
 
-An editable product can be delivered through a PDF containing instructions and a link to an eligible Canva template. If a product requires manual personalisation after purchase, that manual work should be reflected in production/support economics rather than treated as a fully automated fulfilment model.
+An editable product can be delivered through a PDF containing instructions and a link to an eligible Canva template. Manual personalisation after purchase adds production/support work and should be included in the product economics.
 
-Buyers currently cannot download an Etsy digital purchase through the Etsy app; they must use a mobile browser or computer. [[8]](references.md#ref-8)
+Etsy currently supports digital-download access through a mobile browser or computer rather than through the Etsy app. [[8]](references.md#ref-8)
 
 ## Brazil / Payoneer flow
 
@@ -58,7 +58,7 @@ For Etsy sellers using Payoneer:
 3. The account holder withdraws funds to the linked bank account.
 4. Etsy states that the bank withdrawal normally takes 2–5 business days after the withdrawal request. [[9]](references.md#ref-9)
 
-Payoneer may charge withdrawal and currency-conversion fees; actual account pricing should be checked before launch. [[10]](references.md#ref-10)
+Payoneer may charge withdrawal and currency-conversion fees; use current account-specific pricing before launch. [[10]](references.md#ref-10)
 
 ## Search and Marketplace Insights
 
@@ -80,7 +80,7 @@ Offsite Ads are a separate advertising mechanism outside Etsy and can create add
 
 Etsy requires seller-designed digital products and applies creativity/originality standards. Seller-prompted AI creations are permitted subject to Etsy's human-input and disclosure requirements; fully automated or otherwise non-compliant content remains restricted. [[13]](references.md#ref-13) [[14]](references.md#ref-14)
 
-Canva permits products and templates under its licence conditions. Product-specific Canva usage must be checked before launch, particularly where Pro Content or editable template links are involved. [[15]](references.md#ref-15)
+Canva permits products and templates under its licence conditions. Check product-specific Canva usage before launch, particularly where Pro Content or editable template links are involved. [[15]](references.md#ref-15)
 
 ## Pre-launch legal / banking items
 
@@ -91,7 +91,7 @@ Before opening and scaling the shop, the project still needs to confirm:
 - Brazilian tax treatment for international sales;
 - relevant consumer-protection, IP and licensing obligations.
 
-A future move of the Etsy bank account from Brazil to the UK is not a simple account edit: Etsy states that sellers outside the eurozone generally cannot change to a bank account in another country; if the original country's bank account can no longer be used, a new shop is required and listings, reviews and sales history cannot be transferred. [[16]](references.md#ref-16)
+For sellers outside the eurozone, moving Etsy banking from Brazil to the UK generally requires a new shop. Etsy states that a bank account usually cannot be changed to another country, and a new shop starts without transfer of listings, reviews or sales history. [[16]](references.md#ref-16)
 
 ---
 

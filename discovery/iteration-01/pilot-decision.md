@@ -6,7 +6,7 @@
 
 ---
 
-No pilot has been approved yet.
+Pilot selection remains open.
 
 All five categories now have substantive research. Remaining evidence gaps are documented in [Opportunity assessment](opportunity-assessment.md) and the current cross-category view is in [Product comparison](product-comparison.md).
 

@@ -8,7 +8,7 @@
 
 See [Economics Baseline](../../knowledge/economics-baseline.md) for the shared Etsy fee model.
 
-Price alone does not determine economic viability. Creation effort, reusable assets, support burden, bundle path and contribution per hour provide additional economic evidence.
+Economic viability also depends on creation effort, reusable assets, support burden, bundle path and contribution per hour.
 
 ## Current market-price signals
 
@@ -58,11 +58,11 @@ Using the same neutral-BoK illustration: **6.5% Etsy transaction fee + 6.5% Braz
 | `cozy coloring book` | Colouring (midpoint of current screening range) | US$4.28 | US$1.06 | US$3.22 |
 | `printable coloring pages` | Colouring | US$3.99 | US$1.02 | US$2.97 |
 
-\*Screening illustration only — **not profit**.
+\*Illustrative remainder after the selected Etsy/payment charges.
 
 ## Initial test-price hypotheses
 
-These were proposed before deeper market research and remain hypotheses, not observed averages:
+These were proposed before deeper market research and remain preliminary price hypotheses:
 
 | Product type | Initial test range | Original reasoning |
 |---|---:|---|
@@ -122,7 +122,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 
 ## Current economic implications
 
-- Price alone does not determine viability; reusability, repeat purchase and bundling also affect the economics of low-price products.
+- Viability also depends on reusability, repeat purchase and bundling, especially for low-price products.
 - Café screening prices are higher than several low-price printable categories measured here; production effort remains unmeasured.
 - Coordinated invitation families/bundles show higher observed price points than several generic single-invitation searches in the current screening.
 - Bundle economics and QA effort for bilingual learning are not yet quantified.

@@ -10,7 +10,7 @@
 
 ## Current decision state
 
-**No category has been selected for pilot.** All five have search, competitor/product and review evidence. The sections below distinguish current evidence from evidence not yet collected.
+**Pilot selection remains open.** All five have search, competitor/product and review evidence. The sections below distinguish current evidence from additional evidence that could refine the comparison.
 
 ## Invitations / Celebrations
 
@@ -77,7 +77,7 @@
 - Broader evidence on bilingual and sacramental demand.
 - More critical reviews and additional price/value evidence across single-resource and bundle formats.
 
-**Current interpretation:** several product forms are represented in the evidence; no prayer, sacramental, bilingual or children's sub-direction has been selected.
+**Current interpretation:** several product forms are represented in the evidence across prayer, sacramental, bilingual and children's sub-directions; selection remains open.
 
 ## Colouring / Creative
 
@@ -99,22 +99,22 @@
 
 ## Research gaps — exact meaning
 
-These are **evidence gaps, not claims that the market has a gap**. They record evidence not yet collected and why it may matter to the comparison.
+Evidence not yet collected that could improve the comparison between opportunities:
 
 | Category | Evidence not yet collected | Why it may matter |
 |---|---|---|
 | **Invitations / Celebrations** | A larger sample of **critical / 1–3-star reviews**. | Critical reviews can reveal recurring friction in Canva editing, mobile use, resizing, printing, instructions, non-editable artwork, support expectations and mismatch between previews and delivered files. |
 | **Café / Gastronomy / Bakery** | More product-level reviews for specific café/menu/bakery products, plus more demand evidence for bakery and broader café terms. | Product-level feedback can show how buyers experience editing, sizes, printing, readability, price updates, logo/image replacement, instructions and business use; broader search evidence can improve comparison across café/bakery sub-directions. |
 | **Bilingual Children / Family Learning** | More reviews tied specifically to **Spanish/bilingual products**, plus Portuguese-English demand evidence. | This can add evidence on age fit, linguistic accuracy, printing/organisation, completeness and whether large bundles feel structured or overwhelming. |
-| **Catholic / Faith-based** | Etsy validation for selected searches; broader bilingual/sacramental evidence; more critical reviews; more single-resource versus bundle price/value evidence. | This can improve comparison across prayer guidance, bilingual resources, sacramental material and children's activities without assuming that any one sub-direction is larger or more valuable. |
+| **Catholic / Faith-based** | Etsy validation for selected searches; broader bilingual/sacramental evidence; more critical reviews; more single-resource versus bundle price/value evidence. | This can improve comparison across prayer guidance, bilingual resources, sacramental material and children's activities. |
 | **Colouring / Creative** | Etsy validation for narrower searches such as `hand drawn coloring`; more critical reviews on line quality/resolution/printing/tablet use; page-count/PDF+PNG value evidence; original-art production-effort estimates. | This can improve comparison of catalogue breadth, perceived product value and the economics of an original hand-drawn model. |
 
 ## Additional evidence that may affect the comparison
 
-1. Etsy Marketplace Insights results for the selected searches.
-2. Additional product-specific buyer feedback on recurring problems or needs.
-3. Direct product inspection, where used, for product-level evidence unavailable from public listings/reviews.
-4. Production-time and economic estimates for the product models under comparison.
+1. **Etsy Marketplace Insights** — could strengthen or weaken the current demand/competition signals for selected searches.
+2. **Additional product-specific buyer feedback** — could reveal recurring problems, unmet needs or differentiation opportunities across categories.
+3. **Direct product inspection, where useful** — could provide evidence on actual product quality, usability, organisation and perceived value that is unavailable from public listings and reviews.
+4. **Production-time and economic estimates** — could change the relative attractiveness of product models once creation effort, reuse, support and contribution per hour are considered.
 
 ## Next actions
 

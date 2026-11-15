@@ -8,9 +8,9 @@ We are building a digital-products business on Etsy, based in Brazil and aimed a
 
 ## Current decision
 
-**Iteration 01 is in INVESTIGATE. No pilot has been selected yet.**
+**Iteration 01 is in INVESTIGATE. Pilot selection remains open.**
 
-All five product directions — **invitations / celebrations, café / gastronomy / bakery, bilingual children / family learning, Catholic / faith-based, and colouring / creative** — remain under investigation. Search discovery, competitor/product research and buyer-review analysis have been completed to different depths across all five categories. No opportunity has been selected or deprioritised at this stage.
+All five product directions — **invitations / celebrations, café / gastronomy / bakery, bilingual children / family learning, Catholic / faith-based, and colouring / creative** — remain under investigation. Search discovery, competitor/product research and buyer-review analysis have been completed to different depths across all five categories. All five opportunities remain open for comparison.
 
 ## Opportunity status
 

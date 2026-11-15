@@ -14,9 +14,9 @@
 | Tax / legal ownership | Confirm Brazilian legal/tax/banking structure before formal launch and scaling |
 | Platform policy changes | Re-check fees, payment rules and content policies before launch and when materially changed |
 | Large catalogue before evidence | Begin with a limited pilot; expand only after useful buyer evidence appears |
-| Paid advertising before product fit | Do not assume ads in the first phase; test product/listing/search fit first |
+| Paid advertising before product fit | Test product/listing/search fit before adding paid advertising |
 
-The main investment at this stage is **research, design and validation time**, not inventory or physical infrastructure. Avoid courses or subscriptions in advance unless a demonstrated need justifies them.
+The main investment at this stage is **research, design and validation time**. The digital model requires minimal physical infrastructure; add courses or subscriptions when a demonstrated need justifies them.
 
 ---
 

@@ -19,7 +19,7 @@
 
 ## The US$0.20 listing rule
 
-A listing lasts four months. If it stays active and renews, another listing fee is charged. Digital products can be sold repeatedly, but listing/renewal fees are therefore not necessarily a one-time lifetime cost. [[17]](references.md#ref-17)
+A listing lasts four months. If it stays active and renews, another listing fee is charged, so listing/renewal fees can recur over the life of a digital product. [[17]](references.md#ref-17)
 
 ### Catalogue cost with no sales
 
@@ -49,19 +49,19 @@ Under the same simplified assumptions:
 - 100 sales × US$5 = US$500 revenue and about **US$385** after those basic Etsy/payment charges;
 - roughly **130 sales** would be needed to leave around US$500 after those same basic charges.
 
-These are contribution illustrations, not net profit.
+These illustrate contribution after the selected Etsy/payment charges; net profit also depends on the excluded costs listed above.
 
 ## Advertising risk illustration
 
 If ten paid clicks cost US$0.30 each and only one generates a US$5 sale, advertising spend would be US$3 and only about US$0.85 would remain after the same basic Etsy/payment charges.
 
-This is **not an Etsy CPC forecast**. It illustrates why advertising economics should be measured rather than assumed.
+This is an illustrative advertising scenario. Actual Etsy CPC and conversion economics need to be measured with real campaign data.
 
 ## Payoneer / USD → BRL
 
-An earlier working assumption used up to roughly 2% for some USD→BRL Payoneer withdrawal arrangements. Payoneer's current public pricing is corridor/account dependent and can differ, so the exact fee must be confirmed in the actual Payoneer account before launch. [[10]](references.md#ref-10)
+An earlier working assumption used up to roughly 2% for some USD→BRL Payoneer withdrawal arrangements. Payoneer's current public pricing is corridor/account dependent, so confirm the exact fee in the actual Payoneer account before launch. [[10]](references.md#ref-10)
 
-## UK reference — not the base plan
+## UK reference
 
 UK fees as a reference point:
 
@@ -77,7 +77,7 @@ Historical startup assumption:
 - 15 listings → US$3 initial listing fees;
 - plus the shop setup fee shown by Etsy;
 - a suggested **US$30–60 ceiling** for tools, small experiments and contingencies;
-- no paid advertising in the first phase.
+- paid advertising excluded from the first-phase budget.
 
 ## Financial measures
 

@@ -89,13 +89,13 @@ Terminology used consistently throughout the BoK:
 | Term | Meaning |
 |---|---|
 | **Search term / keyword** | Exact phrase a buyer may type into Etsy search |
-| **Seed** | Starting phrase used to discover other searches; not assumed to be attractive |
+| **Seed** | Starting phrase used to discover other searches |
 | **Discovered search** | Search returned from a seed or another research source |
 | **Listing** | Individual Etsy sales page |
 | **Product** | What the buyer purchases through a listing |
 | **Bundle** | One listing containing several related files/items/templates |
 | **Product family** | Several separate products serving the same buyer need, theme or occasion |
-| **Series** | Use only when the seller explicitly publishes a recurring named sequence or numbered volumes; not a synonym for product family |
+| **Series** | Recurring named sequence or numbered volumes explicitly published by the seller |
 | **Shop section** | Category created by the Etsy seller to organise listings inside the shop |
 | **Candidate competitor** | Shop worth investigating further |
 | **Core competitor** | Shop that repeatedly appears or strongly represents a category |
@@ -125,7 +125,7 @@ Terminology used consistently throughout the BoK:
 
 ## Current starting point
 
-All five product directions now have search, competitor/product and review evidence, with different levels of coverage by category. Invitations includes broad-demand and competitor evidence; Café includes measured coffee/matcha searches and three competitor offer models; Bilingual includes measured Spanish searches and both small-resource and large-system competitors; Catholic includes prayer/activity search evidence and concrete buyer-use findings; Colouring includes measured search evidence and three documented production models. No opportunity is prioritised or deprioritised at this stage.
+All five product directions now have search, competitor/product and review evidence, with different levels of coverage by category. Invitations includes broad-demand and competitor evidence; Café includes measured coffee/matcha searches and three competitor offer models; Bilingual includes measured Spanish searches and both small-resource and large-system competitors; Catholic includes prayer/activity search evidence and concrete buyer-use findings; Colouring includes measured search evidence and three documented production models. All five remain open for comparison.
 
 ---
 

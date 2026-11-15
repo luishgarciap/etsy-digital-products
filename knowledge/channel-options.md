@@ -15,7 +15,7 @@ The rationale is practical: Etsy provides marketplace search and an existing int
 | Criterion | Etsy | Payhip |
 |---|---|---|
 | Channel type | Marketplace with internal search and its own buyer audience | Digital storefront plus a marketplace with more limited discovery |
-| Demonstrable audience | Large published Etsy buyer base | No directly comparable public active-buyer metric identified |
+| Demonstrable audience | Large published Etsy buyer base | Comparable public active-buyer metric unavailable |
 | Product publishing | US$0.20 listing / renewal fee | Unlimited products on Free Forever plan |
 | Platform transaction fee | 6.5% Etsy transaction fee + payment processing + listing fee | 5% Payhip transaction fee on Free Forever + payment processor fee |
 | Advertising / discovery | Etsy Ads and Offsite Ads; organic search possible | Primarily seller-led traffic plus Payhip marketplace eligibility |
@@ -44,7 +44,7 @@ Payhip Marketplace eligibility currently requires:
 
 Mercado Pago can be connected in Brazil. Payhip states that the Payhip store currency must match the Mercado Pago account currency. Mercado Pago's standard fee currently starts from 3.99% per transaction according to Payhip's integration documentation. [[23]](references.md#ref-23)
 
-A BRL/Mercado Pago setup is therefore not automatically equivalent to an international USD-pricing strategy.
+A BRL/Mercado Pago setup therefore differs from an international USD-pricing strategy in currency and payment structure.
 
 ## Channel sequence
 
@@ -52,7 +52,7 @@ A BRL/Mercado Pago setup is therefore not automatically equivalent to an interna
 
 **Possible Phase 2 — Payhip:** use it for traffic generated through Instagram, Pinterest, business contacts or a future website if the payment setup fits the commercial model.
 
-**Later:** Creative Market or Creative Fabrica may be assessed for suitable original design assets, but only after an original catalogue exists and their admission criteria/fees have been researched.
+**Later:** Creative Market or Creative Fabrica may be assessed once an original catalogue exists and their admission criteria/fees have been researched.
 
 ---
 

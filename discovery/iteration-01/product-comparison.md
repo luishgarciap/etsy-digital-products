@@ -6,7 +6,7 @@
 
 ---
 
-This is the current cross-category view. **No numeric ranking has been assigned.**
+This is the current qualitative cross-category view.
 
 | Category | Demand/search evidence | Competitor/product evidence | Buyer/review evidence | Economic evidence | Current comparison question |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@ This is the current cross-category view. **No numeric ranking has been assigned.
 - Catholic research includes concrete buyer-use evidence across guides, prayer resources and children's activities; Etsy Marketplace Insights results for the selected searches have not yet been collected.
 - Colouring has three documented production models, while original-art production throughput is not yet measured.
 
-## Evidence not yet collected
+## Additional evidence for comparison
 
 - Etsy Marketplace Insights results for the selected searches;
 - the category-specific evidence gaps documented in [Opportunity assessment](opportunity-assessment.md#research-gaps--exact-meaning);

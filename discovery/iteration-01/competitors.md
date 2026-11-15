@@ -18,22 +18,22 @@ Every competitor entry should contain, as far as the current evidence allows:
 
 > **Shop name + direct Etsy link → why we selected it → relevant offering in our category → 1–3 concrete products with direct links → price / formats / bundle structure → positive review findings → critical review findings → exact review/listing source → what it teaches us → whether direct product inspection could add evidence, and why.**
 
-If a field has not yet been researched, write **not yet collected / not yet verified**. Do not fill gaps by inference.
+For fields without research evidence, write **not yet collected / not yet verified** and use observed evidence only.
 
-**Direct product inspection:** this is an optional competitor-analysis method for product-level questions that public listings/reviews cannot resolve.
+**Direct product inspection:** optional competitor-analysis method for product-level questions requiring access beyond public listings and reviews.
 
-**Review-source standard:** every review finding must point to the Etsy shop/listing/review source in the master IEEE-style bibliography in [References](../../knowledge/references.md). If the finding comes from **Etsy's own AI review summary**, say so explicitly; do not present it as though we manually read every review.
+**Review-source standard:** every review finding must point to the Etsy shop/listing/review source in the master IEEE-style bibliography in [References](../../knowledge/references.md). Label **Etsy's own AI review summary** explicitly and distinguish it from manually reviewed comments.
 
-**Price-recording standard:** Etsy prices and discounts move frequently. Record a price only when we have a dated observation. If not, say **price snapshot not yet captured** and use the linked listing as the source to check at purchase time.
+**Price-recording standard:** Etsy prices and discounts move frequently. Record a price when a dated observation is available; otherwise use **price snapshot not yet captured** and keep the linked listing as the source to check at purchase time.
 
 ### Competitor roles
 
 - **Core competitor:** repeatedly relevant or strongly representative of the category.
 - **Specialist competitor:** particularly strong in one meaningful sub-niche.
 - **Benchmark:** useful operating/product model to learn from.
-- **Contrast case:** deliberately different model, including approaches we may not want to copy.
+- **Contrast case:** deliberately different model used to understand alternative strategies and trade-offs.
 
-Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost or profit. Shop-level ratings do not substitute for reviews of the specific product type we are studying.
+Public Etsy sales counts are cumulative; monthly revenue, cost and profit are unavailable from those counts. Shop-level ratings provide shop-wide evidence, while product-level reviews provide evidence about the specific product type being studied.
 
 ---
 
@@ -59,9 +59,9 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Exact evidence source:** shop [[38]](../../knowledge/references.md#ref-38); representative listing [[39]](../../knowledge/references.md#ref-39).
 
-**What it teaches us:** the product unit can be an event-wide **product family/bundle**, not only an invitation.
+**What it teaches us:** the product unit can extend from a single invitation to an event-wide **product family/bundle**.
 
-**Hands-on research value:** **High.** Public information does not reveal the Canva source-file structure, instructions, organisation or export workflow.
+**Hands-on research value:** **High.** Hands-on inspection can reveal Canva source-file structure, instructions, organisation and export workflow.
 
 ---
 
@@ -79,7 +79,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Price / format / bundle:** large themed digital bundle; current price snapshot not yet captured in the BoK. Etsy promotions may change the displayed price. [[40]](../../knowledge/references.md#ref-40)
 
-**Positive review findings:** shop reviews observed in the current research emphasise fast access, quality and ease of customisation. These are **shop/review-page observations**, not a claim that every product has the same experience. [[35]](../../knowledge/references.md#ref-35)
+**Positive review findings:** shop reviews observed in the current research emphasise fast access, quality and ease of customisation. **Scope:** shop/review-page observations; product-level consistency across the catalogue remains unverified. [[35]](../../knowledge/references.md#ref-35)
 
 **Critical review findings:** additional critical-review evidence has not yet been collected on editing, mobile use, printing, instructions and support.
 
@@ -148,15 +148,15 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **Shop:** [DigitalbloomInvite on Etsy](https://www.etsy.com/shop/DigitalbloomInvite) [[36]](../../knowledge/references.md#ref-36)
 
-**Why selected:** retained from the original study as a smaller/lower-price contrast. It is not a core search-derived competitor.
+**Why selected:** retained from the original study as a smaller/lower-price contrast rather than a core search-derived competitor.
 
 **Relevant offering:** editable Canva party invitations across birthdays, baby showers and other celebrations.
 
-**Representative product(s):** the current shop page exposes multiple low-price editable invitation examples; **no specific representative listing has been selected**. [[36]](../../knowledge/references.md#ref-36)
+**Representative product(s):** selection pending; the current shop page exposes multiple low-price editable invitation examples. [[36]](../../knowledge/references.md#ref-36)
 
-**Price / format / bundle:** the Nov. 2026 public shop snapshot shows many single digital invitations using aggressive discounting, with visible sale prices around US$0.88–1.46 on several listings versus higher struck-through prices. These are a **dated shop snapshot**, not a stable price assumption. [[36]](../../knowledge/references.md#ref-36)
+**Price / format / bundle:** the Nov. 2026 public shop snapshot shows many single digital invitations using aggressive discounting, with visible sale prices around US$0.88–1.46 on several listings versus higher struck-through prices. Treat these as a **dated shop snapshot**; current prices may differ. [[36]](../../knowledge/references.md#ref-36)
 
-**Positive review findings:** current public reviews repeatedly mention easy editing/navigation, attractive design and value. These are shop-review findings, not a manually exhaustive review analysis. [[36]](../../knowledge/references.md#ref-36)
+**Positive review findings:** current public reviews repeatedly mention easy editing/navigation, attractive design and value. **Scope:** observed public shop-review sample. [[36]](../../knowledge/references.md#ref-36)
 
 **Critical review findings:** additional critical-review evidence has not yet been collected.
 
@@ -164,11 +164,11 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **What it teaches us:** useful low-price/smaller-shop contrast against larger invitation sellers.
 
-**Hands-on research value:** **Low.** Its current role is a smaller/lower-price benchmark; no distinct hands-on research question has been identified for it.
+**Hands-on research value:** **Low.** Its current value is primarily as a smaller/lower-price benchmark.
 
 ### Invitation category review gap
 
-The current evidence contains many positive buyer signals and a smaller sample of **1–3-star reviews**. Additional critical-review evidence could cover editing difficulty, mobile editing, resizing, print problems, instructions, non-editable artwork, support expectations and mismatch between preview and delivered files. This is an evidence gap, not proof that these problems are common.
+The current evidence contains many positive buyer signals and a smaller sample of **1–3-star reviews**. Additional critical-review evidence could cover editing difficulty, mobile editing, resizing, print problems, instructions, non-editable artwork, support expectations and mismatch between preview and delivered files. The current critical-review sample is too small to establish how common these problems are.
 
 ---
 
@@ -252,7 +252,7 @@ The current evidence contains many positive buyer signals and a smaller sample o
 
 ### Café category review gap
 
-Relevant shops are already documented, but the current sample contains relatively few reviews tied to **specific café/menu/bakery products**. Shop-wide ratings do not show how buyers experience Canva editing, sizes, printing, instructions, price/logo changes or practical business use.
+Relevant shops are already documented, but the current sample contains relatively few reviews tied to **specific café/menu/bakery products**. Shop-wide ratings provide limited evidence on Canva editing, sizes, printing, instructions, price/logo changes and practical business use.
 
 ---
 
@@ -277,7 +277,7 @@ Relevant shops are already documented, but the current sample contains relativel
 
 **Critical review findings:** the current sample is limited. Regional Spanish differences have already emerged as a quality consideration; broader product-specific critical-review evidence has not yet been collected.
 
-**Exact evidence source:** shop [[51]](../../knowledge/references.md#ref-51); flashcards [[52]](../../knowledge/references.md#ref-52); worksheet listing/reviews [[53]](../../knowledge/references.md#ref-53). **The summary wording is explicitly Etsy's own review summary, not our manual review of every comment.**
+**Exact evidence source:** shop [[51]](../../knowledge/references.md#ref-51); flashcards [[52]](../../knowledge/references.md#ref-52); worksheet listing/reviews [[53]](../../knowledge/references.md#ref-53). **Source type:** Etsy's own AI review summary.
 
 **What it teaches us:** a language product can operate as a coherent learning system: **flashcards → worksheets → curriculum/bundles**.
 
@@ -299,7 +299,7 @@ Relevant shops are already documented, but the current sample contains relativel
 
 **Price / format / bundle:** smaller thematic digital learning resource; current price snapshot not yet captured. [[55]](../../knowledge/references.md#ref-55)
 
-**Positive review findings:** general educational shop reviews include strong usefulness sentiment, but these are **not yet strong Spanish-specific evidence**. [[54]](../../knowledge/references.md#ref-54)
+**Positive review findings:** general educational shop reviews include strong usefulness sentiment; Spanish-specific evidence remains limited. [[54]](../../knowledge/references.md#ref-54)
 
 **Critical review findings:** Spanish-specific criticism has not yet been collected.
 
@@ -326,7 +326,7 @@ Relevant shops are already documented, but the current sample contains relativel
 
 **Price / format / bundle:** the Dutch bundle publicly shows five PDFs and a sale price snapshot of €13.33 versus €26.66 original at the time retrieved; the Russian flashcards are a one-PDF product with 112 cards. Treat these only as dated snapshots because Etsy promotions change. [[57]](../../knowledge/references.md#ref-57), [[58]](../../knowledge/references.md#ref-58)
 
-**Positive review findings:** the shop has a strong overall rating, but we do **not yet have product-specific review evidence for Spanish/bilingual-child products from this seller**.
+**Positive review findings:** the shop has a strong overall rating; product-specific review evidence for Spanish/bilingual-child products from this seller remains limited.
 
 **Critical review findings:** not yet collected for language products relevant to our buyer segment.
 
@@ -348,7 +348,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Shop:** [AveliaCreative on Etsy](https://www.etsy.com/it/shop/AveliaCreative) [[59]](../../knowledge/references.md#ref-59)
 
-**Why selected:** concrete, focused Catholic resources with actionable buyer-use evidence rather than merely decorative faith products.
+**Why selected:** concrete, focused Catholic resources with actionable buyer-use evidence.
 
 **Relevant offering:** Rosary guides, Rosary colouring, prayer cards, Bible trackers and Catholic children's materials.
 
@@ -364,7 +364,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Exact evidence source:** shop/reviews [[59]](../../knowledge/references.md#ref-59); Rosary listing/reviews [[60]](../../knowledge/references.md#ref-60).
 
-**What it teaches us:** buyer reviews highlight portability and **concise information architecture**, including the value of having key information on one sheet. The bilingual review is one buyer-use signal; broader bilingual-demand evidence has not yet been collected.
+**What it teaches us:** buyer reviews highlight portability and **concise information architecture**, including the value of having key information on one sheet. The bilingual review provides one buyer-use signal; broader bilingual-demand evidence remains limited.
 
 **Hands-on research value:** **Very high.** It provides a concise-guide model for direct comparison with larger activity resources.
 
@@ -390,7 +390,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Exact evidence source:** shop/review page [[61]](../../knowledge/references.md#ref-61); representative product [[62]](../../knowledge/references.md#ref-62).
 
-**What it teaches us:** the observed review shows that **instructions/onboarding affect product usability** when the intended use is not self-evident.
+**What it teaches us:** the observed review shows that **instructions/onboarding affect product usability** when the intended use requires explanation.
 
 **Hands-on research value:** **High** as the activity-based contrast to Avelia.
 
@@ -422,7 +422,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 ### Catholic category review gap
 
-Evidence not yet collected includes a broader critical-review sample, additional demand evidence for `catholic prayer card`, `catholic kids` and `communion printable`, and more buyer evidence on bilingual Catholic resources. The current bilingual evidence is one buyer-use signal, not evidence of broad market demand.
+Evidence not yet collected includes a broader critical-review sample, additional demand evidence for `catholic prayer card`, `catholic kids` and `communion printable`, and more buyer evidence on bilingual Catholic resources. The current bilingual evidence is based on one buyer-use signal; broader market demand remains unmeasured.
 
 ---
 
@@ -469,13 +469,13 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Price / format / bundle:** 40-page book-sized products; PDF + PNG format is visible in the current research. Current price snapshot may change with promotions. [[68]](../../knowledge/references.md#ref-68), [[69]](../../knowledge/references.md#ref-69)
 
-**Positive review findings:** shop reputation is strong, but we have not yet captured enough product-specific review detail to claim specific usability strengths.
+**Positive review findings:** shop reputation is strong; product-specific usability evidence remains limited.
 
 **Critical review findings:** not yet collected.
 
 **Exact evidence source:** shop [[67]](../../knowledge/references.md#ref-67); listings [[68]](../../knowledge/references.md#ref-68), [[69]](../../knowledge/references.md#ref-69).
 
-**What it teaches us:** tests whether **very few products + original hand-drawn work + stronger per-product identity** can create enough perceived value without hundreds of listings.
+**What it teaches us:** tests whether **a very small original hand-drawn catalogue + stronger per-product identity** can create enough perceived value.
 
 **Hands-on research value:** **Very high.** `Hobby Girl` is one of the most decision-relevant purchases because it directly tests the small original hand-drawn production model.
 
@@ -496,7 +496,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Price / format / bundle:** separate digital PDF colouring products at relatively accessible prices; current exact price snapshot may change with promotions. [[71]](../../knowledge/references.md#ref-71), [[72]](../../knowledge/references.md#ref-72)
 
-**Positive review findings:** `Girl Moments` has a large review base. **Etsy's own AI review summary**, together with visible individual reviews, highlights print quality, quick/easy download, ease of use, attractive drawings and shared/social colouring enjoyment. We are explicitly treating the AI summary as an Etsy-generated synthesis, not as our manual reading of all reviews. [[71]](../../knowledge/references.md#ref-71)
+**Positive review findings:** `Girl Moments` has a large review base. **Etsy's own AI review summary**, together with visible individual reviews, highlights print quality, quick/easy download, ease of use, attractive drawings and shared/social colouring enjoyment. **Source type:** Etsy-generated AI review summary, supplemented by visible individual reviews. [[71]](../../knowledge/references.md#ref-71)
 
 **Critical review findings:** additional critical-review evidence has not yet been collected on resolution, line quality, printing, tablet use, style consistency and whether products feel repetitive.
 
@@ -512,7 +512,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Shop:** [ZenovaVibe on Etsy](https://www.etsy.com/shop/ZenovaVibe) [[37]](../../knowledge/references.md#ref-37)
 
-**Why selected:** preserved from the original report as a large/low-price bundle contrast. It has not emerged strongly in the current RankHero search work and remains a baseline/contrast case.
+**Why selected:** preserved from the original report as a large/low-price bundle contrast. Current RankHero work shows limited recurrence, so it remains a baseline/contrast case.
 
 **Relevant offering:** high-volume digital colouring/bundle proposition.
 
@@ -542,7 +542,7 @@ This comparison examines three concrete catalogue/production models.
 | **Very few, original hand-drawn books** | KomfiKatColoring | Very small catalogue; artwork positioned as drawn from scratch; 40-page PDF + PNG books. [[67]](../../knowledge/references.md#ref-67)–[[69]](../../knowledge/references.md#ref-69) | **Can a small, distinctive/original catalogue generate sufficient buyer value without a high listing count?** |
 | **Recognisable branded product families** | CocoWyoColoring | Roughly mid-sized catalogue relative to QuirkyFindsPH, very high cumulative sales, recognisable styles/product concepts. [[70]](../../knowledge/references.md#ref-70)–[[72]](../../knowledge/references.md#ref-72) | **How does consistent visual identity relate to repeat-purchase signals in a catalogue with fewer listings?** |
 
-**Current status:** the three models are documented for comparison; no ranking has been assigned.
+**Current status:** the three models are documented for qualitative comparison.
 
 ### Colouring category review gap
 
@@ -554,7 +554,7 @@ Evidence not yet collected includes more critical reviews on line quality, resol
 
 The products below were selected as representative examples because each adds a distinct model, product structure or research question to the current competitor analysis.
 
-**Selection basis:** each product represents a distinct product/operating model, is relevant to a current category or search direction, and adds evidence that is not already fully represented by another candidate. **Every selected product has a direct Etsy listing link.**
+**Selection basis:** each product represents a distinct product/operating model, is relevant to a current category or search direction, and adds distinct evidence relative to other candidates. **Every selected product has a direct Etsy listing link.**
 
 | Category | Representative products | Why these products were selected |
 |---|---|---|
@@ -581,7 +581,7 @@ If a product is purchased for direct inspection, record:
 - what feels polished;
 - what is confusing or missing;
 - what buyer problem the product solves;
-- ideas for a genuinely different/better product — **not copying competitor content**.
+- ideas for a genuinely different/better product while preserving original content and design.
 
 ---
 

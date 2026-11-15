@@ -145,7 +145,7 @@ Terms to investigate:
 
 `bakery menu template` · `bakery menu` · `bakery price list` · `bakery price list template` · `bakery Canva template`
 
-These are **research seeds / hypotheses**, not yet claimed as RankHero-discovered terms.
+Source status: **researcher-selected seeds / hypotheses**; RankHero discovery status has not yet been verified.
 
 #### Broader food-service branch
 
@@ -372,7 +372,7 @@ Record for each: 30-day searches, Etsy listings, trend/related terms, observed p
 
 ## Seasonality
 
-December / Christmas introduces seasonal demand, while evergreen products are not tied to a specific seasonal window.
+December / Christmas introduces seasonal demand, while evergreen products can sell across multiple seasonal windows.
 
 
 ---

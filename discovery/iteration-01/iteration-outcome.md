@@ -9,7 +9,7 @@
 - [ ] **NEXT ITERATION** — a material question still requires another discovery cycle
 - [ ] **OPERATE / EXPAND** — evidence is sufficient to move the selected product line into normal operation
 - [ ] **PIVOT** — change product direction materially
-- [ ] **STOP** — further work is not justified
+- [ ] **STOP** — evidence supports ending this path
 
 ## Decision
 _TBD._
