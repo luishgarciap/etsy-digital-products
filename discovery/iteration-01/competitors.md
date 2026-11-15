@@ -8,15 +8,15 @@
 
 ## How to use this file
 
-Use this page for **shops, listings, reviews, product structures and products worth buying for research**. Demand metrics belong in [Market & demand](market-demand.md); financial modelling belongs in [Product economics](product-economics.md).
+Use this page for **shops, listings, reviews, product structures, representative products and possible research-purchase candidates**. Demand metrics belong in [Market & demand](market-demand.md); financial modelling belongs in [Product economics](product-economics.md).
 
-**Jump to:** [Invitations](#invitations--celebrations) · [Café](#café--gastronomy--bakery) · [Bilingual](#bilingual-children--family-learning) · [Catholic](#catholic--faith-based) · [Colouring](#colouring--creative) · [Purchase shortlist](#purchase-decision-shortlist) · [References](../../knowledge/references.md)
+**Jump to:** [Invitations](#invitations--celebrations) · [Café](#café--gastronomy--bakery) · [Bilingual](#bilingual-children--family-learning) · [Catholic](#catholic--faith-based) · [Colouring](#colouring--creative) · [Representative products](#representative-product-shortlist) · [References](../../knowledge/references.md)
 
 ### Mandatory competitor-entry rule
 
 Every competitor entry should contain, as far as the current evidence allows:
 
-> **Shop name + direct Etsy link → why we selected it → relevant offering in our category → 1–3 concrete products with direct links → price / formats / bundle structure → positive review findings → critical review findings → exact review/listing source → what it teaches us → whether a product is worth purchasing for direct product inspection.**
+> **Shop name + direct Etsy link → why we selected it → relevant offering in our category → 1–3 concrete products with direct links → price / formats / bundle structure → positive review findings → critical review findings → exact review/listing source → what it teaches us → whether direct product inspection could add evidence, and why.**
 
 If a field has not yet been researched, write **not yet collected / not yet verified**. Do not fill gaps by inference.
 
@@ -24,7 +24,7 @@ If a field has not yet been researched, write **not yet collected / not yet veri
 
 **Review-source rule:** every review finding must point to the Etsy shop/listing/review source in the master IEEE-style bibliography in [References](../../knowledge/references.md). If the finding comes from **Etsy's own AI review summary**, say so explicitly; do not present it as though we manually read every review.
 
-**Price rule:** Etsy prices and discounts move frequently. Record a price only when we have a dated observation. If not, say **price snapshot not yet captured** and use the linked listing as the source to check immediately before a purchase decision.
+**Price rule:** Etsy prices and discounts move frequently. Record a price only when we have a dated observation. If not, say **price snapshot not yet captured** and use the linked listing as the source to check at purchase time.
 
 ### Competitor roles
 
@@ -51,17 +51,17 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 - [Luxury Burgundy Wedding Invitation Suite](https://www.etsy.com/in-en/listing/4590477604/luxury-burgundy-wedding-invitation-suite) [[39]](../../knowledge/references.md#ref-39)
 
-**Price / format / bundle:** current public listing identifies a digital download delivered through a PDF and editable Canva workflow. The suite includes the main invitation, details card, RSVP/monogram/place card, welcome-party card and envelope liner; exports include PDF/JPEG/PNG. Text, fonts, colours and text placement are editable, while artwork/page sizes are more constrained. **Price snapshot should be rechecked immediately before purchase because the listing is promotion-sensitive.** [[39]](../../knowledge/references.md#ref-39)
+**Price / format / bundle:** current public listing identifies a digital download delivered through a PDF and editable Canva workflow. The suite includes the main invitation, details card, RSVP/monogram/place card, welcome-party card and envelope liner; exports include PDF/JPEG/PNG. Text, fonts, colours and text placement are editable, while artwork/page sizes are more constrained. **Price snapshot should be rechecked at purchase time because the listing is promotion-sensitive.** [[39]](../../knowledge/references.md#ref-39)
 
 **Positive review findings:** product-specific review evidence has not yet been mined deeply enough for this listing. Shop-level reputation is strong, but that is not a substitute for suite-specific buyer feedback. [[38]](../../knowledge/references.md#ref-38), [[39]](../../knowledge/references.md#ref-39)
 
-**Critical review findings:** not yet collected. We specifically need complaints about editing friction, non-editable artwork, resizing, printing, instructions and export quality.
+**Critical review findings:** not yet collected. Evidence not yet collected includes complaints about editing friction, non-editable artwork, resizing, printing, instructions and export quality.
 
 **Exact evidence source:** shop [[38]](../../knowledge/references.md#ref-38); representative listing [[39]](../../knowledge/references.md#ref-39).
 
 **What it teaches us:** the product unit can be an event-wide **product family/bundle**, not only an invitation.
 
-**Purchase value:** **High.** Public information cannot tell us whether the Canva source file, instructions, organisation and export experience actually feel premium.
+**Hands-on research value:** **High.** Public information cannot tell us whether the Canva source file, instructions, organisation and export experience actually feel premium.
 
 ---
 
@@ -77,17 +77,17 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 - [Spooky One Birthday Bundle](https://www.etsy.com/listing/4350671765/spooky-one-birthday-bundle-halloween) [[40]](../../knowledge/references.md#ref-40)
 
-**Price / format / bundle:** large themed digital bundle; current price snapshot not yet captured in the BoK. Recheck the listing immediately before purchase. [[40]](../../knowledge/references.md#ref-40)
+**Price / format / bundle:** large themed digital bundle; current price snapshot not yet captured in the BoK. Recheck the listing at purchase time. [[40]](../../knowledge/references.md#ref-40)
 
 **Positive review findings:** shop reviews observed in the current research emphasise fast access, quality and ease of customisation. These are **shop/review-page observations**, not a claim that every product has the same experience. [[35]](../../knowledge/references.md#ref-35)
 
-**Critical review findings:** not yet deliberately mined. We still need 1–3-star evidence on editing, mobile use, printing, instructions and support.
+**Critical review findings:** not yet deliberately mined. The current sample does not yet include enough 1–3-star evidence on editing, mobile use, printing, instructions and support.
 
 **Exact evidence source:** shop/review page [[35]](../../knowledge/references.md#ref-35); representative bundle [[40]](../../knowledge/references.md#ref-40).
 
 **What it teaches us:** buyer experience is part of the product: **attractive design + simple editing + fast access**. It also demonstrates how a seller can reuse an operating model across many party themes.
 
-**Purchase value:** **High/medium.** Buy if we want to compare a large standardised bundle against a smaller premium suite. Before purchase, identify a same-theme single invitation if possible so we can compare single vs bundle value.
+**Hands-on research value:** **High/medium.** It provides a large standardised-bundle contrast against a smaller premium suite. A same-theme single invitation would add a direct single-vs-bundle comparison if one is identified.
 
 ---
 
@@ -103,17 +103,17 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 - [Sikh Wedding Invitation Set — Anand Karaj / Mehndi / Jago / Reception](https://www.etsy.com/listing/4538122436/sikh-wedding-invitation-set-anand-karaj) [[41]](../../knowledge/references.md#ref-41)
 
-**Price / format / bundle:** multi-event digital invitation set; current price snapshot not yet captured in the BoK. Listing should be checked immediately before purchase. [[41]](../../knowledge/references.md#ref-41)
+**Price / format / bundle:** multi-event digital invitation set; current price snapshot not yet captured in the BoK. Recheck the listing at purchase time. [[41]](../../knowledge/references.md#ref-41)
 
 **Positive review findings:** reviews observed during research praise instant access, visual quality and delivered products matching listing imagery. These findings come from the public Etsy shop/review evidence. [[34]](../../knowledge/references.md#ref-34)
 
-**Critical review findings:** not yet deliberately mined. We need evidence on cultural accuracy, language editing, mobile formatting, print quality and buyer support.
+**Critical review findings:** not yet deliberately mined. Evidence not yet collected includes cultural accuracy, language editing, mobile formatting, print quality and buyer-support issues.
 
 **Exact evidence source:** shop/review page [[34]](../../knowledge/references.md#ref-34); specialist bundle [[41]](../../knowledge/references.md#ref-41).
 
 **What it teaches us:** a culturally specific buyer need may create a clearer value proposition than another generic invitation.
 
-**Purchase value:** **High as a specialist contrast.** Especially useful if the listing includes both print and mobile formats, because that tests whether format flexibility adds real value.
+**Hands-on research value:** **High as a specialist contrast.** The print/mobile format combination can provide evidence on whether format flexibility adds buyer value.
 
 ---
 
@@ -130,17 +130,17 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 - [Dinosaur Birthday Invitation](https://www.etsy.com/listing/4476747319/dinosaur-birthday-invitation-editable) [[43]](../../knowledge/references.md#ref-43)
 - [Santa Baby Shower Bundle](https://www.etsy.com/ca/listing/1801121273/santa-baby-shower-bundle-christmas-baby) [[44]](../../knowledge/references.md#ref-44)
 
-**Price / format / bundle:** digital editable invitation/bundle model. The Santa bundle visibly includes many coordinated templates/games; exact local prices are promotion- and region-sensitive and should be checked at purchase time. [[43]](../../knowledge/references.md#ref-43), [[44]](../../knowledge/references.md#ref-44)
+**Price / format / bundle:** digital editable invitation/bundle model. The Santa bundle visibly includes many coordinated templates/games; exact local prices are promotion- and region-sensitive; recheck them at purchase time. [[43]](../../knowledge/references.md#ref-43), [[44]](../../knowledge/references.md#ref-44)
 
 **Positive review findings:** not yet product-specifically mined for these two listings.
 
-**Critical review findings:** not yet collected. We need evidence on whether catalogue breadth creates buyer value or simply many near-duplicate variations.
+**Critical review findings:** not yet collected. Evidence not yet collected includes whether buyers experience the catalogue breadth as added value or as near-duplicate variation.
 
 **Exact evidence source:** shop [[42]](../../knowledge/references.md#ref-42); listings [[43]](../../knowledge/references.md#ref-43), [[44]](../../knowledge/references.md#ref-44).
 
 **What it teaches us:** theme, age and occasion variation can turn a repeatable production architecture into many listings.
 
-**Purchase value:** **Medium.** Useful mainly if we want hands-on evidence about systematic catalogue production rather than specialist differentiation.
+**Hands-on research value:** **Medium.** Its main research value is the systematic catalogue-production model rather than specialist differentiation.
 
 ---
 
@@ -164,11 +164,11 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **What it teaches us:** useful low-price/smaller-shop contrast against larger invitation sellers.
 
-**Purchase value:** **Low for now.** Keep as a benchmark unless a specific listing becomes necessary to answer a question that the higher-priority products cannot answer.
+**Hands-on research value:** **Low for now.** Its current role is primarily as a benchmark unless a specific listing answers a question not covered by the stronger research candidates.
 
 ### Invitation category review gap
 
-We already have many positive signals. The missing evidence is **deliberate 1–3-star review mining** for editing difficulty, mobile editing, resizing, print problems, instructions, non-editable artwork, support expectations and mismatch between preview and delivered files. This is an evidence gap, not proof that these problems are common.
+The current evidence contains many positive buyer signals and a smaller sample of **1–3-star reviews**. Additional critical-review evidence could cover editing difficulty, mobile editing, resizing, print problems, instructions, non-editable artwork, support expectations and mismatch between preview and delivered files. This is an evidence gap, not proof that these problems are common.
 
 ---
 
@@ -196,7 +196,7 @@ We already have many positive signals. The missing evidence is **deliberate 1–
 
 **What it teaches us:** potential product-family expansion: **menu → price list → loyalty card → social media → broader business kit**.
 
-**Purchase value:** **High** if we want to understand whether a simple café menu can naturally lead into a higher-value business-resource family.
+**Hands-on research value:** **High.** It can show whether a simple café menu is structured in a way that can extend into a broader business-resource family.
 
 ---
 
@@ -216,13 +216,13 @@ We already have many positive signals. The missing evidence is **deliberate 1–
 
 **Positive review findings:** **insufficient product-specific menu reviews currently captured**.
 
-**Critical review findings:** insufficient product-specific evidence. We need feedback on Canva editing, resizing, printing, readability, price updating, logo/image replacement, digital-screen use and instructions.
+**Critical review findings:** insufficient product-specific evidence. Evidence not yet collected includes product-specific feedback on Canva editing, resizing, printing, readability, price updating, logo/image replacement, digital-screen use and instructions.
 
 **Exact evidence source:** shop [[47]](../../knowledge/references.md#ref-47); menu listing [[48]](../../knowledge/references.md#ref-48).
 
 **What it teaches us:** provides the clean comparison point for **simple menu only** versus multi-layout/broader kit propositions.
 
-**Purchase value:** **Useful precisely because public review evidence is incomplete**; hands-on use can reveal the actual editing and delivery experience.
+**Hands-on research value:** **Medium/high.** Public review evidence is incomplete, so direct inspection could add evidence on the actual editing and delivery experience.
 
 ---
 
@@ -248,11 +248,11 @@ We already have many positive signals. The missing evidence is **deliberate 1–
 
 **What it teaches us:** tests whether **multiple layouts** create genuine value or merely increase file count.
 
-**Purchase value:** **Medium/high** as a contrast to GraphiCarola and BizTemplateZone.
+**Hands-on research value:** **Medium/high** as a contrast to GraphiCarola and BizTemplateZone.
 
 ### Café category review gap
 
-We have relevant shops, but need more sellers whose **specific café/menu/bakery products** have enough reviews. A shop-wide rating cannot answer whether Canva editing, sizes, printing, instructions, price/logo changes and practical business use are good.
+Relevant shops are already documented, but the current sample contains relatively few reviews tied to **specific café/menu/bakery products**. Shop-wide ratings do not show how buyers experience Canva editing, sizes, printing, instructions, price/logo changes or practical business use.
 
 ---
 
@@ -281,7 +281,7 @@ We have relevant shops, but need more sellers whose **specific café/menu/bakery
 
 **What it teaches us:** a language product can operate as a coherent learning system: **flashcards → worksheets → curriculum/bundles**.
 
-**Purchase value:** **Very high.** The 300+ and 900+ products let us test organisation, age appropriateness, progression, linguistic consistency, file structure and whether large volume feels useful or overwhelming. We may only need one initially if it answers enough questions.
+**Hands-on research value:** **Very high.** The 300+ and 900+ products can show organisation, age appropriateness, progression, linguistic consistency, file structure and whether large volume feels useful or overwhelming.
 
 ---
 
@@ -307,7 +307,7 @@ We have relevant shops, but need more sellers whose **specific café/menu/bakery
 
 **What it teaches us:** alternative architecture: many smaller learning resources rather than one giant language bundle.
 
-**Purchase value:** **Medium/high** as the small-module contrast to DoodleSafari.
+**Hands-on research value:** **Medium/high** as the small-module contrast to DoodleSafari.
 
 ---
 
@@ -334,11 +334,11 @@ We have relevant shops, but need more sellers whose **specific café/menu/bakery
 
 **What it teaches us:** scalable production model: **one architecture → adaptation to several languages**. This is commercially different from a child-specific homeschool curriculum.
 
-**Purchase value:** **Low/medium for now.** Useful as an architecture benchmark; DoodleSafari/Homeschoolwithlizz are closer to our current child/family decision question.
+**Hands-on research value:** **Low/medium for now.** Its main value is as an architecture benchmark; DoodleSafari and Homeschoolwithlizz are closer to the current child/family comparison.
 
 ### Bilingual category review gap
 
-We have good product evidence but still too few reviews specifically attached to Spanish/bilingual products. We need evidence on age suitability, linguistic correctness, regional differences, organisation, print usability, progression and whether large bundles help or overwhelm. Portuguese-English demand/evidence is also still thin.
+Product evidence is already substantial, but the current sample contains relatively few reviews specifically attached to Spanish/bilingual products. Additional evidence could cover age suitability, linguistic correctness, regional differences, organisation, print usability, progression and whether large bundles help or overwhelm. Portuguese-English demand evidence is also limited.
 
 ---
 
@@ -366,7 +366,7 @@ We have good product evidence but still too few reviews specifically attached to
 
 **What it teaches us:** portability and **concise information architecture** can be product value. More pages are not automatically better. The bilingual review is a real buyer signal, but only one signal — not yet proof of broad bilingual demand.
 
-**Purchase value:** **Very high.** Simple enough to evaluate deeply without confusing quantity with usefulness.
+**Hands-on research value:** **Very high.** Simple enough to evaluate deeply without confusing quantity with usefulness.
 
 ---
 
@@ -392,7 +392,7 @@ We have good product evidence but still too few reviews specifically attached to
 
 **What it teaches us:** attractive content is not enough if the buyer does not understand how to use it; **instructions/onboarding are product features**.
 
-**Purchase value:** **High** as the activity-based contrast to Avelia.
+**Hands-on research value:** **High** as the activity-based contrast to Avelia.
 
 ---
 
@@ -418,11 +418,11 @@ We have good product evidence but still too few reviews specifically attached to
 
 **What it teaches us:** repeated activity formats can potentially be adapted across many themes efficiently.
 
-**Purchase value:** **Lower priority.** Useful scale/volume contrast, but Avelia and PrayerBoard answer more immediate product-design questions.
+**Hands-on research value:** **Lower.** It is mainly a scale/volume contrast; Avelia and PrayerBoard represent the two primary product-design models currently being compared.
 
 ### Catholic category review gap
 
-We still need broader critical-review evidence, stronger demand evidence for `catholic prayer card`, `catholic kids` and `communion printable`, and more than one signal before treating bilingual Catholic resources as a market opportunity.
+Evidence not yet collected includes a broader critical-review sample, additional demand evidence for `catholic prayer card`, `catholic kids` and `communion printable`, and more buyer evidence on bilingual Catholic resources. The current bilingual evidence is one buyer-use signal, not evidence of broad market demand.
 
 ---
 
@@ -444,13 +444,13 @@ We still need broader critical-review evidence, stronger demand evidence for `ca
 
 **Positive review findings:** observed buyer comments mention easy downloads, attractive pages, variety, bold lines that help digital colouring and repeat purchases. One buyer states they own almost all of the seller's books. These are public shop/review observations. [[65]](../../knowledge/references.md#ref-65)
 
-**Critical review findings:** not yet deliberately mined. We need complaints about line quality, resolution, printing, tablet compatibility, file organisation and repetitiveness.
+**Critical review findings:** not yet deliberately mined. Evidence not yet collected includes complaints about line quality, resolution, printing, tablet compatibility, file organisation and repetitiveness.
 
 **Exact evidence source:** shop/reviews [[65]](../../knowledge/references.md#ref-65); representative listing [[66]](../../knowledge/references.md#ref-66).
 
 **What it teaches us:** evidence for a repeat-purchase product-family model: **consistent style + frequent new themes → buyer returns for more books**.
 
-**Purchase value:** **High** if we want to understand the higher-output catalogue model and compare it with KomfiKat's smaller hand-drawn operation.
+**Hands-on research value:** **High.** It represents the higher-output catalogue model for comparison with KomfiKat's smaller hand-drawn operation.
 
 ---
 
@@ -477,7 +477,7 @@ We still need broader critical-review evidence, stronger demand evidence for `ca
 
 **What it teaches us:** tests whether **very few products + original hand-drawn work + stronger per-product identity** can create enough perceived value without hundreds of listings.
 
-**Purchase value:** **Very high.** `Hobby Girl` is one of the most decision-relevant purchases because it directly tests the small original hand-drawn production model.
+**Hands-on research value:** **Very high.** `Hobby Girl` is one of the most decision-relevant purchases because it directly tests the small original hand-drawn production model.
 
 ---
 
@@ -498,13 +498,13 @@ We still need broader critical-review evidence, stronger demand evidence for `ca
 
 **Positive review findings:** `Girl Moments` has a large review base. **Etsy's own AI review summary**, together with visible individual reviews, highlights print quality, quick/easy download, ease of use, attractive drawings and shared/social colouring enjoyment. We are explicitly treating the AI summary as an Etsy-generated synthesis, not as our manual reading of all reviews. [[71]](../../knowledge/references.md#ref-71)
 
-**Critical review findings:** not yet deliberately mined. We need 1–3-star evidence on resolution, line quality, printing, tablet use, style consistency and whether products feel repetitive.
+**Critical review findings:** not yet deliberately mined. The current sample does not yet include enough 1–3-star evidence on resolution, line quality, printing, tablet use, style consistency and whether products feel repetitive.
 
 **Exact evidence source:** shop [[70]](../../knowledge/references.md#ref-70); `Girl Moments` listing/reviews [[71]](../../knowledge/references.md#ref-71); `Spooky Cutie` [[72]](../../knowledge/references.md#ref-72).
 
 **What it teaches us:** a seller may achieve high sales with a relatively limited number of listings if products have recognisable visual identity, coherent concepts, repeatable naming/themes and low-friction digital delivery.
 
-**Purchase value:** **High** as the recognisable-brand/product-family contrast.
+**Hands-on research value:** **High** as the recognisable-brand/product-family contrast.
 
 ---
 
@@ -530,7 +530,7 @@ We still need broader critical-review evidence, stronger demand evidence for `ca
 
 **What it teaches us:** historical contrast for lower-price/high-volume bundle logic.
 
-**Purchase value:** **Low priority** unless a specific question emerges that the other three Colouring models do not answer.
+**Hands-on research value:** **Low.** Its role is a historical high-volume/low-price contrast unless a question emerges that the other three Colouring models do not answer.
 
 ## Why the different Colouring production models matter
 
@@ -546,29 +546,29 @@ This comparison is operational, not abstract. We are trying to understand what k
 
 ### Colouring category review gap
 
-We still need critical reviews on line quality, resolution, printing, tablet/Procreate usability and repetition, plus hands-on product inspection. We also need to test whether `hand drawn coloring` is a meaningful buyer search and what production rate is realistic for original hand-drawn artwork.
+Evidence not yet collected includes more critical reviews on line quality, resolution, printing, tablet/Procreate usability and repetition, narrower search evidence for `hand drawn coloring`, and a realistic production-rate estimate for original hand-drawn artwork. Direct product inspection could add evidence that is not visible in public listings and reviews.
 
 ---
 
-# Purchase decision shortlist
+# Representative product shortlist
 
-The purpose is **not** to buy from every strong shop. A product enters this shortlist only when it adds learning that another candidate does not already provide.
+The products below were selected as representative examples because each adds a distinct model, product structure or research question to the current competitor analysis.
 
-**Selection rule:** every product in this shortlist is here for a specific research reason — not because it is simply popular or visually attractive. Prioritise products that (1) represent a distinct product/operating model, (2) answer an important evidence gap that public listing data cannot answer, (3) are relevant to a product direction we could realistically pursue, and (4) avoid duplicating the learning from another purchase. **Every selected product has a direct Etsy listing link.** Representative products that do not meet all four criteria remain linked in the competitor sections but do not need to be bought.
+**Selection basis:** each product represents a distinct product/operating model, is relevant to a current category or search direction, and adds evidence that is not already fully represented by another candidate. **Every selected product has a direct Etsy listing link.**
 
-| Category | Products worth considering | Why these products were selected |
+| Category | Representative products | Why these products were selected |
 |---|---|---|
-| **Invitations** | [InvitationDesignStd — Luxury Burgundy Wedding Invitation Suite](https://www.etsy.com/in-en/listing/4590477604/luxury-burgundy-wedding-invitation-suite) · [JoyablyStudio — Sikh Wedding Invitation Set](https://www.etsy.com/listing/4538122436/sikh-wedding-invitation-set-anand-karaj) · [MirthlyStudio — Spooky One Birthday Bundle](https://www.etsy.com/listing/4350671765/spooky-one-birthday-bundle-halloween) | Coordinated premium suite vs culturally specific specialist offer vs large standardised party bundle. Buying all three is **not required** if two answer the questions sufficiently. |
-| **Café / bakery** | [BizTemplateZone — Coffee Menu / Cafe Price List](https://www.etsy.com/listing/1845225463/coffee-menu-template-editable-cafe-price) · [GraphiCarola — Coffee Menu Template](https://www.etsy.com/listing/1587765738/coffee-menu-coffee-shop-menu-template) · [NayaLioraStudio — Pink Matcha Menu Templates](https://www.etsy.com/listing/4468584695/price-list-template-canva-minimalist) | Broader business-family potential vs focused simple menu vs multi-layout niche offer. We need enough contrast to judge whether extra layouts/business assets create real value. |
+| **Invitations** | [InvitationDesignStd — Luxury Burgundy Wedding Invitation Suite](https://www.etsy.com/in-en/listing/4590477604/luxury-burgundy-wedding-invitation-suite) · [JoyablyStudio — Sikh Wedding Invitation Set](https://www.etsy.com/listing/4538122436/sikh-wedding-invitation-set-anand-karaj) · [MirthlyStudio — Spooky One Birthday Bundle](https://www.etsy.com/listing/4350671765/spooky-one-birthday-bundle-halloween) | Coordinated premium suite vs culturally specific specialist offer vs large standardised party bundle. |
+| **Café / bakery** | [BizTemplateZone — Coffee Menu / Cafe Price List](https://www.etsy.com/listing/1845225463/coffee-menu-template-editable-cafe-price) · [GraphiCarola — Coffee Menu Template](https://www.etsy.com/listing/1587765738/coffee-menu-coffee-shop-menu-template) · [NayaLioraStudio — Pink Matcha Menu Templates](https://www.etsy.com/listing/4468584695/price-list-template-canva-minimalist) | Broader business-family model vs focused simple menu vs multi-layout niche offer. |
 | **Bilingual learning** | [DoodleSafari — 300+ Spanish Flashcards](https://www.etsy.com/listing/1566158593/learning-spanish-bundle-300-spanish) · [DoodleSafari — 900+ Spanish Worksheets](https://www.etsy.com/au/listing/1274697210/learning-spanish-bundle-900-spanish) · [Homeschoolwithlizz — Spanish-English Flashcards](https://www.etsy.com/listing/1514230515/spanish-flashcards-kids-spanish-words) | Large-system organisation/language quality vs very large volume vs smaller thematic resource. |
-| **Catholic / faith** | [AveliaCreative — How to Pray the Rosary Guide](https://www.etsy.com/listing/1415956417/how-to-pray-the-rosary-instant-download) · [PrayerBoardShop — Prayer Board for Kids](https://www.etsy.com/listing/1561394073/prayer-board-for-kids-christian-kids) | Concise information/portability vs activity/onboarding. [ProudPracticalPrints — Nativity Bingo](https://www.etsy.com/listing/1605073152/nativity-bingo-50-nativity-bingo-cards) remains a useful scale/volume contrast but is lower priority to buy. |
+| **Catholic / faith** | [AveliaCreative — How to Pray the Rosary Guide](https://www.etsy.com/listing/1415956417/how-to-pray-the-rosary-instant-download) · [PrayerBoardShop — Prayer Board for Kids](https://www.etsy.com/listing/1561394073/prayer-board-for-kids-christian-kids) | Concise information/portability vs activity/onboarding. [ProudPracticalPrints — Nativity Bingo](https://www.etsy.com/listing/1605073152/nativity-bingo-50-nativity-bingo-cards) remains a scale/volume contrast. |
 | **Colouring / creative** | [KomfiKatColoring — Hobby Girl](https://www.etsy.com/dk-en/listing/4472798201/hobby-girl-cute-and-cozy-coloring-book) · [QuirkyFindsPH — Cozy Room Coloring Book](https://www.etsy.com/listing/4610535810/cozy-room-coloring-book-nook-coloring) · [CocoWyoColoring — Girl Moments](https://www.etsy.com/listing/1831007226/girl-moments-cute-cozy-daily-activities) | Directly compares the three operating models: small original hand-drawn catalogue, higher-output themed catalogue, and recognisable branded product family. `Hobby Girl` is especially relevant to testing the small original hand-drawn model. |
 
-**Status:** this is a research-purchase shortlist. Purchase decisions remain open.
+**Status:** these are representative research candidates. Purchase decisions remain open.
 
 ## Direct product inspection checklist
 
-For each purchased product record:
+If a product is purchased for direct inspection, record:
 
 - listing and price paid;
 - what the buyer actually receives;

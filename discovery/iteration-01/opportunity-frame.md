@@ -106,15 +106,15 @@ Use these terms consistently so we do not confuse the unit being analysed:
 
 ## Current maturity
 
-| Opportunity | What we know now | What is still missing |
+| Opportunity | What we know now | Evidence not yet collected |
 |---|---|---|
-| Invitations / celebrations | Strong search discovery and strong competitor/product evidence; broad demand is established | Etsy Marketplace Insights validation and more critical product-review evidence |
-| Café / gastronomy / bakery | Good search discovery and relevant competitor models; product-specific review evidence is thinner | Bakery/broader café validation, more menu-specific buyer reviews and realistic production effort |
-| Bilingual children / family | Strong screening signals and good competitor/product evidence across small resources and large bundles | Spanish-specific reviews, Etsy validation, Portuguese-English evidence, QA effort and bundle economics |
-| Catholic / faith-based | Good search/competitor evidence and unusually concrete product-use/review insights | Direct keyword validation, broader bilingual/sacramental evidence, critical reviews and product economics |
-| Colouring / creative | Strong search/competitor/review evidence and three distinct production models to compare | Etsy validation, narrower hand-drawn search evidence, critical product reviews and realistic original-art production rate |
+| Invitations / celebrations | RankHero screening covers wedding, birthday and baby-shower searches; competitor/product research includes coordinated suites, themed bundles and culturally specific offers. | Etsy Marketplace Insights results for selected searches; a larger critical-review sample. |
+| Café / gastronomy / bakery | RankHero screening covers `coffee menu`, `matcha menu` and `food menu template`; competitor research includes focused menu, multi-layout and broader business-resource models. | More bakery/broader café demand evidence; more product-specific menu reviews; production-effort estimates. |
+| Bilingual children / family | RankHero screening covers `spanish flashcards` and `spanish alphabet`; competitor research includes smaller thematic resources and large learning systems/bundles. | Etsy Marketplace Insights results; more Spanish/bilingual product-specific reviews; Portuguese-English demand evidence; QA and bundle-economics estimates. |
+| Catholic / faith-based | RankHero screening covers prayer and activity searches; competitor/review research includes concise guides, children's activities and scale/volume models. | Etsy Marketplace Insights results for selected searches; broader bilingual/sacramental evidence; more critical reviews; further product-economics evidence. |
+| Colouring / creative | RankHero screening covers cute/cozy/printable colouring searches; competitor research documents three production models. | Etsy Marketplace Insights results; narrower hand-drawn search evidence; more critical product reviews; original-art production-effort estimates. |
 
-## Questions Iteration 01 must answer
+## Questions for Iteration 01
 
 - **Demand:** what are buyers searching for, for which use cases, and with what seasonality?
 - **Supply:** how many relevant listings exist and which offers stand out?
@@ -125,7 +125,7 @@ Use these terms consistently so we do not confuse the unit being analysed:
 
 ## Current starting point
 
-All five product directions now have substantive research. The evidence is strongest in different ways across categories: Invitations has strong demand and competitor evidence; Café has interesting screening signals but thinner product-specific reviews; Bilingual has strong search/product evidence but needs deeper language-specific feedback and economics; Catholic has actionable product-use insights; and Colouring has three clear production models to compare. No opportunity is prioritised or deprioritised at this stage.
+All five product directions now have search, competitor/product and review evidence, with different levels of coverage by category. Invitations includes broad-demand and competitor evidence; Café includes measured coffee/matcha searches and three competitor offer models; Bilingual includes measured Spanish searches and both small-resource and large-system competitors; Catholic includes prayer/activity search evidence and concrete buyer-use findings; Colouring includes measured search evidence and three documented production models. No opportunity is prioritised or deprioritised at this stage.
 
 ---
 

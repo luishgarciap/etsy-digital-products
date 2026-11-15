@@ -6,7 +6,7 @@
 
 ---
 
-**Jump to:** [Invitations](#invitations--celebrations) · [Café](#café--gastronomy--bakery) · [Bilingual](#bilingual-children--family-learning) · [Catholic](#catholic--faith-based) · [Colouring](#colouring--creative) · [15 Etsy searches](#immediate-marketplace-insights-set--15-searches)
+**Jump to:** [Invitations](#invitations--celebrations) · [Café](#café--gastronomy--bakery) · [Bilingual](#bilingual-children--family-learning) · [Catholic](#catholic--faith-based) · [Colouring](#colouring--creative) · [15 Etsy searches](#selected-marketplace-insights-set--15-searches)
 
 ## Cross-category screening snapshot
 
@@ -19,18 +19,18 @@ RankHero figures are **screening evidence**, not a pilot decision. The purpose o
 | `wedding invites` | ~301k | ~403k | ~$8.88 | Similar pattern; verify in Etsy |
 | `birthday invitations` | ~90.5k | ~1.24m | ~$5.12 | Large demand, extremely crowded |
 | `birthday invites` | ~90.5k | ~917k | ~$5.30 | Still very crowded |
-| `bday invite` | ~90.6k | ~85.5k | ~$7.20 | Unusually favourable discrepancy; must be independently validated |
-| `baby shower invites` | ~40.5k | ~259k | ~$9.50 | Useful separate occasion benchmark |
-| `coffee menu` | ~18k–22k | 4,368 | ~$7.00 | Interesting screening signal |
-| `matcha menu` | ~4.4k | 191 | ~$6.85 | Particularly interesting micro-niche screening signal |
+| `bday invite` | ~90.6k | ~85.5k | ~$7.20 | Reported competition is much lower than adjacent birthday phrases; Etsy validation not yet collected |
+| `baby shower invites` | ~40.5k | ~259k | ~$9.50 | Separate occasion benchmark |
+| `coffee menu` | ~18k–22k | 4,368 | ~$7.00 | RankHero screening benchmark |
+| `matcha menu` | ~4.4k | 191 | ~$6.85 | RankHero reports lower competition than the other café terms currently measured |
 | `food menu template` | ~2.9k | ~21.5k | ~$4.99 | More crowded |
-| `spanish flashcards` | ~6.6k | ~3.1k | ~$3.40 | Interesting, but low price makes bundling important |
-| `spanish alphabet` | ~135k | ~1.7k | ~$4.12 | Exceptionally favourable figures; independent Etsy validation required |
+| `spanish flashcards` | ~6.6k | ~3.1k | ~$3.40 | RankHero screening benchmark; median price is lower than several other categories measured |
+| `spanish alphabet` | ~135k | ~1.7k | ~$4.12 | Large reported search/competition difference; Etsy validation not yet collected |
 | `catholic prayer` | ~60.5k | ~152k | ~$6.99 | Broad benchmark |
-| `prayer cards` | ~18.1k | ~68k | ~$4.00 | Useful related benchmark |
+| `prayer cards` | ~18.1k | ~68k | ~$4.00 | Related prayer-product benchmark |
 | `bible coloring pages` | ~8.1k | ~32k | ~$2.99 | Activity/faith intersection |
-| `cute coloring pages` | ~110k | ~82k | ~$2.99 | Strong demand screen |
-| `cozy coloring book` | ~33k–40k | ~31k–53k | ~$3.85–4.72 | Attractive but needs Etsy validation |
+| `cute coloring pages` | ~110k | ~82k | ~$2.99 | RankHero screening benchmark |
+| `cozy coloring book` | ~33k–40k | ~31k–53k | ~$3.85–4.72 | RankHero screening range; Etsy validation not yet collected |
 | `printable coloring pages` | ~135k | ~512k | ~$3.99 | Very broad and crowded |
 
 
@@ -80,17 +80,17 @@ These should be labelled **research-derived hypotheses** until their RankHero/Et
 | Search                 | Searches / month | Competition | Typical / median price | Current use                       |
 | ---------------------- | ---------------- | ----------- | ---------------------- | --------------------------------- |
 | `wedding invitation`   | \~301k           | \~930k      | \~$10                  | Broad benchmark                   |
-| `wedding invite`       | \~301k           | \~410k      | \~$8.99                | Worth checking against Etsy       |
-| `wedding invites`      | \~301k           | \~403k      | \~$8.88                | Worth checking against Etsy       |
+| `wedding invite`       | \~301k           | \~410k      | \~$8.99                | Selected for Etsy validation       |
+| `wedding invites`      | \~301k           | \~403k      | \~$8.88                | Selected for Etsy validation       |
 | `birthday invitations` | \~90.5k          | \~1.24m     | \~$5.12                | Broad birthday benchmark          |
 | `birthday invites`     | \~90.5k          | \~917k      | \~$5.30                | Alternative phrasing              |
-| `bday invite`          | \~90.6k          | \~85.5k     | \~$7.20                | Large discrepancy worth verifying |
+| `bday invite`          | \~90.6k          | \~85.5k     | \~$7.20                | Large reported discrepancy; selected for Etsy validation |
 | `baby shower invites`  | \~40.5k          | \~259k      | \~$9.50                | Separate occasion benchmark       |
 
 
 **Important:** RankHero reports large competition differences between very similar phrases such as `birthday invites` and `bday invite`. This is a reason to verify the terms in Etsy Marketplace Insights, not evidence that one is automatically superior.
 
-#### RankHero lookup still required
+#### Additional RankHero terms not yet measured
 
 Useful discovered terms without complete metrics in the current public retrieval:
 
@@ -161,9 +161,9 @@ These are **research seeds / hypotheses**, not yet claimed as RankHero-discovere
 | `matcha menu`        | \~4.4k                             | 191         | \~$6.85      |
 | `food menu template` | \~2.9k                             | \~21.5k     | \~$4.99      |
 
-RankHero reports a particularly low difficulty for `matcha menu`; this is screening evidence that should be checked against Etsy rather than treated as a decision.
+RankHero reports substantially lower competition for `matcha menu` than for the broader café/menu terms measured here. This remains third-party screening evidence and is included in the selected Etsy validation set.
 
-#### RankHero lookup required
+#### Additional RankHero terms not yet measured
 
 `coffee shop menu`\
 `cafe menu template`\
@@ -224,11 +224,10 @@ Searches still requiring measurement:
 | `spanish flashcards` | \~6.6k           | \~3.1k      | \~$3.40      |
 | `spanish alphabet`   | \~135k           | \~1.7k      | \~$4.12      |
 
-,.
 
-The `spanish alphabet` figures are unusually favourable and therefore need independent Etsy validation.
+RankHero reports a very large search-volume-to-competition difference for `spanish alphabet`. Because that result differs sharply from many other terms in the screening, it is included in the selected Etsy validation set.
 
-#### RankHero lookup required
+#### Additional RankHero terms not yet measured
 
 `spanish worksheets`\
 `spanish for kids`\
@@ -281,7 +280,7 @@ Current search universe:
 
 RankHero's `catholic prayer` top results already include children's prayer cards, printable prayer bundles and Catholic family resources.
 
-#### RankHero lookup required
+#### Additional RankHero terms not yet measured
 
 `catholic prayer card`\
 `catholic kids`\
@@ -332,9 +331,8 @@ RankHero also associates materials/formats including printable PDF, PNG, hand-dr
 | `cozy coloring book`       | \~33k–40k depending crawl | \~31k–53k   | \~$3.85–4.72 |
 | `printable coloring pages` | \~135k                    | \~512k      | \~$3.99      |
 
-,.
 
-#### RankHero lookup required
+#### Additional RankHero terms not yet measured
 
 `bold easy coloring`\
 `kawaii coloring`\
@@ -352,9 +350,9 @@ RankHero also associates materials/formats including printable PDF, PNG, hand-dr
 
 ---
 
-## Immediate Marketplace Insights set — 15 searches
+## Selected Marketplace Insights set — 15 searches
 
-These are the **next exact searches** to run. They replace the older provisional 15-search batch because they reflect the deeper search discovery completed since the neutral version.
+These are the **selected searches** for Etsy Marketplace Insights. They replace the older provisional 15-search batch because they reflect the deeper search discovery completed since the neutral version.
 
 | Category | Search 1 | Search 2 | Search 3 |
 |---|---|---|---|

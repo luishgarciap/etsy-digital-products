@@ -10,102 +10,104 @@
 
 ## Current decision state
 
-**No category has been selected for pilot.** All five now have substantive research. The remaining evidence gaps differ by category and are summarised below.
+**No category has been selected for pilot.** All five have search, competitor/product and review evidence. The sections below distinguish current evidence from evidence not yet collected.
 
 ## Invitations / Celebrations
 
-**What supports it**
+**Evidence currently available**
 
-- Buyer demand is unquestionably large across wedding, birthday and baby-shower searches.
-- Search discovery has exposed narrower occasion, format and cultural directions.
-- Strong competitors demonstrate coordinated product families, bundles and specialised cultural propositions.
+- RankHero screening reports approximately 301k monthly searches for `wedding invitation`, 90.5k for `birthday invitations` and 40.5k for `baby shower invites`.
+- Broad competition is also high in the current screening, including approximately 930k for `wedding invitation` and 1.24m for `birthday invitations`.
+- Search discovery includes narrower occasion, format and cultural directions.
+- Competitor research includes coordinated product families, bundles and culturally specific offers.
 
-**What weakens it / remains unresolved**
+**Evidence not yet collected / remaining uncertainty**
 
-- Broad terms are extremely competitive.
-- Similar search phrases produce surprisingly different third-party competition figures, so Etsy validation is essential.
-- The current review sample is still thinner on critical feedback about editing, mobile use, resizing, printing and instructions.
+- Etsy Marketplace Insights results for the selected searches.
+- A larger sample of critical product reviews on editing, mobile use, resizing, printing and instructions.
 
-**Current assessment:** credible category, but the opportunity is likely to be **narrower than generic invitations**.
+**Current interpretation:** broad generic invitations combine large reported search demand with high reported competition; narrower occasion, cultural and coordinated-product-family propositions remain candidates for comparison.
 
 ## Café / Gastronomy / Bakery
 
-**What supports it**
+**Evidence currently available**
 
-- `coffee menu` and especially `matcha menu` remain interesting screening signals.
-- Products can plausibly expand into business-oriented families: menu → price list → loyalty/social materials → broader kit.
-- Current price screens are stronger than several low-price printable categories.
+- RankHero reports approximately 18k–22k monthly searches and 4,368 competition for `coffee menu`.
+- RankHero reports approximately 4.4k monthly searches and 191 competition for `matcha menu`.
+- Current competitor research includes a focused menu, a multi-layout offer and a broader business-resource model.
+- Current screening prices are approximately US$7.00 for `coffee menu`, US$6.85 for `matcha menu` and US$4.99 for `food menu template`.
 
-**What weakens it / remains unresolved**
+**Evidence not yet collected / remaining uncertainty**
 
-- This is still the thinnest category for product-specific buyer reviews.
-- Bakery and broader café terms need comparable validation.
-- We do not yet know whether buyers prefer a simple focused menu, multiple layouts or a broader business kit.
+- More demand evidence for bakery and broader café terms.
+- More product-specific menu reviews.
+- Production-effort evidence for a focused menu, multi-layout offer and broader business kit.
 
-**Current assessment:** commercially interesting; evidence depth still needs to catch up with Invitations/Colouring.
+**Current interpretation:** the category contains at least three distinct offer models; current evidence does not establish which model buyers value most or which has the best economics.
 
 ## Bilingual Children / Family Learning
 
-**What supports it**
+**Evidence currently available**
 
-- `spanish flashcards` and `spanish alphabet` produce interesting screening evidence.
-- Competitors demonstrate both small thematic resources and large learning systems/bundles.
-- A repeatable product architecture can potentially extend across subjects/languages.
+- RankHero reports approximately 6.6k monthly searches and 3.1k competition for `spanish flashcards`.
+- RankHero reports approximately 135k monthly searches and 1.7k competition for `spanish alphabet`; this large reported search/competition difference has not yet been checked in Etsy Marketplace Insights.
+- Competitor research includes both small thematic resources and large worksheet/learning systems.
+- Current screening prices are approximately US$3.40 for `spanish flashcards` and US$4.12 for `spanish alphabet`.
 
-**What weakens it / remains unresolved**
+**Evidence not yet collected / remaining uncertainty**
 
-- Standalone unit prices are low.
-- Spanish-specific buyer feedback is still incomplete in parts of the sample.
-- Language accuracy, age calibration and educational quality create real QA cost.
-- Portuguese-English demand remains under-researched.
+- More reviews specifically tied to Spanish/bilingual products.
+- Portuguese-English demand evidence.
+- More complete QA-effort and bundle-economics evidence.
 
-**Current assessment:** credible, but economics depend strongly on reusable architecture + bundles + quality control.
+**Current interpretation:** the category supports both small-resource and large-system product architectures; the relative economics depend on price, reuse, bundling and QA effort.
 
 ## Catholic / Faith-based
 
-**What supports it**
+**Evidence currently available**
 
-- Review evidence has produced concrete use insights: portability, concise information, easy printing and clear instructions matter.
-- One buyer signal specifically indicates a Spanish→English Catholic-prayer learning need, making bilingual faith resources worth testing.
-- The category supports several product forms: concise guides, cards, sacramental resources, children’s activities and games.
+- RankHero reports approximately 60.5k monthly searches for `catholic prayer`, 18.1k for `prayer cards` and 8.1k for `bible coloring pages`.
+- Review evidence identifies buyer-use themes including portability, concise information, easy printing and clear instructions.
+- One buyer review provides a Spanish→English Catholic-prayer use case.
+- Competitor research includes concise guides, prayer resources, children's activities and larger activity/game catalogues.
 
-**What weakens it / remains unresolved**
+**Evidence not yet collected / remaining uncertainty**
 
-- We do not yet know the size of the bilingual segment.
-- Search demand for `catholic prayer card`, `catholic kids` and `communion printable` still needs validation.
-- We need price/value evidence across one-sheet products versus bundles.
+- Etsy Marketplace Insights results for selected prayer/communion searches.
+- Broader evidence on bilingual and sacramental demand.
+- More critical reviews and additional price/value evidence across single-resource and bundle formats.
 
-**Current assessment:** increasingly concrete and worth keeping in the top comparison set; no final niche selected.
+**Current interpretation:** several product forms are represented in the evidence; current data does not establish which prayer, sacramental, bilingual or children's sub-direction would be selected for a pilot.
 
 ## Colouring / Creative
 
-**What supports it**
+**Evidence currently available**
 
-- Demand screens for cute/cozy colouring are substantial.
-- Competitors expose three distinct operating models: larger catalogue/frequent themes, small original hand-drawn catalogue, and strong branded product families.
-- Reviews show value in clean lines, easy downloads, digital/print usability, variety and repeat purchase.
-- KomfiKat is directly relevant to the small original hand-drawn production model.
+- RankHero reports approximately 110k monthly searches and 82k competition for `cute coloring pages`.
+- `cozy coloring book` is reported at approximately 33k–40k monthly searches and 31k–53k competition, while `printable coloring pages` is reported at approximately 135k monthly searches and 512k competition.
+- Competitor research documents three production models: larger catalogue/frequent releases, small original hand-drawn catalogue, and recognisable branded product families.
+- Buyer reviews include evidence on downloads, print/digital use, line style, variety and repeat purchase.
 
-**What weakens it / remains unresolved**
+**Evidence not yet collected / remaining uncertainty**
 
-- Low unit prices make production throughput critical.
-- We still need evidence on page-count value, PDF+PNG value, line/resolution complaints and realistic original-art production rate.
-- Very large low-price PLR/MRR-style bundles are a contrast case and raise originality/rights concerns; they should not define our target model.
+- Etsy Marketplace Insights results for the selected searches.
+- Narrower search evidence for terms such as `hand drawn coloring`.
+- More critical reviews on line quality, resolution, printing and tablet use.
+- Additional evidence on original-art production effort and throughput.
 
-**Current assessment:** strong research maturity and clear product-model choices; economics of original production remain the key uncertainty.
-
+**Current interpretation:** the three production models are sufficiently distinct for comparison; the economics of original hand-drawn production are not yet measured.
 
 ## Research gaps — exact meaning
 
-These are **evidence gaps, not claims that the market has a gap**. They state exactly what we still need to learn before comparing the five categories confidently.
+These are **evidence gaps, not claims that the market has a gap**. They record evidence not yet collected and why it may matter to the comparison.
 
-| Category | What we still need | Why it matters |
+| Category | Evidence not yet collected | Why it may matter |
 |---|---|---|
-| **Invitations / Celebrations** | We have substantial positive review evidence but relatively few **critical / 1–3-star reviews** in the current sample. | Positive reviews tell us what works; critical reviews are more useful for identifying recurring friction in Canva editing, mobile use, resizing, printing, instructions, non-editable artwork, support expectations and mismatch between previews and delivered files. Those problems may reveal a realistic way to differentiate rather than simply producing another invitation. |
-| **Café / Gastronomy / Bakery** | We have relevant shops, but need more sellers whose **specific café/menu/bakery products** have enough product-level reviews, plus equivalent demand evidence for bakery and broader café terms. | A high shop rating is not enough. We need buyers commenting on Canva editing, sizes, printing, readability, updating prices, replacing logos/images, instructions and actual business usefulness. This is also necessary to decide whether a simple menu, multiple layouts or a broader business kit creates the most useful value. |
-| **Bilingual Children / Family Learning** | Product/offer evidence is good, but we still have too few reviews specifically tied to **Spanish/bilingual products**; Portuguese-English demand is also under-researched. | We need to know whether parents/teachers find the material age-appropriate, linguistically correct, easy to print and organise, sufficiently complete and genuinely useful. Regional-language differences already show why product-specific language feedback matters. Large bundles also need to be tested for useful structure versus overload. |
-| **Catholic / Faith-based** | We need direct demand validation for searches such as `catholic prayer card`, `catholic kids` and `communion printable`; broader evidence on bilingual demand, sacramental products, critical reviews and one-sheet versus bundle value is still limited. | Current reviews give unusually useful product-use insights, but we cannot assume those needs are large enough or commercially attractive. Search validation and format/value evidence will tell us whether the strongest opportunity is prayer guidance, bilingual resources, sacramental material, children’s activities or another sub-niche. |
-| **Colouring / Creative** | We still need validation for narrower searches such as `hand drawn coloring`, more critical reviews on line quality/resolution/printing/tablet use, evidence on page-count and PDF+PNG value, and a realistic estimate of how quickly original artwork can be produced. | Demand alone is not enough because low unit prices make **production throughput and repeat purchase** central to profitability. For an original hand-drawn model especially, we need to know whether a small original catalogue can command enough value and how production effort compares with higher-output themed catalogues. |
+| **Invitations / Celebrations** | A larger sample of **critical / 1–3-star reviews**. | Critical reviews can reveal recurring friction in Canva editing, mobile use, resizing, printing, instructions, non-editable artwork, support expectations and mismatch between previews and delivered files. |
+| **Café / Gastronomy / Bakery** | More product-level reviews for specific café/menu/bakery products, plus more demand evidence for bakery and broader café terms. | Product-level feedback can show how buyers experience editing, sizes, printing, readability, price updates, logo/image replacement, instructions and business use; broader search evidence can improve comparison across café/bakery sub-directions. |
+| **Bilingual Children / Family Learning** | More reviews tied specifically to **Spanish/bilingual products**, plus Portuguese-English demand evidence. | This can add evidence on age fit, linguistic accuracy, printing/organisation, completeness and whether large bundles feel structured or overwhelming. |
+| **Catholic / Faith-based** | Etsy validation for selected searches; broader bilingual/sacramental evidence; more critical reviews; more single-resource versus bundle price/value evidence. | This can improve comparison across prayer guidance, bilingual resources, sacramental material and children's activities without assuming that any one sub-direction is larger or more valuable. |
+| **Colouring / Creative** | Etsy validation for narrower searches such as `hand drawn coloring`; more critical reviews on line quality/resolution/printing/tablet use; page-count/PDF+PNG value evidence; original-art production-effort estimates. | This can improve comparison of catalogue breadth, perceived product value and the economics of an original hand-drawn model. |
 
 ## What could materially change the decision
 
@@ -114,11 +116,10 @@ These are **evidence gaps, not claims that the market has a gap**. They state ex
 3. Direct product inspection, where used, revealing meaningful differences that cannot be assessed from public listings/reviews.
 4. Production-time or economic estimates materially changing the viability of a product model.
 
-## Immediate research priorities
+## Next actions
 
-1. When available, add the selected Etsy Marketplace Insights results to [Market & demand](market-demand.md).
-2. Continue competitor analysis against the category-specific gaps above.
-3. Update [Product comparison](product-comparison.md) when new evidence materially changes the current cross-category view.
+- Continue the current [Competitor analysis](competitors.md).
+- When available, add the selected Etsy Marketplace Insights results to [Market & demand](market-demand.md).
 
 ---
 

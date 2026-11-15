@@ -8,7 +8,7 @@
 
 See [Economics Baseline](../../knowledge/economics-baseline.md) for the shared Etsy fee model.
 
-Price alone is not enough. We need creation effort, reusable assets, support burden, bundle path and contribution per hour before judging a product family economically.
+Price alone does not determine economic viability. Creation effort, reusable assets, support burden, bundle path and contribution per hour provide additional economic evidence.
 
 ## Current market-price signals
 
@@ -85,19 +85,19 @@ These were proposed before deeper market research and remain hypotheses, not obs
 
 - Current simple-menu price signals are stronger than low-priced flashcard/colouring items.
 - A product-family path may move from menu → price list → loyalty card → social assets → business kit.
-- We need realistic creation hours for a simple menu, a multi-layout product and a broader business kit.
+- Creation hours for a simple menu, a multi-layout product and a broader business kit are not yet measured.
 
 ### Bilingual Children / Family Learning
 
 - Low standalone prices make **reusability and bundling** especially important.
 - Large packs may increase perceived value but also increase production/QA cost.
-- Linguistic and educational review is a real production cost and should not be treated as free.
+- Linguistic and educational review adds production/QA effort and cost.
 
 ### Catholic / Faith-based
 
 - Current screens span low-price activity sheets/cards through higher-value guides/bundles.
 - A concise one-sheet product may have low creation/support cost, but price ceiling may also be low.
-- We need to compare information-only resources, activities and sacramental/bilingual bundles.
+- Comparative economics for information-only resources, activities and sacramental/bilingual bundles are not yet measured.
 
 ### Colouring / Creative
 
@@ -105,7 +105,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 - Original hand-drawn work has a very different cost structure from high-volume/reused-asset models.
 - For an original hand-drawn model, the critical metric is **credible pages/products per hour** while maintaining quality and originality.
 
-## Economics still required
+## Economics not yet measured
 
 | Category / product concept | Market price | Creation hours | Reusable assets | Support effort | Bundle / family path | Contribution/hour |
 |---|---:|---:|---|---|---|---:|
@@ -122,12 +122,12 @@ These were proposed before deeper market research and remain hypotheses, not obs
 
 ## Current economic implications
 
-- **Do not choose from price alone.** Low-price products can still work if assets are reusable and repeat purchase/bundling is strong.
-- Café currently has attractive single-item screening economics, but production effort remains unmeasured.
+- Price alone does not determine viability; reusability, repeat purchase and bundling also affect the economics of low-price products.
+- Café screening prices are higher than several low-price printable categories measured here; production effort remains unmeasured.
 - Invitations may improve economics through coordinated families/bundles rather than generic single invites.
-- Bilingual learning needs bundle economics and QA effort to be quantified.
-- Catholic may support simple, low-production products, but demand/value still needs validation.
-- Colouring economics depend heavily on the production model; hand-drawn originality must be measured against realistic throughput.
+- Bundle economics and QA effort for bilingual learning are not yet quantified.
+- Catholic includes simple single-resource formats and larger bundles; comparative demand/value evidence remains incomplete.
+- Colouring economics vary by production model; realistic throughput for original hand-drawn work is not yet measured.
 
 ---
 
