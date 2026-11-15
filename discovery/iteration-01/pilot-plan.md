@@ -1,55 +1,59 @@
 # Iteration 01 — Pilot Plan
 
-**Process step:** IMPLEMENT / PILOT  
-**Status:** Prepared / waiting for Pilot Decision  
-**Input:** [Pilot Decision](pilot-decision.md) + shared baselines  
-**Output:** controlled live test for MEASURE
+**Process:** IMPLEMENT / PILOT
 
 [Home](../../README.md) · [Process](../../process-map.md) · [Frame](opportunity-frame.md) · [Market & demand](market-demand.md) · [Competitors](competitors.md) · [Product economics](product-economics.md) · [Assessment](opportunity-assessment.md) · [Comparison](product-comparison.md) · [Pilot decision](pilot-decision.md) · [Pilot plan](pilot-plan.md) · [Measurement](measurement.md) · [Learning](learning-review.md) · [Outcome](iteration-outcome.md) · [References](../../knowledge/references.md)
 
 ---
 
-## Purpose
+## Working approach
 
-Turn the approved pilot decision into a small, controlled market test that produces useful evidence without building a large catalogue first.
+Initial pilot assumption:
+
+- **5 pilot products**;
+- **10–15 listings** using variants/images/tags as appropriate;
+- **30–45 days** of observation;
+- no paid advertising in the first phase.
+
+Final scope will be set in [pilot-decision.md](pilot-decision.md).
 
 ## Pilot products
 
-_Populate from `pilot-decision.md` once approved._
-
-| Product | Buyer/use case | Hypothesis | Price | Key search term | Launch date |
+| Product | Buyer / use case | Hypothesis | Price | Search term | Launch date |
 |---|---|---|---:|---|---|
 | | | | | | |
 
 ## Pre-launch checks
 
-For each product:
-
-- buyer/use case is explicit;
-- search term has evidence;
-- competitor/review evidence has been reviewed;
+- product and buyer/use case are clear;
+- demand and competitor evidence has been reviewed;
 - price and unit economics have been estimated;
-- product is original and policy-compliant;
-- Canva/licensing requirements have been checked if applicable;
-- AI use is disclosed if required;
-- file sizes/delivery method are valid;
-- listing images accurately represent the product;
-- success/failure signals are defined before launch.
+- originality / IP and Canva licensing are checked;
+- AI use is disclosed where required;
+- delivery and buyer instructions work;
+- measurement criteria are defined.
 
-## Observation period
+## Pilot budget
 
-Working starting point: **30–45 days**, adjusted if the chosen category is seasonal or has unusually low search volume.
+Working budget assumption:
 
-## Advertising
+- 15 listings → US$3 initial listing fees;
+- plus the Etsy setup fee shown at registration;
+- US$30–60 suggested ceiling for tools, small tests and contingencies;
+- no paid ads initially.
 
-Do not use Etsy Ads as the default first intervention. Etsy states that Ads work best when listings are already attracting buyer interest. [[12]](../../knowledge/references.md#ref-12)
+## What counts as an early signal
 
-If advertising is later introduced, record it as a separate intervention so organic and paid effects are not confused.
+Useful early evidence includes:
 
-## Changes during the pilot
+- relevant search visits;
+- favourites;
+- enquiries / buyer questions;
+- first sales;
+- clear learning about a buyer need.
 
-Material changes to product, price, title/keywords, images or advertising should be dated in `measurement.md`. Otherwise the test becomes difficult to interpret.
+If results are weak, review product, images, price and keywords before expanding the catalogue or paying for ads.
 
 ---
 
-**When live:** [Measurement →](measurement.md)
+[Measurement →](measurement.md)

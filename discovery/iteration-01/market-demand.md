@@ -1,56 +1,34 @@
 # Iteration 01 — Market & Demand
 
-**Process step:** INVESTIGATE  
-**Status:** In progress  
-**Input:** [Opportunity Frame](opportunity-frame.md)  
-**Output:** demand/supply evidence for SYNTHESISE
+**Process:** INVESTIGATE
 
 [Home](../../README.md) · [Process](../../process-map.md) · [Frame](opportunity-frame.md) · [Market & demand](market-demand.md) · [Competitors](competitors.md) · [Product economics](product-economics.md) · [Assessment](opportunity-assessment.md) · [Comparison](product-comparison.md) · [Pilot decision](pilot-decision.md) · [Pilot plan](pilot-plan.md) · [Measurement](measurement.md) · [Learning](learning-review.md) · [Outcome](iteration-outcome.md) · [References](../../knowledge/references.md)
 
 ---
 
-## Evidence already available
+## Preliminary keyword screening
 
-The figures below are **third-party RankHero estimates**, not official Etsy search data.
+The figures below are third-party RankHero estimates. They are useful screening evidence and will be compared with other sources and later pilot behaviour.
 
-| Keyword | Est. monthly searches | Competition | Median / typical price | Initial signal |
+| Keyword | Est. monthly searches | Competition | Median / typical price | Initial read |
 |---|---:|---:|---:|---|
-| `coffee menu` | 18,100 | 4,368 | ~US$7.00 | Promising [[13]](../../knowledge/references.md#ref-13) |
-| `matcha menu` | 4,400 | 191 | ~US$6.85 | Very strong screening signal [[14]](../../knowledge/references.md#ref-14) |
-| `birthday invitations` | 90,500 | >1.1m | ~US$5.12 | Huge demand, heavy competition [[15]](../../knowledge/references.md#ref-15) |
-| `spanish flashcards` | 6,600 | ~3,083 in competition table | ~US$3.40 | Promising [[16]](../../knowledge/references.md#ref-16) |
+| `coffee menu` | ~18,100 | ~4,368 | ~US$7.00 | Promising [[24]](../../knowledge/references.md#ref-24) |
+| `matcha menu` | ~4,400 | ~191 | ~US$6.85 | Strong micro-niche signal [[25]](../../knowledge/references.md#ref-25) |
+| `food menu template` | ~2,900 | ~21,511 | ~US$4.99 | Much more crowded [[26]](../../knowledge/references.md#ref-26) |
+| `birthday invitations` | ~90,500 | >1.1m | ~US$5.12 | Huge demand, very heavy competition [[27]](../../knowledge/references.md#ref-27) |
+| `spanish flashcards` | ~6,600 | ~3,083 in the source competition table | ~US$3.40 | Promising [[28]](../../knowledge/references.md#ref-28) |
 
-RankHero currently reports that about 30% of `coffee menu` search volume comes from the US, while its `spanish flashcards` page reports about 67% from the US. [[13]](../../knowledge/references.md#ref-13) [[16]](../../knowledge/references.md#ref-16)
+Public Etsy market pages also show active supply in:
 
-These figures are useful for prioritising research, but Etsy Marketplace Insights should replace them when official data is available. [[1]](../../knowledge/references.md#ref-1)
+- bakery-menu templates; [[29]](../../knowledge/references.md#ref-29)
+- café-menu templates; [[30]](../../knowledge/references.md#ref-30)
+- baby-shower invitation templates; [[31]](../../knowledge/references.md#ref-31)
+- bilingual flash cards; [[32]](../../knowledge/references.md#ref-32)
+- Catholic prayer cards. [[33]](../../knowledge/references.md#ref-33)
 
-## Current interpretation
+## Marketplace Insights research set
 
-### Café / gastronomy
-
-The evidence suggests that **specific café use cases** may be more interesting than a broad generic restaurant-template category. `matcha menu` is particularly notable because the current third-party estimate combines 4,400 monthly searches with only 191 competing listings. [[14]](../../knowledge/references.md#ref-14)
-
-### Invitations
-
-The category is commercially proven but structurally crowded. `birthday invitations` shows very large demand, but competition exceeds one million listings. [[15]](../../knowledge/references.md#ref-15)
-
-The relevant question is therefore whether a long-tail occasion, cultural/language segment or coordinated bundle can create a better entry point.
-
-### Bilingual learning
-
-`spanish flashcards` currently combines meaningful demand with lower competition than generic invitations, but the median price is low. [[16]](../../knowledge/references.md#ref-16) This makes bundle potential and production efficiency important.
-
-### Catholic / faith-based
-
-Public Etsy activity shows an established market for prayer cards and related resources, but Iteration 01 still needs official search-demand evidence before ranking this direction. [[25]](../../knowledge/references.md#ref-25)
-
-### Colouring / creative
-
-No comparable demand screen has yet been completed. Before running broad keyword tests, the product concept should be narrowed to a buyer/use case.
-
-## Marketplace Insights — first 15 searches
-
-Etsy currently provides 15 free keyword searches per week. [[1]](../../knowledge/references.md#ref-1)
+Etsy Marketplace Insights currently provides 30-day search/listing data and 15 free keyword searches per week. [[11]](../../knowledge/references.md#ref-11)
 
 ### Café / gastronomy
 1. `coffee menu`
@@ -75,21 +53,18 @@ Etsy currently provides 15 free keyword searches per week. [[1]](../../knowledge
 14. `catholic printable`
 15. `catholic kids`
 
-Use related terms returned by Marketplace Insights to define the next search batch rather than pre-committing to another static list.
+Related terms can define the next search batch.
 
-## Capture table
+## Research table
 
 | Keyword | 30-day searches | Etsy listings | Related terms | Current price range | Notes |
 |---|---:|---:|---|---|---|
 | | | | | | |
 
-## Investigation complete when
+## Seasonality
 
-- the main candidate families have comparable official search evidence;
-- promising long-tail terms have been identified;
-- obviously weak directions can be deprioritised with evidence.
+December / Christmas may offer an early seasonal opportunity, but a new shop may have limited time to build visibility. The first catalogue should therefore include evergreen products as well.
 
 ---
 
-**Next investigation stream:** [Competitors →](competitors.md)  
-**Feeds:** [Opportunity Assessment →](opportunity-assessment.md)
+[Competitors →](competitors.md)

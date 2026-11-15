@@ -1,109 +1,55 @@
 # Iteration 01 — Opportunity Assessment
 
-**Process step:** SYNTHESISE / REFINE  
-**Status:** Provisional — awaiting Marketplace Insights and deeper review mining  
-**Inputs:** [Market & Demand](market-demand.md), [Competitors](competitors.md), [Product Economics](product-economics.md), [Platform Baseline](../../knowledge/platform-baseline.md)  
-**Output:** refined candidate set for COMPARE
+**Process:** SYNTHESISE / REFINE
 
 [Home](../../README.md) · [Process](../../process-map.md) · [Frame](opportunity-frame.md) · [Market & demand](market-demand.md) · [Competitors](competitors.md) · [Product economics](product-economics.md) · [Assessment](opportunity-assessment.md) · [Comparison](product-comparison.md) · [Pilot decision](pilot-decision.md) · [Pilot plan](pilot-plan.md) · [Measurement](measurement.md) · [Learning](learning-review.md) · [Outcome](iteration-outcome.md) · [References](../../knowledge/references.md)
 
 ---
 
-This document answers:
+## Café / gastronomy
 
-> **What does the evidence currently mean for the opportunity?**
+The current evidence points toward **specific café use cases** rather than generic restaurant templates.
 
-It does not repeat the initial frame and does not make the pilot decision.
+`coffee menu` shows meaningful estimated demand, while `matcha menu` currently has a particularly favourable screening relationship between estimated searches and competing listings. [[24]](../../knowledge/references.md#ref-24) [[25]](../../knowledge/references.md#ref-25)
 
-## Current synthesis
+The opportunity may extend beyond individual menus into coherent café/bakery business kits. Buyer-review evidence and realistic production effort remain to be established.
 
-### Café / gastronomy — currently strongest screening direction
+## Bilingual learning
 
-The strongest signal is not “restaurant templates” in general. It is the combination of **specific café use cases**, particularly `coffee menu` and `matcha menu`, with the possibility of building related small-business products and bundles.
+`spanish flashcards` shows a promising screening profile, and Etsy public results confirm an established bilingual-learning market. [[28]](../../knowledge/references.md#ref-28) [[32]](../../knowledge/references.md#ref-32)
 
-Current strengths:
+The commercial question is whether themed packs and broader learning bundles can overcome the low selling price of simple standalone flashcards while maintaining educational and linguistic quality.
 
-- strong third-party demand signal for `coffee menu`; [[13]](../../knowledge/references.md#ref-13)
-- unusually favourable demand/competition screening signal for `matcha menu`; [[14]](../../knowledge/references.md#ref-14)
-- single-item price around US$7 produces better illustrative contribution than the lowest-priced categories;
-- scope for adjacent café/bakery assets.
+## Invitations / celebrations
 
-Still unresolved:
+Broad birthday invitations show very high demand but extremely heavy competition. [[27]](../../knowledge/references.md#ref-27)
 
-- official Etsy search/listing data;
-- customer/review gaps;
-- whether buyers value single templates or broader kits;
-- realistic design/production time.
+The more credible opportunity is a narrower buyer/occasion, cultural or language segment, or a coordinated product family. JoyablyStudio and MirthlyStudio demonstrate these approaches. [[34]](../../knowledge/references.md#ref-34) [[35]](../../knowledge/references.md#ref-35)
 
-### Bilingual learning — promising but economics depend on product depth
+## Catholic / faith-based
 
-`spanish flashcards` has a favourable screening profile and substantial US demand in the third-party data. [[16]](../../knowledge/references.md#ref-16)
+Etsy public activity confirms an existing market for Catholic prayer cards and related resources, but comparable demand and review analysis has not yet been completed. [[33]](../../knowledge/references.md#ref-33)
 
-Current strengths:
+The strongest directions to examine first are children, First Communion / Confirmation, prayer/Rosary and bilingual resources.
 
-- meaningful search demand;
-- lower competition than generic invitations;
-- potential for themed packs and coherent learning bundles;
-- possible differentiation through language accuracy and educational quality.
+## Colouring / creative
 
-Main concern: the observed median price is low, so simple standalone flashcards may be economically weak unless production is efficient or bundles increase order value.
+The direction remains too broad for useful comparison. It needs a defined buyer, use case and product format before demand and economics can be assessed.
 
-### Invitations — demand proven, entry strategy unresolved
+AI may support production, subject to Etsy originality/disclosure requirements, but it is not the market strategy itself. [[14]](../../knowledge/references.md#ref-14)
 
-Broad birthday invitations have very high demand but more than one million competing listings. [[15]](../../knowledge/references.md#ref-15)
+## Current shortlist for deeper comparison
 
-The category remains viable only as a more specific opportunity:
+**Most developed**
+1. matcha / specific café menu products;
+2. coffee / bakery small-business product family;
+3. Spanish-English learning packs;
+4. a narrow invitation niche.
 
-- cultural/language segmentation;
-- narrower occasions;
-- coordinated bundles;
-- easier editing/customer experience.
-
-JoyablyStudio demonstrates cultural segmentation, while MirthlyStudio demonstrates deep coordinated product families. [[17]](../../knowledge/references.md#ref-17) [[18]](../../knowledge/references.md#ref-18)
-
-Generic invitations should not currently be a primary pilot candidate.
-
-### Catholic / faith-based — evidence insufficient
-
-There is visible Etsy activity in prayer cards and related products, but we do not yet have comparable official demand data or review-gap analysis. [[25]](../../knowledge/references.md#ref-25)
-
-This direction remains open, particularly for:
-
-- children;
-- First Communion / Confirmation;
-- prayer/Rosary;
-- bilingual faith resources.
-
-It should not be promoted or rejected until the same screening standard is applied.
-
-### Colouring / creative — not yet sufficiently framed
-
-Colouring remains plausible, but “colouring” is too broad to compare fairly with the other opportunities. The next useful step is to define a buyer/use case and then run demand research.
-
-AI may support the creative workflow, subject to Etsy's current human-input/disclosure rules. [[8]](../../knowledge/references.md#ref-8)
-
-## Refined candidate set — current
-
-**Strong enough to carry into comparison now:**
-1. Matcha / specific café menu products
-2. Coffee / bakery small-business product family
-3. Spanish-English learning packs
-4. Narrow invitation niche
-
-**Still in investigation before fair comparison:**
-5. Catholic products
-6. Colouring products
-
-This is a **provisional synthesis**, not a pilot decision.
-
-## SYNTHESISE complete when
-
-Marketplace Insights and competitor/review evidence are strong enough to:
-
-- retain, redefine or remove each candidate;
-- define each surviving candidate at product/buyer level;
-- hand a comparable set to `product-comparison.md`.
+**Still requiring equivalent investigation**
+5. Catholic products;
+6. colouring products.
 
 ---
 
-**Next:** [Product Comparison →](product-comparison.md)
+[Product comparison →](product-comparison.md)

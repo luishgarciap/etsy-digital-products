@@ -1,64 +1,98 @@
 # Platform Baseline
 
-**Knowledge type:** reusable cross-iteration baseline  
-**Used by:** FRAME, SYNTHESISE, PILOT
-
-[Home](../README.md) · [Process](../process-map.md) · [Platform baseline](platform-baseline.md) · [Economics baseline](economics-baseline.md) · [Iteration 01](../discovery/iteration-01/opportunity-frame.md) · [Strategic decisions](../decisions/strategic-decision-log.md) · [References](references.md)
+[Home](../README.md) · [Process](../process-map.md) · [Platform](platform-baseline.md) · [Economics](economics-baseline.md) · [Channels](channel-options.md) · [Risks](risk-baseline.md) · [Iteration 01](../discovery/iteration-01/opportunity-frame.md) · [Decisions](../decisions/strategic-decision-log.md) · [References](references.md)
 
 ---
 
-## Operating base
+## Etsy: company and marketplace
 
-Brazil is eligible for Etsy Payments through Payoneer. [[5]](references.md#ref-5) For Payoneer-based Etsy Payments, available funds are sent from Etsy to Payoneer on Mondays; Etsy deposits to Payoneer in USD, and a bank withdrawal typically takes 2–5 business days after it is requested. [[4]](references.md#ref-4)
+Etsy was founded in Brooklyn in 2005 and is headquartered in Brooklyn, New York. Etsy, Inc. is publicly traded on Nasdaq under the symbol `ETSY`. [[1]](references.md#ref-1) [[2]](references.md#ref-2)
 
-This establishes platform feasibility for a Brazil-based operation. Detailed account-access arrangements are outside the current product-discovery scope.
+Etsy is a marketplace for unique and creative goods, including seller-designed digital products. Buyers search and purchase through the marketplace; individual sellers operate their own shops and remain responsible for their commercial results.
 
-## Digital products
+### Current scale
 
-Etsy supports instant-download and made-to-order digital listings. Instant-download listings currently allow up to **five files**, each up to **20 MB**. Etsy states that digital items must be made and/or designed by the seller. [[6]](references.md#ref-6)
+| Indicator | Published figure | Interpretation |
+|---|---:|---|
+| Active buyers — Sept. 2026 | 87.506 million | Large established buyer base |
+| Active sellers — Sept. 2026 | 5.836 million | Large supply base and substantial competition |
+| Q3 2026 GMS | US$2.647 billion | Value of marketplace purchases, not Etsy revenue |
+| Q3 2026 revenue | US$692.469 million | Etsy company revenue |
+| Q3 2026 net income — continuing operations | US$113.637 million | Positive quarterly result |
+| U.S. buyer share of Etsy marketplace GMS — 2025 | 74% | U.S. demand is strategically important |
 
-Implication: product packaging, file sizes and buyer instructions must be considered during pilot design.
+[[3]](references.md#ref-3) [[4]](references.md#ref-4)
 
-## Search and demand evidence
+At the end of 2025 Etsy also reported more than 100 million items for sale. Marketplace scale demonstrates an established platform; it does not guarantee visibility, conversion or profit for a new shop. [[4]](references.md#ref-4)
 
-Etsy Marketplace Insights gives sellers direct Etsy search data: keyword searches and listing counts from the previous 30 days, plus related terms/trends. Sellers currently receive **15 free keyword searches per week**, with results retained for seven days. [[1]](references.md#ref-1)
+## International selling from Brazil
 
-Etsy search uses a holistic view of a listing, including titles, tags, attributes, descriptions, first photo and reviews. [[7]](references.md#ref-7)
+Brazil is eligible for Etsy Payments through Payoneer. [[5]](references.md#ref-5) A Brazil-based shop can sell to international buyers; the original study identified the United States, United Kingdom, Canada and other markets as relevant target markets, with English-language listings and USD pricing as a practical international approach.
 
-Implication: Marketplace Insights is preferred over third-party estimates when validating demand; listing execution must be considered when interpreting pilot traffic.
+International visibility is not automatic. Etsy search and ranking depend on listing relevance, quality and other marketplace signals. [[6]](references.md#ref-6)
 
-## Etsy Ads
+## Digital-product operating model
 
-New shops currently wait 15 days before they can start Etsy Ads. The minimum daily budget is US$1. Etsy explicitly notes that Ads work best when listings already attract buyer interest and are unlikely to turn a low-demand listing into a top seller. [[12]](references.md#ref-12)
+A typical digital-product order follows this sequence:
 
-Implication: the first pilot should prioritise organic product/search fit before paid promotion.
+| Stage | What happens | Work involved |
+|---|---|---|
+| Create | Design an original digital file or editable template | Design, review, testing, licences |
+| List | Publish images, title, categories/tags, description and price | Listing quality and search optimisation |
+| Sell | Buyer purchases through Etsy | Questions and order monitoring |
+| Deliver | Instant download or made-to-order delivery | Clear instructions and working files |
+| Get paid | Etsy deducts applicable charges and makes funds available through Etsy Payments / Payoneer | Reconciliation, FX and tax obligations |
 
-## AI
+Etsy currently supports up to **five files of 20 MB each** on an instant-download listing. [[7]](references.md#ref-7)
 
-Etsy currently allows seller-prompted AI creations when the seller provides individual human prompting, curation and creative input, and AI use must be disclosed in the listing description. Etsy prohibits fully bot-generated content and AI-generated functional instructions such as patterns, recipes and instruction manuals. [[8]](references.md#ref-8)
+An editable product can be delivered through a PDF containing instructions and a link to an eligible Canva template. If a product requires manual personalisation after purchase, that manual work should be reflected in production/support economics rather than treated as a fully automated fulfilment model.
 
-Implication: AI may support creative production, but it cannot replace product judgement, originality or policy compliance.
+Buyers currently cannot download an Etsy digital purchase through the Etsy app; they must use a mobile browser or computer. [[8]](references.md#ref-8)
 
-## Canva
+## Brazil / Payoneer flow
 
-Canva permits original designs and templates for sale under licence conditions. If a template contains Canva Pro Content, Canva states that it must be distributed as a Canva template link; Pro Content cannot simply be resold as a standalone asset or as a non-template file. [[9]](references.md#ref-9)
+For Etsy sellers using Payoneer:
 
-Implication: Canva licensing must be checked for the final production method of each shortlisted product.
+1. Etsy processes the buyer payment and deducts applicable charges.
+2. Available Etsy funds are sent to Payoneer on Mondays, in USD.
+3. The account holder withdraws funds to the linked bank account.
+4. Etsy states that the bank withdrawal normally takes 2–5 business days after the withdrawal request. [[9]](references.md#ref-9)
 
-## Platform scale
+Payoneer may charge withdrawal and currency-conversion fees; actual account pricing should be checked before launch. [[10]](references.md#ref-10)
 
-Etsy's Q3 2026 reporting described a marketplace with tens of millions of active buyers and millions of active sellers. This confirms marketplace scale but does **not** establish profitability for a new digital-products shop. [[10]](references.md#ref-10)
+## Search and Marketplace Insights
 
-## Baseline risks to carry into every iteration
+Etsy Marketplace Insights currently provides:
 
-- originality and intellectual-property compliance;
-- Canva/content licensing;
-- AI disclosure and human creative contribution;
-- file/delivery constraints;
-- search relevance and listing quality;
-- payment/FX costs;
-- tax and local legal obligations before formal operation.
+- searches for a keyword during the previous 30 days;
+- Etsy listing counts;
+- related terms and trend information.
+
+Sellers currently receive **15 free keyword searches per week**. [[11]](references.md#ref-11)
+
+## Advertising
+
+Etsy Ads are optional CPC advertising inside Etsy. New shops currently wait 15 days before starting Etsy Ads and the minimum daily budget is US$1. [[12]](references.md#ref-12)
+
+Offsite Ads are a separate advertising mechanism outside Etsy and can create additional fees on attributed orders. The fee implications are in [economics-baseline.md](economics-baseline.md).
+
+## Originality, AI and Canva
+
+Etsy requires seller-designed digital products and applies creativity/originality standards. Seller-prompted AI creations are permitted subject to Etsy's human-input and disclosure requirements; fully automated or otherwise non-compliant content remains restricted. [[13]](references.md#ref-13) [[14]](references.md#ref-14)
+
+Canva permits products and templates under its licence conditions. Product-specific Canva usage must be checked before launch, particularly where Pro Content or editable template links are involved. [[15]](references.md#ref-15)
+
+## Pre-launch legal / banking items
+
+Before opening and scaling the shop, the project still needs to confirm:
+
+- legal shop ownership / identity documentation;
+- Payoneer and Brazilian bank setup;
+- Brazilian tax treatment for international sales;
+- relevant consumer-protection, IP and licensing obligations.
+
+A future move of the Etsy bank account from Brazil to the UK is not a simple account edit: Etsy states that sellers outside the eurozone generally cannot change to a bank account in another country; if the original country's bank account can no longer be used, a new shop is required and listings, reviews and sales history cannot be transferred. [[16]](references.md#ref-16)
 
 ---
 
-**Related:** [Economics baseline →](economics-baseline.md) · [Iteration 01 frame →](../discovery/iteration-01/opportunity-frame.md)
+[Economics baseline →](economics-baseline.md)

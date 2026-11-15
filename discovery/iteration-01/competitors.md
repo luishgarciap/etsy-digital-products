@@ -1,84 +1,94 @@
 # Iteration 01 — Competitors and Buyer Evidence
 
-**Process step:** INVESTIGATE  
-**Status:** In progress  
-**Input:** [Opportunity Frame](opportunity-frame.md) + [Market & Demand](market-demand.md)  
-**Output:** competitor, offer and customer-friction evidence for SYNTHESISE
+**Process:** INVESTIGATE
 
 [Home](../../README.md) · [Process](../../process-map.md) · [Frame](opportunity-frame.md) · [Market & demand](market-demand.md) · [Competitors](competitors.md) · [Product economics](product-economics.md) · [Assessment](opportunity-assessment.md) · [Comparison](product-comparison.md) · [Pilot decision](pilot-decision.md) · [Pilot plan](pilot-plan.md) · [Measurement](measurement.md) · [Learning](learning-review.md) · [Outcome](iteration-outcome.md) · [References](../../knowledge/references.md)
 
 ---
 
-## Existing competitor set
+## Shops recommended for investigation
 
-| Shop | Current public snapshot | Why it matters |
+**Research snapshot — 10 Nov. 2026.** Public figures should be re-checked during the deeper competitor analysis.
+
+| Shop | Snapshot from original study | Direct link | What to study |
+|---|---|---|---|
+| **JoyablyStudio — Ukraine** | 418 listings; ~4,074 sales; opened 2025 | [Open Etsy shop](https://www.etsy.com/shop/JoyablyStudio) [[34]](../../knowledge/references.md#ref-34) | Celebration invitations, cultural segments, Canva templates |
+| **MirthlyStudio — Australia** | 1,180 listings; ~34,187 sales; opened 2023 | [Open Etsy shop](https://www.etsy.com/shop/MirthlyStudio) [[35]](../../knowledge/references.md#ref-35) | Coordinated bundles, baby showers, birthdays, bundle pricing |
+| **DigitalbloomInvite — Italy** | 95 listings; ~920 sales; opened 2025 | [Open Etsy shop](https://www.etsy.com/shop/DigitalbloomInvite) [[36]](../../knowledge/references.md#ref-36) | Smaller/newer shop, low-price invitations, discounts |
+| **ZenovaVibe — Morocco** | 56 listings; ~4,653 sales; opened 2026 | [Open Etsy shop](https://www.etsy.com/shop/ZenovaVibe) [[37]](../../knowledge/references.md#ref-37) | Children's/colouring bundles, low-price bundles, originality/licensing caution |
+
+Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost or profit.
+
+
+## Current competitor coverage
+
+| Opportunity | Current coverage | Gap |
 |---|---|---|
-| [JoyablyStudio](https://www.etsy.com/shop/JoyablyStudio) | ~4.1k sales, 418 items, 4.9 rating; cultural and occasion segmentation [[17]](../../knowledge/references.md#ref-17) | Long-tail cultural invitations; editable Canva model |
-| [MirthlyStudio](https://www.etsy.com/shop/MirthlyStudio) | ~34.3k sales, 1,131 items, 4.9 rating; deep invitation/bundle catalogue [[18]](../../knowledge/references.md#ref-18) | Product families, bundles, signs, websites and cross-selling |
-| [DigitalbloomInvite](https://www.etsy.com/shop/DigitalbloomInvite) | ~904 sales, 91 items, 4.5 rating; heavy discounting / low-price invitations [[19]](../../knowledge/references.md#ref-19) | Price pressure and newer-shop positioning |
-| [ZenovaVibe](https://www.etsy.com/shop/ZenovaVibe) | ~4.4k sales, 40 items, 4.8 rating; large colouring/education bundles [[20]](../../knowledge/references.md#ref-20) | Bundle presentation; also a prompt to check originality/licensing carefully |
+| Invitations / celebrations | **Good starting coverage** — JoyablyStudio, MirthlyStudio, DigitalbloomInvite | Add niche-specific shops once a narrower invitation segment is chosen |
+| Colouring / creative | **One starting example** — ZenovaVibe | Need more only after the colouring buyer/use case is defined |
+| Café / small-business | **Insufficient** | Find 3–5 relevant café/menu/bakery-template shops |
+| Bilingual learning | **Insufficient** | Find 3–5 relevant bilingual-learning shops |
+| Catholic / faith-based | **Insufficient** | Find 3–5 relevant Catholic digital-product shops |
 
-Public counts are snapshots and will change.
+This is currently one of the clearest evidence gaps in Iteration 01.
 
-## What the existing examples already suggest
+## Questions for each shop / listing
 
-### Product families can matter more than single listings
+- How many products does the shop offer and which products stand out in recent reviews?
+- What actual prices and discounts are used?
+- Is the offer a single item or a coordinated bundle?
+- Which occasions, communities, languages, ages or business types are served?
+- Which needs appear underserved?
+- What makes buying, downloading and editing easy?
+- What problems or requests appear repeatedly in reviews?
 
-MirthlyStudio currently separates invitations, bundles, games, signs/extras and website products across baby showers, birthdays and bridal events. [[18]](../../knowledge/references.md#ref-18) This is a useful model for testing whether a product family can increase order value and catalogue reuse.
+For the selected niche, the study should include roughly **10–15 relevant shops/listings**, not only large success stories. A balanced sample should include established, mid-sized, new and less-successful sellers.
 
-### Cultural segmentation is a real commercial approach
+## Current observations
 
-JoyablyStudio currently separates Muslim, Sikh, Hindu/Indian, Jewish and other cultural occasions alongside general celebrations. [[17]](../../knowledge/references.md#ref-17) This supports investigating cultural/language long-tail demand rather than treating invitations as one homogeneous category.
+### Product families
+MirthlyStudio demonstrates how invitations can extend into bundles, games, signs, websites and other coordinated products. [[35]](../../knowledge/references.md#ref-35)
 
-### Generic invitation pricing is pressured
+### Cultural segmentation
+JoyablyStudio demonstrates segmentation around cultural/religious occasions rather than only generic events. [[34]](../../knowledge/references.md#ref-34)
 
-DigitalbloomInvite currently shows many editable invitations at deeply discounted low single-digit prices. [[19]](../../knowledge/references.md#ref-19) A new entrant should not assume that a generic invitation can compete economically on design alone.
+### Price pressure
+DigitalbloomInvite illustrates aggressive invitation discounting and low-price positioning. [[36]](../../knowledge/references.md#ref-36)
 
-### Large PLR/MRR bundles require policy caution
+### Bundle / rights caution
+ZenovaVibe is useful to study commercially, but large PLR/MRR-style bundles require careful rights and originality review under Etsy's current standards. [[13]](../../knowledge/references.md#ref-13) [[37]](../../knowledge/references.md#ref-37)
 
-ZenovaVibe is commercially useful to observe, but Etsy's current creativity rules require seller creative input and original seller-designed digital products. [[8]](../../knowledge/references.md#ref-8) Commercial presentation can be studied without assuming the same content model is suitable.
 
-## Review-mining questions
+## Competitor product purchase — immediate research action
 
-For each serious candidate, record only findings that can change a decision:
+The next useful purchase is **not simply the cheapest product**. Select 1–2 products from the strongest current opportunities that let us inspect the complete customer experience.
 
-| Theme | Evidence to capture |
-|---|---|
-| Editing | Canva difficulty, mobile editing, confusing fields |
-| Delivery | Download/access issues, unclear instructions |
-| Format | Print/mobile sizes, PDF/PNG requirements |
-| Personalisation | What buyers expect to change |
-| Bundle | Missing matching products or requested extras |
-| Language/culture | Translation, terminology, cultural fit |
-| Quality | Design, pedagogy, print/usability |
-| Requests | Products buyers explicitly ask for |
+Priority:
 
-## Deep-dive plan
+1. **One café/menu product** after café-specific competitors have been identified.
+2. **One second product from the strongest alternative opportunity** — currently bilingual learning or a differentiated invitation niche.
 
-For each candidate that survives the Marketplace Insights screen:
+For each purchased product, record:
 
-- inspect roughly 10–15 relevant listings/shops;
-- include established, mid-sized and newer sellers;
-- record current price, discounting, format, bundle structure, reviews and product-family depth;
-- mine recent positive and negative reviews;
-- where useful, buy a small number of products to assess the full customer journey.
+- listing and price;
+- what the buyer receives;
+- download process;
+- instructions;
+- Canva/editing experience if relevant;
+- mobile vs desktop usability;
+- export/print quality;
+- what feels polished;
+- what is confusing or missing;
+- ideas for a genuinely different/better product.
 
-Customer-journey test:
+This research is to understand the product experience and buyer expectations, not to reproduce competitor content.
+
+## Customer-experience research
+
+Selected competitor products may be purchased to assess:
 
 > **purchase → download → instructions → edit → export/use → final experience**
 
-The objective is to understand buyer experience, not to copy designs.
-
-## Investigation complete when
-
-We can state, for each serious candidate:
-
-- what buyers value;
-- what repeatedly frustrates them;
-- how competitors package and price the offer;
-- whether a credible gap exists.
-
 ---
 
-**Parallel investigation:** [Product Economics →](product-economics.md)  
-**Feeds:** [Opportunity Assessment →](opportunity-assessment.md)
+[Product economics →](product-economics.md)
