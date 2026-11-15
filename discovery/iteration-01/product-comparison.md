@@ -6,7 +6,7 @@
 
 ---
 
-This is the **fast cross-category view**. It deliberately does not force a numeric score while key evidence remains missing.
+This is the current cross-category view. A numeric ranking would be premature while key evidence remains missing.
 
 | Category | Demand/search evidence | Competitor/product evidence | Buyer/review evidence | Economic clarity | Most important unresolved question |
 |---|---|---|---|---|---|
@@ -24,17 +24,13 @@ This is the **fast cross-category view**. It deliberately does not force a numer
 - Bilingual learning remains credible, but low unit prices make production architecture and bundling central.
 - Colouring has the clearest comparison of operating models, but original-art throughput is still unknown.
 
-## Decision gate before pilot selection
+## Evidence still needed before pilot selection
 
-Do **not** move to [Pilot decision](pilot-decision.md) until we have:
-
-1. the 15 Etsy Marketplace Insights results;
-2. the most important pending RankHero checks;
-3. deliberate low-star review findings;
-4. a small set of purchased-product observations;
-5. initial production-time/economic estimates for the leading product concepts.
-
-When those are available, this page can become a ranked comparison and feed the pilot decision.
+- 15 Etsy Marketplace Insights results;
+- the most important pending RankHero checks;
+- deliberate low-star review findings;
+- observations from a small set of purchased competitor products;
+- initial production-time/economic estimates for the leading product concepts.
 
 ---
 

@@ -8,7 +8,7 @@
 
 See [Economics Baseline](../../knowledge/economics-baseline.md) for the shared Etsy fee model.
 
-**Preserved principle from the neutral BoK:** price alone is not enough. We need creation effort, reusable assets, support burden, bundle path and contribution per hour before judging a product family economically.
+Price alone is not enough. We need creation effort, reusable assets, support burden, bundle path and contribution per hour before judging a product family economically.
 
 ## Current market-price signals
 
@@ -60,7 +60,7 @@ Using the same neutral-BoK illustration: **6.5% Etsy transaction fee + 6.5% Braz
 
 \*Screening illustration only — **not profit**.
 
-## Initial test-price hypotheses — retained from the neutral BoK
+## Initial test-price hypotheses
 
 These were proposed before deeper market research and remain hypotheses, not observed averages:
 

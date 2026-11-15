@@ -6,8 +6,6 @@
 
 ---
 
-**Use this file for:** search strings, seeds, RankHero screening, Etsy Marketplace Insights and demand-related evidence. Competitor detail belongs in [Competitors](competitors.md); interpretation belongs in [Opportunity assessment](opportunity-assessment.md).
-
 **Jump to:** [Invitations](#invitations--celebrations) · [Café](#café--gastronomy--bakery) · [Bilingual](#bilingual-children--family-learning) · [Catholic](#catholic--faith-based) · [Colouring](#colouring--creative) · [15 Etsy searches](#immediate-marketplace-insights-set--15-searches)
 
 ## Cross-category screening snapshot
@@ -38,7 +36,6 @@ RankHero figures are **screening evidence**, not a pilot decision. The purpose o
 
 ## Invitations / Celebrations
 
-[Jump to category](#invitations--celebrations)
 
 ### Search discovery
 
@@ -124,7 +121,6 @@ Reason: three different occasions/search formulations with enough RankHero evide
 
 ## Café / Gastronomy / Bakery
 
-[Jump to category](#caf--gastronomy--bakery)
 
 ### Search discovery
 
@@ -168,7 +164,7 @@ These are **research seeds / hypotheses**, not yet claimed as RankHero-discovere
 | `matcha menu`        | \~4.4k                             | 191         | \~$6.85      |
 | `food menu template` | \~2.9k                             | \~21.5k     | \~$4.99      |
 
-RankHero reports a particularly low difficulty for `matcha menu`; this is screening evidence that should be checked against Etsy rather than treated as a decision. ,
+RankHero reports a particularly low difficulty for `matcha menu`; this is screening evidence that should be checked against Etsy rather than treated as a decision.
 
 #### RankHero lookup required
 
@@ -199,7 +195,6 @@ This gives us coffee, a narrower café drink niche and bakery rather than spendi
 
 ## Bilingual Children / Family Learning
 
-[Jump to category](#bilingual-children--family-learning)
 
 ### Search discovery
 
@@ -260,7 +255,6 @@ The `spanish alphabet` figures are unusually favourable and therefore need indep
 
 ## Catholic / Faith-based
 
-[Jump to category](#catholic--faithbased)
 
 ### Search universe
 
@@ -316,7 +310,6 @@ RankHero's `catholic prayer` top results already include children's prayer cards
 
 ## Colouring / Creative
 
-[Jump to category](#colouring--creative)
 
 ### Search discovery
 

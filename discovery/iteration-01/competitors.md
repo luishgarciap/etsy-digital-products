@@ -583,6 +583,4 @@ For each purchased product record:
 
 ---
 
----
-
 [Product economics →](product-economics.md)

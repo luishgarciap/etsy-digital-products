@@ -68,7 +68,7 @@ Potential differentiation to investigate:
 
 ### 4. Catholic / faith-based products
 
-Newer candidate directions include:
+Current candidate directions include:
 
 - children's faith resources;
 - First Communion;
@@ -79,7 +79,7 @@ Newer candidate directions include:
 
 ### 5. Colouring / creative products
 
-Colouring is currently a broad production idea rather than a defined opportunity. It must be narrowed to a buyer, purpose and product format before fair comparison.
+Current research now supports comparison of several concrete colouring production models. The remaining question is which buyer/style/product structure could support a coherent and repeatable colouring product family.
 
 
 ## Working terminology
@@ -95,6 +95,8 @@ Use these terms consistently so we do not confuse the unit being analysed:
 | **Product** | What the buyer purchases through a listing |
 | **Bundle** | One listing containing several related files/items/templates |
 | **Product family** | Several separate products serving the same buyer need, theme or occasion |
+| **Series** | Use only when the seller explicitly publishes a recurring named sequence or numbered volumes; not a synonym for product family |
+| **Shop section** | Category created by the Etsy seller to organise listings inside the shop |
 | **Candidate competitor** | Shop worth investigating further |
 | **Core competitor** | Shop that repeatedly appears or strongly represents a category |
 | **Specialist competitor** | Shop particularly strong in a meaningful sub-niche |
@@ -106,11 +108,11 @@ Use these terms consistently so we do not confuse the unit being analysed:
 
 | Opportunity | What we know now | What is still missing |
 |---|---|---|
-| Café / small-business | Specific café terms show some interesting early screening signals | Official keyword validation, café-specific shops/reviews, realistic production effort |
-| Invitations / celebrations | Buyer demand is proven; broad competition is very high | Narrower niche, unmet needs, bundle/customer-experience evidence |
-| Bilingual learning | `spanish flashcards` looks promising; bundle potential exists | Competitor/review depth, pedagogy/language QA effort, bundle economics |
-| Catholic / faith-based | Public Etsy activity exists | Comparable demand, pricing, competitor and review evidence |
-| Colouring / creative | We can produce this type of content | Defined buyer/use case, demand, competitor and pricing evidence |
+| Invitations / celebrations | Strong search discovery and strong competitor/product evidence; broad demand is established | Etsy Marketplace Insights validation, more deliberate critical-review evidence and hands-on product analysis |
+| Café / gastronomy / bakery | Good search discovery and relevant competitor models; product-specific review evidence is thinner | Bakery/broader café validation, more menu-specific buyer reviews and realistic production effort |
+| Bilingual children / family | Strong screening signals and good competitor/product evidence across small resources and large bundles | Spanish-specific reviews, Etsy validation, Portuguese-English evidence, QA effort and bundle economics |
+| Catholic / faith-based | Good search/competitor evidence and unusually concrete product-use/review insights | Direct keyword validation, broader bilingual/sacramental evidence, critical reviews and product economics |
+| Colouring / creative | Strong search/competitor/review evidence and three distinct production models to compare | Keyword validation, critical reviews, hands-on purchases and realistic original-art production rate |
 
 ## Questions Iteration 01 must answer
 
@@ -123,7 +125,7 @@ Use these terms consistently so we do not confuse the unit being analysed:
 
 ## Current starting point
 
-Preliminary screening already exists for café/gastronomy, invitations and bilingual learning. Some specific café/matcha terms and Spanish-English learning searches show interesting early evidence, while invitations show strong demand together with high competition. Catholic and colouring are additional ideas that have not yet been investigated to the same depth. No opportunity is prioritised or deprioritised at this stage.
+All five product directions now have substantive research. The evidence is strongest in different ways across categories: Invitations has strong demand and competitor evidence; Café has interesting screening signals but thinner product-specific reviews; Bilingual has strong search/product evidence but needs deeper language-specific feedback and economics; Catholic has actionable product-use insights; and Colouring has three clear production models to compare. No opportunity is prioritised or deprioritised at this stage.
 
 ---
 
