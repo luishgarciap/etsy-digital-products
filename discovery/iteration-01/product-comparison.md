@@ -8,22 +8,22 @@
 
 | Candidate | Current signal | Evidence level | Main evidence gap | Next decision action |
 |---|---|---|---|---|
-| Matcha / specific café menu | Strongest current demand/competition screen | Medium | Etsy keyword validation + real café competitors/reviews | Validate `matcha menu`; identify 3–5 shops; shortlist a product to buy |
-| Coffee / bakery business kit | Strong coffee demand + good bundle potential | Medium | Need buyer/review evidence and bundle pricing | Validate café/bakery terms; inspect shops and bundles |
-| Spanish-English learning packs | Promising demand with lower competition than generic invitations | Medium | Need competitor/review evidence + production/QA effort | Validate keywords; inspect 3–5 shops; test bundle economics |
-| Narrow invitation niche | Very strong category demand | Medium | Need a specific long-tail niche and unmet need | Review cultural/bilingual/occasion niches and bundles |
-| Catholic resources | Market exists | Low | Demand, pricing, competitors and reviews not yet comparable | Run keyword screen; find 3–5 shops |
-| Colouring / creative | Production capability exists | Low | Opportunity not defined at buyer/use-case level | Choose one use case before deeper research |
+| Matcha / specific café menu | Interesting current demand/competition signal | Preliminary | Etsy keyword validation + real café competitors/reviews | Validate `matcha menu`; identify 3–5 shops; consider a product to buy |
+| Coffee / bakery business kit | Interesting coffee demand evidence + possible bundle potential | Preliminary | Need buyer/review evidence and bundle pricing | Validate café/bakery terms; inspect shops and bundles |
+| Spanish-English learning packs | Interesting early demand/competition evidence | Preliminary | Need competitor/review evidence + production/QA effort | Validate keywords; inspect 3–5 shops; test bundle economics |
+| Invitations / celebrations | Strong category demand alongside high competition | Preliminary | Need to identify where differentiation and unmet need may exist | Review cultural/bilingual/occasion niches and bundles |
+| Catholic resources | Additional idea with visible market activity | Early | Demand, pricing, competitors and reviews not yet comparable | Run keyword screen; find 3–5 shops |
+| Colouring / creative | Additional idea with several possible directions | Early | Buyer/use case not yet narrowed | Choose one use case before deeper research |
 
 ## Current read
 
-- **Leading evidence:** café / matcha.
-- **Strong alternative:** bilingual learning.
-- **Commercially proven but crowded:** invitations.
-- **Under-researched:** Catholic.
-- **Not yet sufficiently framed:** colouring.
+- The three original directions — café / small-business, invitations / celebrations, and bilingual learning — all remain open.
+- Café/matcha and Spanish-English learning currently contain some interesting preliminary evidence.
+- Invitations show strong demand together with high competition, so the research needs to identify where differentiation may exist.
+- Catholic / faith-based and colouring / creative are additional ideas that need comparable research.
+- No candidate is selected, prioritised or deprioritised at this stage.
 
-No pilot decision should be made until the leading candidates have comparable demand and competitor evidence.
+The next decision should follow comparable demand, competitor/review and product-economics evidence.
 
 ---
 

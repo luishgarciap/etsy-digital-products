@@ -86,7 +86,7 @@ Colouring is currently a broad production idea rather than a defined opportunity
 
 | Opportunity | What we know now | What is still missing |
 |---|---|---|
-| Café / small-business | Specific café terms show the strongest current screening signals | Official keyword validation, café-specific shops/reviews, realistic production effort |
+| Café / small-business | Specific café terms show some interesting early screening signals | Official keyword validation, café-specific shops/reviews, realistic production effort |
 | Invitations / celebrations | Buyer demand is proven; broad competition is very high | Narrower niche, unmet needs, bundle/customer-experience evidence |
 | Bilingual learning | `spanish flashcards` looks promising; bundle potential exists | Competitor/review depth, pedagogy/language QA effort, bundle economics |
 | Catholic / faith-based | Public Etsy activity exists | Comparable demand, pricing, competitor and review evidence |
@@ -103,7 +103,7 @@ Colouring is currently a broad production idea rather than a defined opportunity
 
 ## Current starting point
 
-Preliminary screening already exists for café/gastronomy, invitations and bilingual learning. Specific café terms and Spanish-English learning currently look more attractive than generic invitations, but Catholic and colouring have not yet been investigated to the same depth.
+Preliminary screening already exists for café/gastronomy, invitations and bilingual learning. Some specific café/matcha terms and Spanish-English learning searches show interesting early evidence, while invitations show strong demand together with high competition. Catholic and colouring are additional ideas that have not yet been investigated to the same depth. No opportunity is prioritised or deprioritised at this stage.
 
 ---
 

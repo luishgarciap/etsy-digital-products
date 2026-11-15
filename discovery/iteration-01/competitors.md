@@ -61,12 +61,9 @@ ZenovaVibe is useful to study commercially, but large PLR/MRR-style bundles requ
 
 ## Competitor product purchase — immediate research action
 
-The next useful purchase is **not simply the cheapest product**. Select 1–2 products from the strongest current opportunities that let us inspect the complete customer experience.
+Select 1–2 competitor products that can teach us something useful about the opportunities we are considering and let us inspect the complete customer experience.
 
-Priority:
-
-1. **One café/menu product** after café-specific competitors have been identified.
-2. **One second product from the strongest alternative opportunity** — currently bilingual learning or a differentiated invitation niche.
+Possible first purchases can come from any of the product directions we are actively considering. Since invitation competitors are already identified, one invitation product could be purchased immediately while café, bilingual, Catholic and colouring competitor research is expanded. The second purchase can be chosen once another product family has a suitable competitor example.
 
 For each purchased product, record:
 

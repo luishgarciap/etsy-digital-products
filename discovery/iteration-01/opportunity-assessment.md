@@ -30,11 +30,11 @@ The more credible opportunity is a narrower buyer/occasion, cultural or language
 
 Etsy public activity confirms an existing market for Catholic prayer cards and related resources, but comparable demand and review analysis has not yet been completed. [[33]](../../knowledge/references.md#ref-33)
 
-The strongest directions to examine first are children, First Communion / Confirmation, prayer/Rosary and bilingual resources.
+Possible directions to examine include children, First Communion / Confirmation, prayer/Rosary and bilingual resources.
 
 ## Colouring / creative
 
-The direction remains too broad for useful comparison. It needs a defined buyer, use case and product format before demand and economics can be assessed.
+The direction includes several possible products. A clearer buyer, use case and product format will make demand and economics easier to assess.
 
 AI may support production, subject to Etsy originality/disclosure requirements, but it is not the market strategy itself. [[14]](../../knowledge/references.md#ref-14)
 

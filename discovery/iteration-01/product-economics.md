@@ -52,7 +52,7 @@ Current implications:
 
 - simple flashcards are more attractive if production is reusable and products can be bundled;
 - café/matcha products show stronger single-item contribution in the current screen, but production effort is still unknown;
-- generic invitations combine low price points with very high competing supply;
+- invitations currently show relatively low price points in the screening data together with high competing supply;
 - Catholic and colouring products need comparable price/product evidence before economics can be judged.
 
 ---

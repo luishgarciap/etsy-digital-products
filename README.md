@@ -10,23 +10,23 @@ We are building a digital-products business on Etsy, based in Brazil and aimed a
 
 **Iteration 01 is in INVESTIGATE. No pilot has been selected yet.**
 
-Current strongest signals are in **café / matcha** and **Spanish-English learning**. Generic invitations show strong demand but much heavier competition. Catholic and colouring opportunities still lack enough evidence for a fair comparison.
+The three initial product directions — **café / small-business**, **invitations / celebrations**, and **bilingual children / family learning** — all remain open for investigation. Preliminary research has produced some interesting early evidence in specific café/matcha terms and Spanish-English learning, while invitations also show strong demand alongside high competition. **Catholic / faith-based** and **colouring / creative** are additional ideas that still need comparable research. No opportunity has been selected or deprioritised at this stage.
 
 ## Opportunity status
 
 | Opportunity | Current signal | Evidence level | Main gap | Next action |
 |---|---|---|---|---|
-| Café / small-business | Strongest current screening; `coffee menu` and `matcha menu` look promising | Medium | Need Etsy Marketplace Insights + café-specific competitor/review evidence | Validate keywords; find 3–5 relevant café/menu shops |
-| Bilingual learning | Promising demand/competition signal for `spanish flashcards` | Medium | Need deeper competitor/review evidence and bundle economics | Validate keywords; find 3–5 bilingual-learning shops |
-| Invitations / celebrations | Demand clearly proven | Medium | Broad market is highly saturated; need a narrower entry point | Review cultural/bilingual/occasion niches and bundle gaps |
-| Catholic / faith-based | Existing Etsy activity visible | Low | No comparable demand, pricing or competitor analysis yet | Run keyword screen; find 3–5 relevant shops |
-| Colouring / creative | Production idea only | Low | Buyer/use case still too broad | Define one concrete colouring use case before deeper research |
+| Café / small-business | Some interesting early signals in `coffee menu` and `matcha menu` | Preliminary | Need Etsy Marketplace Insights + café-specific competitor/review evidence | Validate keywords; find 3–5 relevant café/menu shops |
+| Bilingual learning | Some interesting early demand/competition evidence for `spanish flashcards` | Preliminary | Need deeper competitor/review evidence and bundle economics | Validate keywords; find 3–5 bilingual-learning shops |
+| Invitations / celebrations | Strong demand is visible; competition is also high | Preliminary | Need to understand where a differentiated entry point may exist | Review cultural/bilingual/occasion niches and bundle gaps |
+| Catholic / faith-based | Additional idea with visible Etsy activity | Early | No comparable demand, pricing or competitor analysis yet | Run keyword screen; find 3–5 relevant shops |
+| Colouring / creative | Additional idea with several possible directions | Early | Buyer/use case has not yet been narrowed | Define one concrete colouring use case before deeper research |
 
 ## Immediate next actions
 
 1. Run the planned **15 Marketplace Insights searches** and record the results in [Market & demand](discovery/iteration-01/market-demand.md).
 2. Expand [Competitors](discovery/iteration-01/competitors.md), especially for **café, bilingual and Catholic** products.
-3. From the strongest current opportunities, identify **1–2 competitor products worth buying** to inspect the full customer experience: purchase → download → instructions → edit/use → final result.
+3. Identify **1–2 competitor products worth buying** from the opportunities we want to understand better, and inspect the full customer experience: purchase → download → instructions → edit/use → final result.
 4. Mine recent reviews for recurring problems, requests and missing bundle elements.
 5. Update [Opportunity assessment](discovery/iteration-01/opportunity-assessment.md) and [Product comparison](discovery/iteration-01/product-comparison.md). Only then select the pilot.
 

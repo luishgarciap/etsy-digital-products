@@ -8,7 +8,7 @@
 
 No pilot has been approved yet.
 
-The current evidence places café/matcha and bilingual learning ahead of generic invitations, but the decision should follow the comparable demand, competitor/review and production-effort work.
+The evidence is still incomplete across the opportunities. Café/matcha and Spanish-English learning have produced some interesting preliminary signals, invitations show strong demand alongside high competition, and Catholic/colouring still need comparable research. The pilot decision will follow the demand, competitor/review and production-effort work.
 
 ## Decision record
 
