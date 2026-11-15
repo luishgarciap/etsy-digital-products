@@ -10,9 +10,9 @@
 
 ## Cross-category screening snapshot
 
-RankHero figures are **screening evidence**, not a pilot decision. The purpose of the detailed category sections below is to preserve the exact search strings we have discovered and show what still needs Etsy Marketplace Insights validation.
+RankHero figures provide **initial screening evidence**. Selected searches can be complemented with Etsy Marketplace Insights data.
 
-| Search | Searches / month | Competition | Typical / median price | Current read |
+| Search | Searches / month | Competition | Typical / median price | Screening signal |
 |---|---:|---:|---:|---|
 | `wedding invitation` | ~301k | ~930k | ~$10.00 | Demand is very large; broad competition also very high |
 | `wedding invite` | ~301k | ~410k | ~$8.99 | Similar demand estimate, lower reported competition; verify in Etsy |
@@ -65,19 +65,19 @@ Discovered / verified search directions include:
 
 #### Cultural / religious branch
 
-This is **not a seed-derived branch yet**. It emerged from specialist listings and shops such as JoyablyStudio.
+This branch emerged from specialist listings and shops such as JoyablyStudio rather than from the initial seed search.
 
 Searches to investigate separately include:
 
 `Sikh wedding invitation` · `Anand Karaj invitation` · `Islamic wedding invitation` · `Nikah invitation` · `Hindu wedding invitation`.
 
-These should be labelled **research-derived hypotheses** until their RankHero/Etsy search data is collected.
+These are recorded as **research-derived hypotheses** until RankHero/Etsy search data is collected.
 
 ---
 
 ### Searches with current RankHero metrics
 
-| Search                 | Searches / month | Competition | Typical / median price | Current use                       |
+| Search                 | Searches / month | Competition | Typical / median price | Research role                     |
 | ---------------------- | ---------------- | ----------- | ---------------------- | --------------------------------- |
 | `wedding invitation`   | \~301k           | \~930k      | \~$10                  | Broad benchmark                   |
 | `wedding invite`       | \~301k           | \~410k      | \~$8.99                | Selected for Etsy validation       |
@@ -88,7 +88,7 @@ These should be labelled **research-derived hypotheses** until their RankHero/Et
 | `baby shower invites`  | \~40.5k          | \~259k      | \~$9.50                | Separate occasion benchmark       |
 
 
-**Important:** RankHero reports large competition differences between very similar phrases such as `birthday invites` and `bday invite`. This is a reason to verify the terms in Etsy Marketplace Insights, not evidence that one is automatically superior.
+**Important:** RankHero reports large competition differences between very similar phrases such as `birthday invites` and `bday invite`. Etsy Marketplace Insights can provide a direct comparison using Etsy's own recent search/listing data.
 
 #### Additional RankHero terms not yet measured
 
@@ -161,7 +161,7 @@ These are **research seeds / hypotheses**, not yet claimed as RankHero-discovere
 | `matcha menu`        | \~4.4k                             | 191         | \~$6.85      |
 | `food menu template` | \~2.9k                             | \~21.5k     | \~$4.99      |
 
-RankHero reports substantially lower competition for `matcha menu` than for the broader café/menu terms measured here. This remains third-party screening evidence and is included in the selected Etsy validation set.
+RankHero reports substantially lower competition for `matcha menu` than for the broader café/menu terms measured here. `matcha menu` is included in the selected Etsy Marketplace Insights set.
 
 #### Additional RankHero terms not yet measured
 
@@ -225,7 +225,7 @@ Searches still requiring measurement:
 | `spanish alphabet`   | \~135k           | \~1.7k      | \~$4.12      |
 
 
-RankHero reports a very large search-volume-to-competition difference for `spanish alphabet`. Because that result differs sharply from many other terms in the screening, it is included in the selected Etsy validation set.
+RankHero reports a very large search-volume-to-competition difference for `spanish alphabet`. `spanish alphabet` is included in the selected Etsy Marketplace Insights set.
 
 #### Additional RankHero terms not yet measured
 
@@ -352,7 +352,7 @@ RankHero also associates materials/formats including printable PDF, PNG, hand-dr
 
 ## Selected Marketplace Insights set — 15 searches
 
-These are the **selected searches** for Etsy Marketplace Insights. They replace the older provisional 15-search batch because they reflect the deeper search discovery completed since the neutral version.
+These are the **selected searches** for Etsy Marketplace Insights.
 
 | Category | Search 1 | Search 2 | Search 3 |
 |---|---|---|---|
@@ -372,7 +372,7 @@ Record for each: 30-day searches, Etsy listings, trend/related terms, observed p
 
 ## Seasonality
 
-December / Christmas may offer an early seasonal opportunity, but a new shop may have limited time to build visibility. The first catalogue should therefore include evergreen products as well.
+December / Christmas introduces seasonal demand, while evergreen products are not tied to a specific seasonal window.
 
 
 ---

@@ -12,7 +12,7 @@ Use this page for **shops, listings, reviews, product structures, representative
 
 **Jump to:** [Invitations](#invitations--celebrations) · [Café](#café--gastronomy--bakery) · [Bilingual](#bilingual-children--family-learning) · [Catholic](#catholic--faith-based) · [Colouring](#colouring--creative) · [Representative products](#representative-product-shortlist) · [References](../../knowledge/references.md)
 
-### Mandatory competitor-entry rule
+### Competitor-entry standard
 
 Every competitor entry should contain, as far as the current evidence allows:
 
@@ -22,9 +22,9 @@ If a field has not yet been researched, write **not yet collected / not yet veri
 
 **Direct product inspection:** this is an optional competitor-analysis method for product-level questions that public listings/reviews cannot resolve.
 
-**Review-source rule:** every review finding must point to the Etsy shop/listing/review source in the master IEEE-style bibliography in [References](../../knowledge/references.md). If the finding comes from **Etsy's own AI review summary**, say so explicitly; do not present it as though we manually read every review.
+**Review-source standard:** every review finding must point to the Etsy shop/listing/review source in the master IEEE-style bibliography in [References](../../knowledge/references.md). If the finding comes from **Etsy's own AI review summary**, say so explicitly; do not present it as though we manually read every review.
 
-**Price rule:** Etsy prices and discounts move frequently. Record a price only when we have a dated observation. If not, say **price snapshot not yet captured** and use the linked listing as the source to check at purchase time.
+**Price-recording standard:** Etsy prices and discounts move frequently. Record a price only when we have a dated observation. If not, say **price snapshot not yet captured** and use the linked listing as the source to check at purchase time.
 
 ### Competitor roles
 
@@ -51,9 +51,9 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 - [Luxury Burgundy Wedding Invitation Suite](https://www.etsy.com/in-en/listing/4590477604/luxury-burgundy-wedding-invitation-suite) [[39]](../../knowledge/references.md#ref-39)
 
-**Price / format / bundle:** current public listing identifies a digital download delivered through a PDF and editable Canva workflow. The suite includes the main invitation, details card, RSVP/monogram/place card, welcome-party card and envelope liner; exports include PDF/JPEG/PNG. Text, fonts, colours and text placement are editable, while artwork/page sizes are more constrained. **Price snapshot should be rechecked at purchase time because the listing is promotion-sensitive.** [[39]](../../knowledge/references.md#ref-39)
+**Price / format / bundle:** current public listing identifies a digital download delivered through a PDF and editable Canva workflow. The suite includes the main invitation, details card, RSVP/monogram/place card, welcome-party card and envelope liner; exports include PDF/JPEG/PNG. Text, fonts, colours and text placement are editable, while artwork/page sizes are more constrained. **The displayed price is promotion-sensitive and may change.** [[39]](../../knowledge/references.md#ref-39)
 
-**Positive review findings:** product-specific review evidence has not yet been mined deeply enough for this listing. Shop-level reputation is strong, but that is not a substitute for suite-specific buyer feedback. [[38]](../../knowledge/references.md#ref-38), [[39]](../../knowledge/references.md#ref-39)
+**Positive review findings:** product-specific review evidence currently captured for this listing is limited. Shop-level reputation is strong; suite-specific buyer feedback remains limited. [[38]](../../knowledge/references.md#ref-38), [[39]](../../knowledge/references.md#ref-39)
 
 **Critical review findings:** not yet collected. Evidence not yet collected includes complaints about editing friction, non-editable artwork, resizing, printing, instructions and export quality.
 
@@ -61,7 +61,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **What it teaches us:** the product unit can be an event-wide **product family/bundle**, not only an invitation.
 
-**Hands-on research value:** **High.** Public information cannot tell us whether the Canva source file, instructions, organisation and export experience actually feel premium.
+**Hands-on research value:** **High.** Public information does not reveal the Canva source-file structure, instructions, organisation or export workflow.
 
 ---
 
@@ -77,7 +77,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 - [Spooky One Birthday Bundle](https://www.etsy.com/listing/4350671765/spooky-one-birthday-bundle-halloween) [[40]](../../knowledge/references.md#ref-40)
 
-**Price / format / bundle:** large themed digital bundle; current price snapshot not yet captured in the BoK. Recheck the listing at purchase time. [[40]](../../knowledge/references.md#ref-40)
+**Price / format / bundle:** large themed digital bundle; current price snapshot not yet captured in the BoK. Etsy promotions may change the displayed price. [[40]](../../knowledge/references.md#ref-40)
 
 **Positive review findings:** shop reviews observed in the current research emphasise fast access, quality and ease of customisation. These are **shop/review-page observations**, not a claim that every product has the same experience. [[35]](../../knowledge/references.md#ref-35)
 
@@ -103,7 +103,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 - [Sikh Wedding Invitation Set — Anand Karaj / Mehndi / Jago / Reception](https://www.etsy.com/listing/4538122436/sikh-wedding-invitation-set-anand-karaj) [[41]](../../knowledge/references.md#ref-41)
 
-**Price / format / bundle:** multi-event digital invitation set; current price snapshot not yet captured in the BoK. Recheck the listing at purchase time. [[41]](../../knowledge/references.md#ref-41)
+**Price / format / bundle:** multi-event digital invitation set; current price snapshot not yet captured in the BoK. Etsy promotions may change the displayed price. [[41]](../../knowledge/references.md#ref-41)
 
 **Positive review findings:** reviews observed during research praise instant access, visual quality and delivered products matching listing imagery. These findings come from the public Etsy shop/review evidence. [[34]](../../knowledge/references.md#ref-34)
 
@@ -130,7 +130,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 - [Dinosaur Birthday Invitation](https://www.etsy.com/listing/4476747319/dinosaur-birthday-invitation-editable) [[43]](../../knowledge/references.md#ref-43)
 - [Santa Baby Shower Bundle](https://www.etsy.com/ca/listing/1801121273/santa-baby-shower-bundle-christmas-baby) [[44]](../../knowledge/references.md#ref-44)
 
-**Price / format / bundle:** digital editable invitation/bundle model. The Santa bundle visibly includes many coordinated templates/games; exact local prices are promotion- and region-sensitive; recheck them at purchase time. [[43]](../../knowledge/references.md#ref-43), [[44]](../../knowledge/references.md#ref-44)
+**Price / format / bundle:** digital editable invitation/bundle model. The Santa bundle visibly includes many coordinated templates/games; exact local prices are promotion- and region-sensitive. [[43]](../../knowledge/references.md#ref-43), [[44]](../../knowledge/references.md#ref-44)
 
 **Positive review findings:** not yet product-specifically mined for these two listings.
 
@@ -164,7 +164,7 @@ Public Etsy sales counts are cumulative and do not reveal monthly revenue, cost 
 
 **What it teaches us:** useful low-price/smaller-shop contrast against larger invitation sellers.
 
-**Hands-on research value:** **Low for now.** Its current role is primarily as a benchmark unless a specific listing answers a question not covered by the stronger research candidates.
+**Hands-on research value:** **Low.** Its current role is a smaller/lower-price benchmark; no distinct hands-on research question has been identified for it.
 
 ### Invitation category review gap
 
@@ -188,7 +188,7 @@ The current evidence contains many positive buyer signals and a smaller sample o
 
 **Price / format / bundle:** editable Canva menu/price-list product; current price snapshot not yet captured in the BoK. [[46]](../../knowledge/references.md#ref-46)
 
-**Positive review findings:** we do not yet have enough **menu-specific** review evidence to claim a consistent buyer experience.
+**Positive review findings:** **menu-specific** review evidence currently captured is limited.
 
 **Critical review findings:** not yet collected for the menu product.
 
@@ -271,11 +271,11 @@ Relevant shops are already documented, but the current sample contains relativel
 - [300+ Spanish Flashcards Bundle](https://www.etsy.com/listing/1566158593/learning-spanish-bundle-300-spanish) [[52]](../../knowledge/references.md#ref-52)
 - [900+ Spanish Worksheets Bundle](https://www.etsy.com/au/listing/1274697210/learning-spanish-bundle-900-spanish) [[53]](../../knowledge/references.md#ref-53)
 
-**Price / format / bundle:** large digital PDF/printable learning bundles; current price snapshot should be rechecked before purchase because promotions may change. [[52]](../../knowledge/references.md#ref-52), [[53]](../../knowledge/references.md#ref-53)
+**Price / format / bundle:** large digital PDF/printable learning bundles; current price snapshot may change with promotions. [[52]](../../knowledge/references.md#ref-52), [[53]](../../knowledge/references.md#ref-53)
 
 **Positive review findings:** the 900+ worksheet listing's **Etsy-generated review summary** describes the resource as high-quality, attractive and well thought out; individual listing feedback also includes ease-of-use/fuss-free sentiment. The seller states that multilingual translation support is part of its quality process. [[53]](../../knowledge/references.md#ref-53)
 
-**Critical review findings:** current sample is still thin. Regional Spanish differences have already emerged as a meaningful quality consideration; more product-specific critical reviews are needed before drawing broader conclusions.
+**Critical review findings:** the current sample is limited. Regional Spanish differences have already emerged as a quality consideration; broader product-specific critical-review evidence has not yet been collected.
 
 **Exact evidence source:** shop [[51]](../../knowledge/references.md#ref-51); flashcards [[52]](../../knowledge/references.md#ref-52); worksheet listing/reviews [[53]](../../knowledge/references.md#ref-53). **The summary wording is explicitly Etsy's own review summary, not our manual review of every comment.**
 
@@ -364,9 +364,9 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Exact evidence source:** shop/reviews [[59]](../../knowledge/references.md#ref-59); Rosary listing/reviews [[60]](../../knowledge/references.md#ref-60).
 
-**What it teaches us:** portability and **concise information architecture** can be product value. More pages are not automatically better. The bilingual review is a real buyer signal, but only one signal — not yet proof of broad bilingual demand.
+**What it teaches us:** buyer reviews highlight portability and **concise information architecture**, including the value of having key information on one sheet. The bilingual review is one buyer-use signal; broader bilingual-demand evidence has not yet been collected.
 
-**Hands-on research value:** **Very high.** Simple enough to evaluate deeply without confusing quantity with usefulness.
+**Hands-on research value:** **Very high.** It provides a concise-guide model for direct comparison with larger activity resources.
 
 ---
 
@@ -386,11 +386,11 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Positive review findings:** public review evidence includes children's prayer resources being useful additions to prayer journals/activities. [[61]](../../knowledge/references.md#ref-61), [[62]](../../knowledge/references.md#ref-62)
 
-**Critical review findings:** one observed buyer comment on a related set reported that some pages needed instructions explaining how to use them. That is important because it shows onboarding can be part of the product value. [[61]](../../knowledge/references.md#ref-61)
+**Critical review findings:** one observed buyer comment on a related set reported that some pages needed instructions explaining how to use them. This provides direct evidence of an onboarding/instruction issue. [[61]](../../knowledge/references.md#ref-61)
 
 **Exact evidence source:** shop/review page [[61]](../../knowledge/references.md#ref-61); representative product [[62]](../../knowledge/references.md#ref-62).
 
-**What it teaches us:** attractive content is not enough if the buyer does not understand how to use it; **instructions/onboarding are product features**.
+**What it teaches us:** the observed review shows that **instructions/onboarding affect product usability** when the intended use is not self-evident.
 
 **Hands-on research value:** **High** as the activity-based contrast to Avelia.
 
@@ -400,7 +400,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Shop:** [ProudPracticalPrints on Etsy](https://www.etsy.com/shop/ProudPracticalPrints) [[63]](../../knowledge/references.md#ref-63)
 
-**Why selected:** very large catalogue / low-unit-price / repeated-format contrast, not because it is automatically the model we want.
+**Why selected:** very large catalogue / low-unit-price / repeated-format contrast.
 
 **Relevant offering:** Bible bingo/games, colouring pages and repeated printable activity structures across occasions.
 
@@ -410,7 +410,7 @@ Product evidence is already substantial, but the current sample contains relativ
 
 **Price / format / bundle:** digital printable activity/game; current price snapshot not yet captured. [[64]](../../knowledge/references.md#ref-64)
 
-**Positive review findings:** product-specific review mining is not yet sufficient for our current decision.
+**Positive review findings:** product-specific review evidence currently captured is limited.
 
 **Critical review findings:** not yet collected.
 
@@ -448,7 +448,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Exact evidence source:** shop/reviews [[65]](../../knowledge/references.md#ref-65); representative listing [[66]](../../knowledge/references.md#ref-66).
 
-**What it teaches us:** evidence for a repeat-purchase product-family model: **consistent style + frequent new themes → buyer returns for more books**.
+**What it teaches us:** observed repeat-purchase comments are consistent with a product-family model built on **consistent style + frequent new themes**.
 
 **Hands-on research value:** **High.** It represents the higher-output catalogue model for comparison with KomfiKat's smaller hand-drawn operation.
 
@@ -467,7 +467,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 - [Hobby Girl — 40-page hand-drawn colouring book](https://www.etsy.com/dk-en/listing/4472798201/hobby-girl-cute-and-cozy-coloring-book) [[68]](../../knowledge/references.md#ref-68)
 - [Honey Days — 40-page hand-drawn colouring book](https://www.etsy.com/listing/4559165353/honey-days-cute-and-cozy-coloring-book) [[69]](../../knowledge/references.md#ref-69)
 
-**Price / format / bundle:** 40-page book-sized products; PDF + PNG format is visible in the current research. Current price snapshot should be rechecked before purchase. [[68]](../../knowledge/references.md#ref-68), [[69]](../../knowledge/references.md#ref-69)
+**Price / format / bundle:** 40-page book-sized products; PDF + PNG format is visible in the current research. Current price snapshot may change with promotions. [[68]](../../knowledge/references.md#ref-68), [[69]](../../knowledge/references.md#ref-69)
 
 **Positive review findings:** shop reputation is strong, but we have not yet captured enough product-specific review detail to claim specific usability strengths.
 
@@ -494,7 +494,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 - [Girl Moments](https://www.etsy.com/listing/1831007226/girl-moments-cute-cozy-daily-activities) [[71]](../../knowledge/references.md#ref-71)
 - [Spooky Cutie](https://www.etsy.com/listing/1763324670/spooky-cutie-adorable-creepy-creatures) [[72]](../../knowledge/references.md#ref-72)
 
-**Price / format / bundle:** separate digital PDF colouring products at relatively accessible prices; current exact price snapshot should be rechecked before purchase. [[71]](../../knowledge/references.md#ref-71), [[72]](../../knowledge/references.md#ref-72)
+**Price / format / bundle:** separate digital PDF colouring products at relatively accessible prices; current exact price snapshot may change with promotions. [[71]](../../knowledge/references.md#ref-71), [[72]](../../knowledge/references.md#ref-72)
 
 **Positive review findings:** `Girl Moments` has a large review base. **Etsy's own AI review summary**, together with visible individual reviews, highlights print quality, quick/easy download, ease of use, attractive drawings and shared/social colouring enjoyment. We are explicitly treating the AI summary as an Etsy-generated synthesis, not as our manual reading of all reviews. [[71]](../../knowledge/references.md#ref-71)
 
@@ -502,7 +502,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Exact evidence source:** shop [[70]](../../knowledge/references.md#ref-70); `Girl Moments` listing/reviews [[71]](../../knowledge/references.md#ref-71); `Spooky Cutie` [[72]](../../knowledge/references.md#ref-72).
 
-**What it teaches us:** a seller may achieve high sales with a relatively limited number of listings if products have recognisable visual identity, coherent concepts, repeatable naming/themes and low-friction digital delivery.
+**What it teaches us:** this shop combines high cumulative sales with a relatively limited catalogue, recognisable visual identity, coherent product concepts and repeatable naming/themes.
 
 **Hands-on research value:** **High** as the recognisable-brand/product-family contrast.
 
@@ -512,7 +512,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Shop:** [ZenovaVibe on Etsy](https://www.etsy.com/shop/ZenovaVibe) [[37]](../../knowledge/references.md#ref-37)
 
-**Why selected:** preserved from the original report as a large/low-price bundle contrast. It has not emerged strongly in the current RankHero search work, so it should not be promoted to core competitor.
+**Why selected:** preserved from the original report as a large/low-price bundle contrast. It has not emerged strongly in the current RankHero search work and remains a baseline/contrast case.
 
 **Relevant offering:** high-volume digital colouring/bundle proposition.
 
@@ -522,7 +522,7 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **Price / format / bundle:** digital colouring product; current exact price snapshot not yet captured. [[73]](../../knowledge/references.md#ref-73)
 
-**Positive review findings:** not currently strong enough/product-specific enough for our decision.
+**Positive review findings:** product-specific review evidence currently captured is limited.
 
 **Critical review findings:** not yet collected.
 
@@ -530,19 +530,19 @@ Evidence not yet collected includes a broader critical-review sample, additional
 
 **What it teaches us:** historical contrast for lower-price/high-volume bundle logic.
 
-**Hands-on research value:** **Low.** Its role is a historical high-volume/low-price contrast unless a question emerges that the other three Colouring models do not answer.
+**Hands-on research value:** **Low.** Its current role is a historical high-volume/low-price contrast.
 
 ## Why the different Colouring production models matter
 
-This comparison is operational, not abstract. We are trying to understand what kind of catalogue/production model could realistically work for us.
+This comparison examines three concrete catalogue/production models.
 
 | Model | Example | Concrete evidence/model | Question it helps us answer |
 |---|---|---|---|
-| **Many products + bundles + frequent releases** | QuirkyFindsPH | Large active digital-colouring catalogue, multiple shop sections/themes, bundles/promotions and repeat-purchase signals. [[65]](../../knowledge/references.md#ref-65) | **Do we need catalogue volume and frequent releases to compete and generate repeat purchases?** |
-| **Very few, original hand-drawn books** | KomfiKatColoring | Very small catalogue; artwork positioned as drawn from scratch; 40-page PDF + PNG books. [[67]](../../knowledge/references.md#ref-67)–[[69]](../../knowledge/references.md#ref-69) | **Can a small but distinctive/original catalogue work without producing hundreds of listings?** |
-| **Recognisable branded product families** | CocoWyoColoring | Roughly mid-sized catalogue relative to QuirkyFindsPH, very high cumulative sales, recognisable styles/product concepts. [[70]](../../knowledge/references.md#ref-70)–[[72]](../../knowledge/references.md#ref-72) | **Can consistent visual identity and recognisable product families generate repeat purchases without thousands of listings?** |
+| **Many products + bundles + frequent releases** | QuirkyFindsPH | Large active digital-colouring catalogue, multiple shop sections/themes, bundles/promotions and repeat-purchase signals. [[65]](../../knowledge/references.md#ref-65) | **Does catalogue volume and frequent release activity contribute to repeat purchases?** |
+| **Very few, original hand-drawn books** | KomfiKatColoring | Very small catalogue; artwork positioned as drawn from scratch; 40-page PDF + PNG books. [[67]](../../knowledge/references.md#ref-67)–[[69]](../../knowledge/references.md#ref-69) | **Can a small, distinctive/original catalogue generate sufficient buyer value without a high listing count?** |
+| **Recognisable branded product families** | CocoWyoColoring | Roughly mid-sized catalogue relative to QuirkyFindsPH, very high cumulative sales, recognisable styles/product concepts. [[70]](../../knowledge/references.md#ref-70)–[[72]](../../knowledge/references.md#ref-72) | **How does consistent visual identity relate to repeat-purchase signals in a catalogue with fewer listings?** |
 
-**We are not ranking these three models yet.** The point is to make the production choice explicit and testable.
+**Current status:** the three models are documented for comparison; no ranking has been assigned.
 
 ### Colouring category review gap
 

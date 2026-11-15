@@ -21,7 +21,7 @@
 - Search discovery includes narrower occasion, format and cultural directions.
 - Competitor research includes coordinated product families, bundles and culturally specific offers.
 
-**Evidence not yet collected / remaining uncertainty**
+**Evidence not yet collected**
 
 - Etsy Marketplace Insights results for the selected searches.
 - A larger sample of critical product reviews on editing, mobile use, resizing, printing and instructions.
@@ -37,13 +37,13 @@
 - Current competitor research includes a focused menu, a multi-layout offer and a broader business-resource model.
 - Current screening prices are approximately US$7.00 for `coffee menu`, US$6.85 for `matcha menu` and US$4.99 for `food menu template`.
 
-**Evidence not yet collected / remaining uncertainty**
+**Evidence not yet collected**
 
 - More demand evidence for bakery and broader café terms.
 - More product-specific menu reviews.
 - Production-effort evidence for a focused menu, multi-layout offer and broader business kit.
 
-**Current interpretation:** the category contains at least three distinct offer models; current evidence does not establish which model buyers value most or which has the best economics.
+**Current interpretation:** the category contains at least three distinct offer models. Buyer-value and production-economics evidence is not yet comparable across those models.
 
 ## Bilingual Children / Family Learning
 
@@ -54,7 +54,7 @@
 - Competitor research includes both small thematic resources and large worksheet/learning systems.
 - Current screening prices are approximately US$3.40 for `spanish flashcards` and US$4.12 for `spanish alphabet`.
 
-**Evidence not yet collected / remaining uncertainty**
+**Evidence not yet collected**
 
 - More reviews specifically tied to Spanish/bilingual products.
 - Portuguese-English demand evidence.
@@ -71,13 +71,13 @@
 - One buyer review provides a Spanish→English Catholic-prayer use case.
 - Competitor research includes concise guides, prayer resources, children's activities and larger activity/game catalogues.
 
-**Evidence not yet collected / remaining uncertainty**
+**Evidence not yet collected**
 
 - Etsy Marketplace Insights results for selected prayer/communion searches.
 - Broader evidence on bilingual and sacramental demand.
 - More critical reviews and additional price/value evidence across single-resource and bundle formats.
 
-**Current interpretation:** several product forms are represented in the evidence; current data does not establish which prayer, sacramental, bilingual or children's sub-direction would be selected for a pilot.
+**Current interpretation:** several product forms are represented in the evidence; no prayer, sacramental, bilingual or children's sub-direction has been selected.
 
 ## Colouring / Creative
 
@@ -88,14 +88,14 @@
 - Competitor research documents three production models: larger catalogue/frequent releases, small original hand-drawn catalogue, and recognisable branded product families.
 - Buyer reviews include evidence on downloads, print/digital use, line style, variety and repeat purchase.
 
-**Evidence not yet collected / remaining uncertainty**
+**Evidence not yet collected**
 
 - Etsy Marketplace Insights results for the selected searches.
 - Narrower search evidence for terms such as `hand drawn coloring`.
 - More critical reviews on line quality, resolution, printing and tablet use.
 - Additional evidence on original-art production effort and throughput.
 
-**Current interpretation:** the three production models are sufficiently distinct for comparison; the economics of original hand-drawn production are not yet measured.
+**Current interpretation:** three distinct production models are documented for comparison; the economics of original hand-drawn production are not yet measured.
 
 ## Research gaps — exact meaning
 
@@ -109,12 +109,12 @@ These are **evidence gaps, not claims that the market has a gap**. They record e
 | **Catholic / Faith-based** | Etsy validation for selected searches; broader bilingual/sacramental evidence; more critical reviews; more single-resource versus bundle price/value evidence. | This can improve comparison across prayer guidance, bilingual resources, sacramental material and children's activities without assuming that any one sub-direction is larger or more valuable. |
 | **Colouring / Creative** | Etsy validation for narrower searches such as `hand drawn coloring`; more critical reviews on line quality/resolution/printing/tablet use; page-count/PDF+PNG value evidence; original-art production-effort estimates. | This can improve comparison of catalogue breadth, perceived product value and the economics of an original hand-drawn model. |
 
-## What could materially change the decision
+## Additional evidence that may affect the comparison
 
-1. Etsy Marketplace Insights confirming or contradicting the strongest current search signals.
-2. Product-specific buyer feedback revealing recurring problems or needs not visible in the current review sample.
-3. Direct product inspection, where used, revealing meaningful differences that cannot be assessed from public listings/reviews.
-4. Production-time or economic estimates materially changing the viability of a product model.
+1. Etsy Marketplace Insights results for the selected searches.
+2. Additional product-specific buyer feedback on recurring problems or needs.
+3. Direct product inspection, where used, for product-level evidence unavailable from public listings/reviews.
+4. Production-time and economic estimates for the product models under comparison.
 
 ## Next actions
 

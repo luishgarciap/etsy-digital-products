@@ -8,7 +8,7 @@
 
 ## Decision question
 
-> **Which initial digital-product opportunity offers the strongest combination of buyer demand, unmet need, viable economics and repeatable production, and therefore deserves the first controlled pilot?**
+> **Which initial digital-product opportunity offers the strongest combination of buyer demand, unmet need, viable economics and repeatable production for the first controlled pilot?**
 
 ## Product directions
 
@@ -84,7 +84,7 @@ Current research now supports comparison of several concrete colouring productio
 
 ## Working terminology
 
-Use these terms consistently so we do not confuse the unit being analysed:
+Terminology used consistently throughout the BoK:
 
 | Term | Meaning |
 |---|---|
@@ -106,7 +106,7 @@ Use these terms consistently so we do not confuse the unit being analysed:
 
 ## Current maturity
 
-| Opportunity | What we know now | Evidence not yet collected |
+| Opportunity | Current signal | Additional evidence |
 |---|---|---|
 | Invitations / celebrations | RankHero screening covers wedding, birthday and baby-shower searches; competitor/product research includes coordinated suites, themed bundles and culturally specific offers. | Etsy Marketplace Insights results for selected searches; a larger critical-review sample. |
 | Café / gastronomy / bakery | RankHero screening covers `coffee menu`, `matcha menu` and `food menu template`; competitor research includes focused menu, multi-layout and broader business-resource models. | More bakery/broader café demand evidence; more product-specific menu reviews; production-effort estimates. |

@@ -19,13 +19,13 @@ Price alone does not determine economic viability. Creation effort, reusable ass
 | Invitations | `wedding invites` | ~$8.88 | RankHero screening |
 | Invitations | `birthday invitations` | ~$5.12 | RankHero [[27]](../../knowledge/references.md#ref-27) |
 | Invitations | `birthday invites` | ~$5.30 | RankHero screening |
-| Invitations | `bday invite` | ~$7.20 | RankHero screening; discrepancy needs validation |
+| Invitations | `bday invite` | ~$7.20 | RankHero screening; Etsy validation not yet collected |
 | Invitations | `baby shower invites` | ~$9.50 | RankHero screening |
 | Café | `coffee menu` | ~$7.00 | RankHero [[24]](../../knowledge/references.md#ref-24) |
 | Café | `matcha menu` | ~$6.85 | RankHero [[25]](../../knowledge/references.md#ref-25) |
 | Café | `food menu template` | ~$4.99 | RankHero [[26]](../../knowledge/references.md#ref-26) |
 | Bilingual | `spanish flashcards` | ~$3.40 | RankHero [[28]](../../knowledge/references.md#ref-28) |
-| Bilingual | `spanish alphabet` | ~$4.12 | RankHero screening; unusually favourable demand/competition |
+| Bilingual | `spanish alphabet` | ~$4.12 | RankHero screening; large reported search/competition difference |
 | Catholic | `catholic prayer` | ~$6.99 | RankHero screening |
 | Catholic | `prayer cards` | ~$4.00 | RankHero screening |
 | Catholic | `bible coloring pages` | ~$2.99 | RankHero screening |
@@ -72,7 +72,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 | Café / business kit | US$9–25 | Higher value if it saves real work |
 | Children's learning bundle | US$5–15 | Requires content and quality review |
 
-## Economics by category — what we know and what still matters
+## Economics by category — current evidence
 
 ### Invitations / Celebrations
 
@@ -103,7 +103,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 
 - Unit prices are generally low, making catalogue efficiency and repeat purchase important.
 - Original hand-drawn work has a very different cost structure from high-volume/reused-asset models.
-- For an original hand-drawn model, the critical metric is **credible pages/products per hour** while maintaining quality and originality.
+- A relevant production metric for an original hand-drawn model is **credible pages/products per hour** while maintaining quality and originality.
 
 ## Economics not yet measured
 
@@ -124,7 +124,7 @@ These were proposed before deeper market research and remain hypotheses, not obs
 
 - Price alone does not determine viability; reusability, repeat purchase and bundling also affect the economics of low-price products.
 - Café screening prices are higher than several low-price printable categories measured here; production effort remains unmeasured.
-- Invitations may improve economics through coordinated families/bundles rather than generic single invites.
+- Coordinated invitation families/bundles show higher observed price points than several generic single-invitation searches in the current screening.
 - Bundle economics and QA effort for bilingual learning are not yet quantified.
 - Catholic includes simple single-resource formats and larger bundles; comparative demand/value evidence remains incomplete.
 - Colouring economics vary by production model; realistic throughput for original hand-drawn work is not yet measured.
