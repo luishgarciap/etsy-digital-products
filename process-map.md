@@ -1,35 +1,81 @@
-# Process Map & BoK Traceability
+# Process Map and Traceability
 
-[Home](README.md) · [Process map](process-map.md) · [References](references.md)
+[Home](README.md) · [Process](process-map.md) · [Platform baseline](knowledge/platform-baseline.md) · [Economics baseline](knowledge/economics-baseline.md) · [Iteration 01](discovery/iteration-01/opportunity-frame.md) · [Strategic decisions](decisions/strategic-decision-log.md) · [References](knowledge/references.md)
 
 ---
 
-This page is the control map for the knowledge base. Each methodology step has one primary artefact and a defined output. Evidence pages support **INVESTIGATE**; they do not make the final decision themselves.
+This page defines how the methodology maps to the BoK. Each iteration is a **closed decision case**: it starts with a frame and ends with an explicit iteration outcome.
 
-| Step | Business question | Primary artefact | Inputs | Output | Next step |
+## End-to-end traceability
+
+| Step | Primary artefact | Inputs | Key activity | Output | Feeds |
 |---|---|---|---|---|---|
-| **FRAME** | What exactly are we trying to determine now? | [Opportunity frame](discovery/opportunity-frame.md) | Current intent, prior learning, constraints | Current opportunity frame | INVESTIGATE |
-| **INVESTIGATE** | What does the evidence say? | [Market & demand](discovery/evidence/market-demand.md), [Competitors](discovery/evidence/competitors.md), [Economics](discovery/evidence/economics.md), [Platform feasibility](discovery/evidence/platform-feasibility.md) | Frame + external/internal evidence | Evidence base | SYNTHESISE / REFINE |
-| **SYNTHESISE / REFINE** | What does the combined evidence mean for the opportunity? | [Opportunity assessment](discovery/opportunity-assessment.md) | Evidence base | Refined opportunity set | COMPARE |
-| **COMPARE** | Which surviving alternatives are strongest relative to one another? | [Product comparison](discovery/product-comparison.md) | Opportunity assessment + evidence | Comparative view | DECIDE |
-| **DECIDE** | What are we going to test now? | [Pilot decision](discovery/pilot-decision.md) | Comparison + constraints | Pilot decision | IMPLEMENT / PILOT |
-| **IMPLEMENT / PILOT** | How will we test the decision with minimum useful exposure? | [Pilot plan](pilot/pilot-plan.md) | Pilot decision | Live experiment | MEASURE |
-| **MEASURE** | What actually happened? | [Measurement](pilot/measurement.md) | Etsy/shop results + operating data | Observed results | LEARN |
-| **LEARN** | What do the results mean? | [Learning review](pilot/learning-review.md) | Measurement + original hypotheses | Learning and recommendation | ITERATE / EXIT |
-| **ITERATE / EXIT** | Do we need another discovery cycle? | [Decision log](decisions/decision-log.md) | Learning review | New FRAME, operate/expand, pivot, pause or stop | FRAME or EXIT |
+| **FRAME** | `opportunity-frame.md` | Previous iteration outcome (if any), strategic decisions, shared knowledge | Define what must be decided now | Investigation question + candidate scope | INVESTIGATE |
+| **INVESTIGATE** | `market-demand.md` | Opportunity frame | Search demand, supply, buyer-intent evidence | Market evidence | SYNTHESISE |
+|  | `competitors.md` | Opportunity frame + market evidence | Shops, offers, reviews, gaps | Competitor/customer evidence | SYNTHESISE |
+|  | `product-economics.md` | Opportunity frame + economics baseline + observed prices | Apply fees, price and production assumptions | Candidate economics | SYNTHESISE |
+| **SYNTHESISE / REFINE** | `opportunity-assessment.md` | All investigation artefacts + platform baseline | Integrate evidence and narrow/redefine opportunities | Refined candidate set | COMPARE |
+| **COMPARE** | `product-comparison.md` | Opportunity assessment | Compare candidates on common decision criteria | Comparison + ranking | DECIDE |
+| **DECIDE** | `pilot-decision.md` | Product comparison | Select primary/backup candidates and test scope | Approved pilot decision | PILOT |
+| **IMPLEMENT / PILOT** | `pilot-plan.md` | Pilot decision + platform/economic baselines | Create/publish controlled test | Live pilot | MEASURE |
+| **MEASURE** | `measurement.md` | Pilot plan + Etsy results | Record observed behaviour and economics | Results | LEARN |
+| **LEARN** | `learning-review.md` | Measurement + original hypotheses | Interpret what changed | Learning conclusions | OUTCOME |
+| **ITERATE / EXIT** | `iteration-outcome.md` | Learning review | Decide next business action | New iteration frame / operate / pivot / stop | Next cycle or operations |
 
-## Control rule
+## Iteration boundary
 
-A document should not silently change role. If evidence changes the opportunity, the evidence remains in the investigation artefact and the conclusion is recorded in **Opportunity assessment**. If the comparison changes, the selected pilot is still recorded separately in **Pilot decision**.
+An iteration is complete only when `iteration-outcome.md` has been written.
 
-That preserves the audit trail:
+If the outcome is **another discovery iteration**, the next `opportunity-frame.md` is a new artefact. It is informed by the previous:
 
-> **Question → Evidence → Assessment → Comparison → Decision → Pilot → Results → Learning → Next decision**
+```text
+opportunity-assessment
+        +
+pilot-decision
+        +
+measurement
+        +
+learning-review
+        +
+iteration-outcome
+        ↓
+NEXT opportunity-frame
+```
 
-## Current cycle
+The next frame is **not a copy** of the previous assessment. It states the new decision question after incorporating what has been learned.
 
-**Cycle:** First discovery cycle  
-**Current step:** FRAME → INVESTIGATE  
-**Current frame:** [Opportunity frame](discovery/opportunity-frame.md)  
-**Current evidence:** [Market & demand](discovery/evidence/market-demand.md), [Competitors](discovery/evidence/competitors.md), [Economics](discovery/evidence/economics.md), [Platform feasibility](discovery/evidence/platform-feasibility.md)  
-**Next decision gate:** Update [Opportunity assessment](discovery/opportunity-assessment.md) after official Marketplace Insights and review research.
+## Shared knowledge vs iteration evidence
+
+```text
+knowledge/
+    platform-baseline.md
+    economics-baseline.md
+    references.md
+             │
+             │ reused by
+             ▼
+discovery/iteration-01/
+             │
+             ▼
+discovery/iteration-02/
+             │
+             ▼
+future iterations
+```
+
+A baseline is kept outside an iteration only when it remains useful regardless of which product is being evaluated.
+
+Examples:
+
+- Etsy listing fee → shared economics baseline.
+- Brazil uses Etsy Payments through Payoneer → shared platform baseline.
+- Expected margin for a specific matcha-menu product → Iteration 01 product economics.
+- Customer complaints about a specific invitation format → Iteration 01 competitor evidence.
+
+## Governance rule
+
+`decisions/strategic-decision-log.md` contains only project-wide decisions. Product-specific decisions remain inside the iteration that produced them.
+
+---
+
+**Iteration 01:** [Start with the opportunity frame →](discovery/iteration-01/opportunity-frame.md)
